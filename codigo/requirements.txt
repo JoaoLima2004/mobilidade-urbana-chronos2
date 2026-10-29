@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+matplotlib>=3.9          # boxplot(tick_labels=...) exige 3.9+
+pyarrow>=14          # opcional: sem ele o pipeline grava CSV no lugar de Parquet
+torch>=2.1           # só para o Chronos-2
+chronos-forecasting>=2.0
