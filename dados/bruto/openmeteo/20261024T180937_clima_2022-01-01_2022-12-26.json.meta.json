@@ -1,0 +1,9 @@
+{
+  "fonte": "openmeteo",
+  "arquivo": "20261024T180937_clima_2022-01-01_2022-12-26.json",
+  "bytes": 268001,
+  "sha256": "a3cc1bc0369ce26352be1e7dfc998f7f2312cfaeee92c0135cd53470fd139395",
+  "coletado_em": "2026-10-24T18:09:37",
+  "lat": -23.5505,
+  "lon": -46.6333
+}

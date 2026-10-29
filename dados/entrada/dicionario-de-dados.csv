@@ -1,0 +1,8 @@
+Coluna;Conteúdo;Formato
+data;Data e horário da coleta do dado;dd/mm/aaa hh:mm
+corredor;Nome do corredor monitorado;texto
+sentido;Identificação da direção monitorada do corredor;texto
+expressa;"Identificação se a via é expressa, ""E"" para expressa, em branco para não expressa";Alfabético: uma letra
+descricao;Detalhamento do trecho monitorado da via;texto
+tamanho;Medida em metros do trecho em lentidão;numérico
+nome_regiao;Identificação das 5 regiões da cidade de São Paulo: Centro, Leste, Norte, Oeste e Sul;texto

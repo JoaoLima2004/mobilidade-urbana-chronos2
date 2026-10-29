@@ -1,0 +1,18 @@
+{
+  "fonte": "cet_lentidao_csv",
+  "arquivo": "20261024T181310_lentidaotrechos2022.csv",
+  "bytes": 17156410,
+  "sha256": "9c8a2cec72b8c1506dbbdabb90ad93911ba8e1fef6a67f59327961f5ec250f77",
+  "coletado_em": "2026-10-24T18:13:10",
+  "origem": "dados\\entrada\\lentidaotrechos2022.csv",
+  "n_registros": 155301,
+  "colunas": [
+    "data",
+    "corredor",
+    "sentido",
+    "expressa",
+    "descricao",
+    "tamanho",
+    "nome_regiao"
+  ]
+}
