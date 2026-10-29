@@ -1,0 +1,141 @@
+series_id,modelo,MAE,MASE
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",Chronos-2,0.036419511763556366,0.9059906784081445
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",Ingenuo,0.04677380952380953,1.1648814741054265
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",SN_diario(m=24),0.05683928571428571,1.41608515352096
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",SN_semanal(m=168),0.043022321428571424,1.0703225986570797
+"Atilio Fontana, Pte | Interior/Capital",Chronos-2,0.08247128534795982,1.5768354310744128
+"Atilio Fontana, Pte | Interior/Capital",Ingenuo,0.09821428571428571,1.865087188402269
+"Atilio Fontana, Pte | Interior/Capital",SN_diario(m=24),0.09970238095238095,1.9013667451699356
+"Atilio Fontana, Pte | Interior/Capital",SN_semanal(m=168),0.11011904761904763,2.098036534005289
+"Bandeirantes, Av dos | Imigrantes/Marginal",Chronos-2,0.44607577429995654,0.9386653429888826
+"Bandeirantes, Av dos | Imigrantes/Marginal",Ingenuo,0.4510639880952381,0.952299473811065
+"Bandeirantes, Av dos | Imigrantes/Marginal",SN_diario(m=24),0.6383824404761905,1.3452582563928572
+"Bandeirantes, Av dos | Imigrantes/Marginal",SN_semanal(m=168),0.46610267857142856,0.9804584977419445
+"Bandeirantes, Av dos | Marginal/Imigrantes",Chronos-2,0.2668682549131059,0.7658965960374351
+"Bandeirantes, Av dos | Marginal/Imigrantes",Ingenuo,0.3223363095238096,0.9252594021408014
+"Bandeirantes, Av dos | Marginal/Imigrantes",SN_diario(m=24),0.3686309523809524,1.0589519490201924
+"Bandeirantes, Av dos | Marginal/Imigrantes",SN_semanal(m=168),0.18708333333333332,0.5388403762777813
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,Chronos-2,0.026406405465499987,0.5582540041536077
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,Ingenuo,0.030450892857142857,0.6402045506131333
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,SN_diario(m=24),0.10281696428571428,2.193510962996624
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,SN_semanal(m=168),0.017322916666666667,0.36750545939945134
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,Chronos-2,0.02290753962228163,0.6120664743825909
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,Ingenuo,0.02217261904761905,0.5925936126078201
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,SN_diario(m=24),0.030148809523809522,0.8046518998380882
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,SN_semanal(m=168),0.05925595238095238,1.5546193521011922
+"Cidade Universitária, Pt | PanAmericana/USP",Chronos-2,0.04676134465142553,1.1597622332235349
+"Cidade Universitária, Pt | PanAmericana/USP",Ingenuo,0.04092857142857143,1.0042584246082427
+"Cidade Universitária, Pt | PanAmericana/USP",SN_diario(m=24),0.054172619047619046,1.3660963265977593
+"Cidade Universitária, Pt | PanAmericana/USP",SN_semanal(m=168),0.05525,1.3541000500574298
+Ferradura | unico//,Chronos-2,0.009020367132117306,0.8128092239691238
+Ferradura | unico//,Ingenuo,0.008928571428571428,0.8046572753044998
+Ferradura | unico//,SN_diario(m=24),0.010714285714285714,0.9632094298796378
+Ferradura | unico//,SN_semanal(m=168),0.015476190476190477,1.389896728844306
+"Francisco Matarazzo, Av | Bairro/Centro",Chronos-2,0.2428021068711366,2.2826190330127925
+"Francisco Matarazzo, Av | Bairro/Centro",Ingenuo,0.21933035714285715,2.0956524960610237
+"Francisco Matarazzo, Av | Bairro/Centro",SN_diario(m=24),0.21055059523809527,1.9613099354922674
+"Francisco Matarazzo, Av | Bairro/Centro",SN_semanal(m=168),0.2628125,2.528493803377656
+"Francisco Matarazzo, Av | Centro/Bairro",Chronos-2,0.07316295658304754,0.936107605965976
+"Francisco Matarazzo, Av | Centro/Bairro",Ingenuo,0.07867559523809524,1.0015340393785515
+"Francisco Matarazzo, Av | Centro/Bairro",SN_diario(m=24),0.11579910714285714,1.4960009761698605
+"Francisco Matarazzo, Av | Centro/Bairro",SN_semanal(m=168),0.09285267857142857,1.1896317193190218
+"Francisco Morato, Av Prof | Bairro/Centro",Chronos-2,0.09820351491753189,1.1209785811193975
+"Francisco Morato, Av Prof | Bairro/Centro",Ingenuo,0.14704315476190474,1.6795712430895908
+"Francisco Morato, Av Prof | Bairro/Centro",SN_diario(m=24),0.09350744047619046,1.0692292462835131
+"Francisco Morato, Av Prof | Bairro/Centro",SN_semanal(m=168),0.14254613095238095,1.6273308691501067
+"Interlagos, Av I | Bairro/Centro",Chronos-2,0.14840095355006908,0.7720364749332909
+"Interlagos, Av I | Bairro/Centro",Ingenuo,0.2538482142857143,1.3124861314119618
+"Interlagos, Av I | Bairro/Centro",SN_diario(m=24),0.24192708333333332,1.263667537571596
+"Interlagos, Av I | Bairro/Centro",SN_semanal(m=168),0.21896726190476193,1.1331622008083662
+"João Dias, Av | Bairro/Centro",Chronos-2,0.02713549904968767,0.4212637999376113
+"João Dias, Av | Bairro/Centro",Ingenuo,0.021979166666666668,0.3402715158420982
+"João Dias, Av | Bairro/Centro",SN_diario(m=24),0.05270238095238095,0.8200749027367358
+"João Dias, Av | Bairro/Centro",SN_semanal(m=168),0.03686011904761905,0.5715159799547301
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",Chronos-2,0.04935189988020631,0.5049190067763836
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",Ingenuo,0.026041666666666668,0.2659497210220973
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",SN_diario(m=24),0.06495535714285715,0.6708753079481949
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",SN_semanal(m=168),0.06799107142857143,0.6910417111576483
+"Jânio Quadros, Túnel | unico//",Chronos-2,0.042441208629159344,0.8936337601396459
+"Jânio Quadros, Túnel | unico//",Ingenuo,0.05355357142857143,1.1265871362038078
+"Jânio Quadros, Túnel | unico//",SN_diario(m=24),0.10219345238095238,2.143033757713404
+"Jânio Quadros, Túnel | unico//",SN_semanal(m=168),0.06894345238095238,1.454339036623259
+Ligação Leste-Oeste | Penha/Lapa,Chronos-2,0.14477879704375354,1.2202232045409136
+Ligação Leste-Oeste | Penha/Lapa,Ingenuo,0.18442708333333332,1.5550473534600022
+Ligação Leste-Oeste | Penha/Lapa,SN_diario(m=24),0.1531964285714286,1.2860514408529988
+Ligação Leste-Oeste | Penha/Lapa,SN_semanal(m=168),0.14048363095238098,1.184626842115221
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",Chronos-2,0.07970617247324083,1.7294173785765043
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",Ingenuo,0.10238095238095238,2.2279701695301233
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",SN_diario(m=24),0.14534077380952382,3.135051045945167
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",SN_semanal(m=168),0.1446875,3.121249634448076
+Marginal Pinheiros | Castelo/Interlagos,Chronos-2,0.4484073939678215,0.43497208611861465
+Marginal Pinheiros | Castelo/Interlagos,Ingenuo,0.49672619047619054,0.48368087357894923
+Marginal Pinheiros | Castelo/Interlagos,SN_diario(m=24),0.5168660714285714,0.4996452450851515
+Marginal Pinheiros | Castelo/Interlagos,SN_semanal(m=168),0.605297619047619,0.5874913718386388
+Marginal Pinheiros | Interlagos/Castelo,Chronos-2,0.7881171567113626,0.5968955945088201
+Marginal Pinheiros | Interlagos/Castelo,Ingenuo,0.9432708333333333,0.717553545311816
+Marginal Pinheiros | Interlagos/Castelo,SN_diario(m=24),0.7475669642857143,0.5654121158617581
+Marginal Pinheiros | Interlagos/Castelo,SN_semanal(m=168),1.1812053571428573,0.8943150921613977
+Marginal Tietê - Pista Central | Castelo/A.Senna,Chronos-2,1.2620059236649956,2.4431221769002067
+Marginal Tietê - Pista Central | Castelo/A.Senna,Ingenuo,1.4411324404761905,2.8170750031823575
+Marginal Tietê - Pista Central | Castelo/A.Senna,SN_diario(m=24),1.1358080357142857,2.234073447642699
+Marginal Tietê - Pista Central | Castelo/A.Senna,SN_semanal(m=168),1.1272708333333334,2.189289485356169
+Marginal Tietê | A.Senna/Castelo Branco,Chronos-2,1.2401701995872316,0.9659182235448751
+Marginal Tietê | A.Senna/Castelo Branco,Ingenuo,1.1621994047619049,0.9077501917610856
+Marginal Tietê | A.Senna/Castelo Branco,SN_diario(m=24),1.5528764880952384,1.2078953543031268
+Marginal Tietê | A.Senna/Castelo Branco,SN_semanal(m=168),1.5113511904761905,1.171592710032639
+Marginal Tietê | Castelo/A.Senna,Chronos-2,2.103173296062719,1.2244020032829976
+Marginal Tietê | Castelo/A.Senna,Ingenuo,2.5273348214285716,1.4681983370878129
+Marginal Tietê | Castelo/A.Senna,SN_diario(m=24),2.123385416666667,1.2492215763439145
+Marginal Tietê | Castelo/A.Senna,SN_semanal(m=168),2.1070297619047618,1.2192561584616208
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,Chronos-2,0.14200041971373417,1.5511597107381754
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,Ingenuo,0.1804107142857143,1.960527250612645
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,SN_diario(m=24),0.14058333333333334,1.5408550392996219
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,SN_semanal(m=168),0.16615178571428574,1.8228447311511826
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,Chronos-2,0.012358197736598199,0.13126075058916248
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,Ingenuo,0.011875,0.12591803452963385
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,SN_diario(m=24),0.011875,0.12591803452963385
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,SN_semanal(m=168),0.011607142857142858,0.12307777811167217
+"Paulina, Vd Dona | //unico",Chronos-2,0.011238866815055234,0.8544486720470786
+"Paulina, Vd Dona | //unico",Ingenuo,0.015416666666666667,1.1659920081787045
+"Paulina, Vd Dona | //unico",SN_diario(m=24),0.022032738095238095,1.6758731243490737
+"Paulina, Vd Dona | //unico",SN_semanal(m=168),0.010071428571428573,0.7652210661347525
+"Pompeia, Vd | Marginal/Pompeia",Chronos-2,0.10181414290397826,2.1479758643921847
+"Pompeia, Vd | Marginal/Pompeia",Ingenuo,0.146875,3.0456705332778933
+"Pompeia, Vd | Marginal/Pompeia",SN_diario(m=24),0.12991071428571427,2.7873641448737794
+"Pompeia, Vd | Marginal/Pompeia",SN_semanal(m=168),0.12325892857142857,2.6332115334302273
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",Chronos-2,0.1433460938034668,0.8227959726673131
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",Ingenuo,0.15654761904761907,0.9024535226888233
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",SN_diario(m=24),0.2027425595238095,1.1613234479116652
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",SN_semanal(m=168),0.14598065476190478,0.8329725906338844
+"Republica da Armenia, Vd | único//",Chronos-2,0.037222574317517375,0.4786522374069974
+"Republica da Armenia, Vd | único//",Ingenuo,0.028125000000000004,0.36158976417204863
+"Republica da Armenia, Vd | único//",SN_diario(m=24),0.03958333333333334,0.5089637649584431
+"Republica da Armenia, Vd | único//",SN_semanal(m=168),0.03958333333333334,0.5086620804792538
+"Sebastião Camargo, Túnel | unico//",Chronos-2,0.10057146793861119,1.4362170982330889
+"Sebastião Camargo, Túnel | unico//",Ingenuo,0.10795535714285716,1.534736604992047
+"Sebastião Camargo, Túnel | unico//",SN_diario(m=24),0.11950297619047619,1.727586905740684
+"Sebastião Camargo, Túnel | unico//",SN_semanal(m=168),0.11392261904761905,1.623286413227609
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",Chronos-2,0.115552327899351,0.7318914417050856
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",Ingenuo,0.28510714285714284,1.8059702477909987
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",SN_diario(m=24),0.21270238095238095,1.3507176558869463
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",SN_semanal(m=168),0.1475892857142857,0.9352907168345725
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,Chronos-2,0.09518976557467665,0.72248450093097
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,Ingenuo,0.11750000000000001,0.8935239378208049
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,SN_diario(m=24),0.13870535714285714,1.0533019204407894
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,SN_semanal(m=168),0.07424702380952382,0.5644053108670739
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,Chronos-2,0.40403961835269414,0.9947864040101175
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,Ingenuo,0.3873095238095238,0.9572623762401203
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,SN_diario(m=24),0.49172023809523807,1.2116465488053858
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,SN_semanal(m=168),0.3732559523809524,0.9204117174227912
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,Chronos-2,0.736609445734393,1.1842913757129392
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,Ingenuo,0.8950386904761906,1.4377173494705284
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,SN_diario(m=24),1.0495982142857143,1.687907272878628
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,SN_semanal(m=168),0.7021145833333334,1.1294162000896304
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,Chronos-2,0.5376975746098018,0.8500640824246988
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,Ingenuo,0.8325282738095238,1.309180187186994
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,SN_diario(m=24),0.8055550595238096,1.2755470512444933
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,SN_semanal(m=168),0.49660119047619045,0.7871598438180778
+"Washington Luis, Av | Bairro/Centro",Chronos-2,0.17589724054808417,0.8674412251569176
+"Washington Luis, Av | Bairro/Centro",Ingenuo,0.3586994047619047,1.7625180325376082
+"Washington Luis, Av | Bairro/Centro",SN_diario(m=24),0.3065104166666667,1.5133895700342985
+"Washington Luis, Av | Bairro/Centro",SN_semanal(m=168),0.21455357142857143,1.0620633806815831

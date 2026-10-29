@@ -1,0 +1,37 @@
+{
+  "executado_em": "2026-10-24T18:29:07",
+  "dados_sinteticos": false,
+  "config": {
+    "input": "dados\\tratado\\series_horarias.csv",
+    "output": "resultados\\sens_fim_de_ano",
+    "col_timestamp": "timestamp",
+    "col_series": "series_id",
+    "col_target": "target",
+    "freq": "h",
+    "horizon": 24,
+    "n_windows": 14,
+    "stride": 24,
+    "season_daily": 24,
+    "season_weekly": 168,
+    "min_length_days": 30,
+    "max_gap_fill": 3,
+    "context_length": null,
+    "model_id": "amazon/chronos-2",
+    "device": "cpu",
+    "skip_chronos": false,
+    "demo": false,
+    "seed": 42,
+    "fim": "2023-12-29 23:00"
+  },
+  "python": "3.12.10",
+  "pandas": "3.1.0",
+  "numpy": "2.5.4",
+  "n_series": 35,
+  "periodo_dados": [
+    "2022-01-03 00:00:00",
+    "2023-12-29 19:00:00"
+  ],
+  "chronos_forecasting": "2.3.2",
+  "torch": "2.14.1+cpu",
+  "matplotlib": "3.11.2"
+}

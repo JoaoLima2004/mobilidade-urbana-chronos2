@@ -1,0 +1,55 @@
+﻿.\.venv\Scripts\python.exe : test_naive (tests.test_experimento.TestBaselines.test_naive) ... ok
+No linha:1 caractere:402
++ ... | Out-Null; .\.venv\Scripts\python.exe -m unittest -v *> resultados\e ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (test_naive (tes...t_naive) ... ok:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+test_seasonal_naive_repete_ultimo_ciclo (tests.test_experimento.TestBaselines.test_seasonal_naive_repete_ultimo_ciclo) 
+... ok
+test_demo_sem_chronos (tests.test_experimento.TestFluxoCompleto.test_demo_sem_chronos) ... ok
+test_origens_sem_sobreposicao_ate_o_fim (tests.test_experimento.TestJanelas.test_origens_sem_sobreposicao_ate_o_fim) 
+... ok
+test_mae_e_mase (tests.test_experimento.TestMetricas.test_mae_e_mase) ... ok
+test_mase_indefinido (tests.test_experimento.TestMetricas.test_mase_indefinido) ... ok
+test_extrair_registros_formatos (tests.test_pipeline.TestCetApi.test_extrair_registros_formatos) ... ok
+test_paginacao_e_cabecalho (tests.test_pipeline.TestCetApi.test_paginacao_e_cabecalho) ... ok
+test_sem_token_e_ano_fora_do_periodo (tests.test_pipeline.TestCetApi.test_sem_token_e_ano_fora_do_periodo) ... ok
+test_servidor_que_ignora_offset_nao_entra_em_loop 
+(tests.test_pipeline.TestCetApi.test_servidor_que_ignora_offset_nao_entra_em_loop) ... ok
+test_blocos_cobrem_o_intervalo (tests.test_pipeline.TestClimaCalendario.test_blocos_cobrem_o_intervalo) ... ok
+test_calendario (tests.test_pipeline.TestClimaCalendario.test_calendario) ... ok
+test_openmeteo_parse (tests.test_pipeline.TestClimaCalendario.test_openmeteo_parse) ... ok
+test_csv_latin1_ponto_e_virgula (tests.test_pipeline.TestCsv.test_csv_latin1_ponto_e_virgula) ... ok
+test_html_de_captcha_e_rejeitado (tests.test_pipeline.TestCsv.test_html_de_captcha_e_rejeitado) ... ok
+test_401_nao_repete_e_500_repete (tests.test_pipeline.TestHttp.test_401_nao_repete_e_500_repete) ... ok
+test_zip_filtra_sao_paulo_e_conta_por_dia (tests.test_pipeline.TestInfosiga.test_zip_filtra_sao_paulo_e_conta_por_dia) 
+... ok
+test_virgula_decimal_e_milhar (tests.test_pipeline.TestNumeros.test_virgula_decimal_e_milhar) ... ok
+test_log_ok_e_erro (tests.test_pipeline.TestRegistro.test_log_ok_e_erro) ... ok
+test_base_de_eventos_ausente_como_zero (tests.test_pipeline.TestSeries.test_base_de_eventos_ausente_como_zero) ... ok
+test_data_mais_hora_agregacao_e_qualidade (tests.test_pipeline.TestSeries.test_data_mais_hora_agregacao_e_qualidade) 
+... ok
+test_grade_regular_com_lacuna_e_covariaveis 
+(tests.test_pipeline.TestSeries.test_grade_regular_com_lacuna_e_covariaveis) ... ok
+test_selecao_por_dias_uteis (tests.test_pipeline.TestSeries.test_selecao_por_dias_uteis) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 2.834s
+
+OK
+[dados] registros lidos: 12960 | séries mantidas: 6 | descartadas: 0
+[exp] demo_0: 3 janelas avaliadas
+[exp] demo_1: 3 janelas avaliadas
+[exp] demo_2: 3 janelas avaliadas
+[exp] demo_3: 3 janelas avaliadas
+[exp] demo_4: 3 janelas avaliadas
+[exp] demo_5: 3 janelas avaliadas
+
+=== Resumo por modelo (média entre séries) ===
+           modelo  MAE_mean  MAE_median  MASE_mean  MASE_median  n_series  pct_series_vence_SN_diario
+SN_semanal(m=168)     0.910       0.891      0.613        0.602         6                     100.000
+  SN_diario(m=24)     1.570       1.575      1.060        1.069         6                         NaN
+          Ingenuo     1.813       1.857      1.221        1.255         6                       0.000
+
+ATENÇÃO: dados SINTÉTICOS – estes números só validam o código, não são resultado científico.

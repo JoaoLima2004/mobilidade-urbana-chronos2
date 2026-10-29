@@ -1,0 +1,22 @@
+{
+  "series_zeradas_no_teste": [
+    "João Dias, Av | Bairro/Centro",
+    "Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",
+    "Republica da Armenia, Vd | único//"
+  ],
+  "n_series": 32,
+  "MAE_medio": {
+    "Chronos-2": 0.3289,
+    "Ingenuo": 0.5296,
+    "SN_diario(m=24)": 0.465,
+    "SN_semanal(m=168)": 0.4225
+  },
+  "MASE_medio": {
+    "Chronos-2": 1.0505,
+    "Ingenuo": 1.6617,
+    "SN_diario(m=24)": 1.4602,
+    "SN_semanal(m=168)": 1.2198
+  },
+  "chronos_vence_SN_diario": 31,
+  "chronos_vence_SN_semanal": 27
+}

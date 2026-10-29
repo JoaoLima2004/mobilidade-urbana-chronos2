@@ -1,0 +1,1961 @@
+series_id,janela,origem,modelo,MAE,MASE
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",0,2023-12-02,SN_diario(m=24),0.0,0.0
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",0,2023-12-02,Ingenuo,0.0,0.0
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",0,2023-12-02,Chronos-2,0.0005975159195562204,0.014849584688493084
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",1,2023-12-03,Ingenuo,0.0,0.0
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",1,2023-12-03,Chronos-2,0.0005914741195738316,0.014720798125960072
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",2,2023-12-04,SN_diario(m=24),0.09000000000000001,2.243199961469459
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",2,2023-12-04,SN_semanal(m=168),0.09000000000000001,2.243199961469459
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",2,2023-12-04,Ingenuo,0.09000000000000001,2.243199961469459
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",2,2023-12-04,Chronos-2,0.050189373232424256,1.2509422233461152
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",3,2023-12-05,SN_diario(m=24),0.010708333333333325,0.266419930149662
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",3,2023-12-05,SN_semanal(m=168),0.09370833333333334,2.331433552165721
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",3,2023-12-05,Ingenuo,0.09370833333333334,2.331433552165721
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",3,2023-12-05,Chronos-2,0.010770322445780032,0.26796219956675993
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",4,2023-12-06,SN_diario(m=24),0.012250000000000002,0.3050995388595209
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",4,2023-12-06,SN_semanal(m=168),0.051875000000000004,1.2920031492520525
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",4,2023-12-06,Ingenuo,0.08854166666666667,2.2052262587635436
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",4,2023-12-06,Chronos-2,0.009319347733010845,0.23210846496433712
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",5,2023-12-07,SN_diario(m=24),0.03145833333333333,0.7842903589914244
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",5,2023-12-07,SN_semanal(m=168),0.08625,2.1503060173672166
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",5,2023-12-07,Ingenuo,0.06375,1.5893566215322907
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",5,2023-12-07,Chronos-2,0.031317526722947756,0.780779897523631
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",6,2023-12-08,SN_diario(m=24),0.05306249999999999,1.3233169729619656
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",6,2023-12-08,SN_semanal(m=168),0.0463125,1.154979831525108
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",6,2023-12-08,Ingenuo,0.0463125,1.154979831525108
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",6,2023-12-08,Chronos-2,0.04151034360503158,1.0352196418567066
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",7,2023-12-09,SN_diario(m=24),0.0463125,1.154442779805648
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",7,2023-12-09,Ingenuo,0.0,0.0
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",7,2023-12-09,Chronos-2,0.00048391008749604225,0.012062542652306081
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",8,2023-12-10,Ingenuo,0.0,0.0
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",8,2023-12-10,Chronos-2,0.0006527911561230818,0.016268671471595244
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",9,2023-12-11,SN_diario(m=24),0.07125,1.7782230451213634
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",9,2023-12-11,SN_semanal(m=168),0.04125,1.0294975524386842
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",9,2023-12-11,Ingenuo,0.07125,1.7782230451213634
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",9,2023-12-11,Chronos-2,0.04125934602692723,1.0297308060592079
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",10,2023-12-12,SN_diario(m=24),0.03,0.7478916438109495
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",10,2023-12-12,SN_semanal(m=168),0.007541666666666655,0.18801164934691897
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",10,2023-12-12,Ingenuo,0.10124999999999999,2.5241342978619548
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",10,2023-12-12,Chronos-2,0.020986903471251327,0.5231976578538626
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",11,2023-12-13,SN_diario(m=24),0.02625,0.6546412978359984
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",11,2023-12-13,SN_semanal(m=168),0.027708333333333324,0.691010258826887
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",11,2023-12-13,Ingenuo,0.075,1.8704037081028526
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",11,2023-12-13,Chronos-2,0.022345645738144713,0.557271715314381
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",12,2023-12-14,SN_diario(m=24),0.023916666666666666,0.5967453762629601
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",12,2023-12-14,SN_semanal(m=168),0.03983333333333334,0.9938825430442333
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",12,2023-12-14,Ingenuo,0.09466666666666666,2.3620304788666293
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",12,2023-12-14,Chronos-2,0.01733281338959932,0.4324714807472663
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",13,2023-12-15,SN_diario(m=24),0.03054166666666666,0.7624845487339977
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",13,2023-12-15,SN_semanal(m=168),0.04010416666666667,1.0012160684262934
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",13,2023-12-15,Ingenuo,0.06420833333333334,1.602985933968746
+"Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal",13,2023-12-15,Chronos-2,0.02637837609524528,0.6585463855929748
+"Atilio Fontana, Pte | Interior/Capital",0,2023-12-02,SN_diario(m=24),0.16666666666666666,3.0571572746395423
+"Atilio Fontana, Pte | Interior/Capital",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",0,2023-12-02,Ingenuo,0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",0,2023-12-02,Chronos-2,0.00037467510749896366,0.006872644383100856
+"Atilio Fontana, Pte | Interior/Capital",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",1,2023-12-03,Ingenuo,0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",1,2023-12-03,Chronos-2,0.0005702003836631775,0.010427374617287594
+"Atilio Fontana, Pte | Interior/Capital",2,2023-12-04,SN_diario(m=24),0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",2,2023-12-04,SN_semanal(m=168),0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",2,2023-12-04,Ingenuo,0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",2,2023-12-04,Chronos-2,0.05109176676099499,0.9357100957035019
+"Atilio Fontana, Pte | Interior/Capital",3,2023-12-05,SN_diario(m=24),0.13541666666666666,2.4837305910042726
+"Atilio Fontana, Pte | Interior/Capital",3,2023-12-05,SN_semanal(m=168),0.13541666666666666,2.4837305910042726
+"Atilio Fontana, Pte | Interior/Capital",3,2023-12-05,Ingenuo,0.13541666666666666,2.4837305910042726
+"Atilio Fontana, Pte | Interior/Capital",3,2023-12-05,Chronos-2,0.13578842487186193,2.490549155139906
+"Atilio Fontana, Pte | Interior/Capital",4,2023-12-06,SN_diario(m=24),0.09375,1.7157510558251743
+"Atilio Fontana, Pte | Interior/Capital",4,2023-12-06,SN_semanal(m=168),0.14583333333333334,2.6689460868391603
+"Atilio Fontana, Pte | Interior/Capital",4,2023-12-06,Ingenuo,0.14583333333333334,2.6689460868391603
+"Atilio Fontana, Pte | Interior/Capital",4,2023-12-06,Chronos-2,0.09123602299951017,1.6697418964341275
+"Atilio Fontana, Pte | Interior/Capital",5,2023-12-07,SN_diario(m=24),0.07291666666666667,1.333067822945707
+"Atilio Fontana, Pte | Interior/Capital",5,2023-12-07,SN_semanal(m=168),0.041666666666666664,0.7617530416832611
+"Atilio Fontana, Pte | Interior/Capital",5,2023-12-07,Ingenuo,0.19791666666666666,3.6183269479954903
+"Atilio Fontana, Pte | Interior/Capital",5,2023-12-07,Chronos-2,0.11714883948055406,2.1417236352954276
+"Atilio Fontana, Pte | Interior/Capital",6,2023-12-08,SN_diario(m=24),0.19791666666666666,3.6165555387604056
+"Atilio Fontana, Pte | Interior/Capital",6,2023-12-08,SN_semanal(m=168),0.16666666666666666,3.045520453692973
+"Atilio Fontana, Pte | Interior/Capital",6,2023-12-08,Ingenuo,0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",6,2023-12-08,Chronos-2,0.07543920415143172,1.378509835521031
+"Atilio Fontana, Pte | Interior/Capital",7,2023-12-09,SN_diario(m=24),0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",7,2023-12-09,Ingenuo,0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",7,2023-12-09,Chronos-2,0.0004347722666958968,0.007914238696104355
+"Atilio Fontana, Pte | Interior/Capital",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",8,2023-12-10,Ingenuo,0.0,0.0
+"Atilio Fontana, Pte | Interior/Capital",8,2023-12-10,Chronos-2,0.0004568183794617653,0.008327758889176183
+"Atilio Fontana, Pte | Interior/Capital",9,2023-12-11,SN_diario(m=24),0.19791666666666666,3.6132937579702964
+"Atilio Fontana, Pte | Interior/Capital",9,2023-12-11,SN_semanal(m=168),0.19791666666666666,3.6132937579702964
+"Atilio Fontana, Pte | Interior/Capital",9,2023-12-11,Ingenuo,0.19791666666666666,3.6132937579702964
+"Atilio Fontana, Pte | Interior/Capital",9,2023-12-11,Chronos-2,0.19248787709511817,3.5141822894791277
+"Atilio Fontana, Pte | Interior/Capital",10,2023-12-12,SN_diario(m=24),0.041666666666666664,0.7577981753017621
+"Atilio Fontana, Pte | Interior/Capital",10,2023-12-12,SN_semanal(m=168),0.10416666666666667,1.8944954382544055
+"Atilio Fontana, Pte | Interior/Capital",10,2023-12-12,Ingenuo,0.23958333333333334,4.357339507985133
+"Atilio Fontana, Pte | Interior/Capital",10,2023-12-12,Chronos-2,0.09528101701289415,1.7328907399984164
+"Atilio Fontana, Pte | Interior/Capital",11,2023-12-13,SN_diario(m=24),0.09433333333333334,1.7162619035761912
+"Atilio Fontana, Pte | Interior/Capital",11,2023-12-13,SN_semanal(m=168),0.08341666666666665,1.5176485560775328
+"Atilio Fontana, Pte | Interior/Capital",11,2023-12-13,Ingenuo,0.14525,2.6426188144287113
+"Atilio Fontana, Pte | Interior/Capital",11,2023-12-13,Chronos-2,0.04521542680698137,0.8226308955769589
+"Atilio Fontana, Pte | Interior/Capital",12,2023-12-14,SN_diario(m=24),0.17766666666666667,3.22902286066903
+"Atilio Fontana, Pte | Interior/Capital",12,2023-12-14,SN_semanal(m=168),0.125,2.2718265905269908
+"Atilio Fontana, Pte | Interior/Capital",12,2023-12-14,Ingenuo,0.3229166666666667,5.868885358861394
+"Atilio Fontana, Pte | Interior/Capital",12,2023-12-14,Chronos-2,0.22992648215343556,4.178824768180037
+"Atilio Fontana, Pte | Interior/Capital",13,2023-12-15,SN_diario(m=24),0.14583333333333334,2.6418925377660436
+"Atilio Fontana, Pte | Interior/Capital",13,2023-12-15,SN_semanal(m=168),0.17708333333333334,3.2080123672873384
+"Atilio Fontana, Pte | Interior/Capital",13,2023-12-15,Ingenuo,0.23958333333333334,4.340252026329929
+"Atilio Fontana, Pte | Interior/Capital",13,2023-12-15,Chronos-2,0.11739012218701343,2.1266200307198733
+"Bandeirantes, Av dos | Imigrantes/Marginal",0,2023-12-02,SN_diario(m=24),1.0705833333333334,2.276170022437521
+"Bandeirantes, Av dos | Imigrantes/Marginal",0,2023-12-02,SN_semanal(m=168),0.0615,0.1307553106996879
+"Bandeirantes, Av dos | Imigrantes/Marginal",0,2023-12-02,Ingenuo,0.0615,0.1307553106996879
+"Bandeirantes, Av dos | Imigrantes/Marginal",0,2023-12-02,Chronos-2,0.0641178906361262,0.13632121482171206
+"Bandeirantes, Av dos | Imigrantes/Marginal",1,2023-12-03,SN_diario(m=24),0.10933333333333334,0.23202844352743957
+"Bandeirantes, Av dos | Imigrantes/Marginal",1,2023-12-03,SN_semanal(m=168),0.04783333333333334,0.10151244404325481
+"Bandeirantes, Av dos | Imigrantes/Marginal",1,2023-12-03,Ingenuo,0.2801666666666667,0.5945728865390638
+"Bandeirantes, Av dos | Imigrantes/Marginal",1,2023-12-03,Chronos-2,0.028357641826073327,0.060180910015357435
+"Bandeirantes, Av dos | Imigrantes/Marginal",2,2023-12-04,SN_diario(m=24),1.0724166666666666,2.2784052497066485
+"Bandeirantes, Av dos | Imigrantes/Marginal",2,2023-12-04,SN_semanal(m=168),1.0245833333333334,2.1767808334092194
+"Bandeirantes, Av dos | Imigrantes/Marginal",2,2023-12-04,Ingenuo,1.0245833333333334,2.1767808334092194
+"Bandeirantes, Av dos | Imigrantes/Marginal",2,2023-12-04,Chronos-2,1.02059740682443,2.168312524248137
+"Bandeirantes, Av dos | Imigrantes/Marginal",3,2023-12-05,SN_diario(m=24),1.133333333333333,2.403423957550177
+"Bandeirantes, Av dos | Imigrantes/Marginal",3,2023-12-05,SN_semanal(m=168),1.985,4.209526372709208
+"Bandeirantes, Av dos | Imigrantes/Marginal",3,2023-12-05,Ingenuo,2.0941666666666667,4.4410326509732325
+"Bandeirantes, Av dos | Imigrantes/Marginal",3,2023-12-05,Chronos-2,1.2985176373521485,2.7537250578649473
+"Bandeirantes, Av dos | Imigrantes/Marginal",4,2023-12-06,SN_diario(m=24),0.7219583333333333,1.5279662886860526
+"Bandeirantes, Av dos | Imigrantes/Marginal",4,2023-12-06,SN_semanal(m=168),1.4694583333333335,3.109989444398397
+"Bandeirantes, Av dos | Imigrantes/Marginal",4,2023-12-06,Ingenuo,1.4694583333333335,3.109989444398397
+"Bandeirantes, Av dos | Imigrantes/Marginal",4,2023-12-06,Chronos-2,0.39500476119915645,0.8359955569681476
+"Bandeirantes, Av dos | Imigrantes/Marginal",5,2023-12-07,SN_diario(m=24),0.4973958333333333,1.0519045751192986
+"Bandeirantes, Av dos | Imigrantes/Marginal",5,2023-12-07,SN_semanal(m=168),1.4059791666666666,2.9733982852806746
+"Bandeirantes, Av dos | Imigrantes/Marginal",5,2023-12-07,Ingenuo,1.4059791666666666,2.9733982852806746
+"Bandeirantes, Av dos | Imigrantes/Marginal",5,2023-12-07,Chronos-2,0.6378287477393946,1.3488954529300416
+"Bandeirantes, Av dos | Imigrantes/Marginal",6,2023-12-08,SN_diario(m=24),0.8472291666666667,1.7916077975967784
+"Bandeirantes, Av dos | Imigrantes/Marginal",6,2023-12-08,SN_semanal(m=168),0.586,1.2391950262080356
+"Bandeirantes, Av dos | Imigrantes/Marginal",6,2023-12-08,Ingenuo,0.6554166666666666,1.385988179909869
+"Bandeirantes, Av dos | Imigrantes/Marginal",6,2023-12-08,Chronos-2,0.3332619891067346,0.7047382241045428
+"Bandeirantes, Av dos | Imigrantes/Marginal",7,2023-12-09,SN_diario(m=24),0.6554166666666666,1.3844270356980992
+"Bandeirantes, Av dos | Imigrantes/Marginal",7,2023-12-09,SN_semanal(m=168),0.0615,0.12990555020282227
+"Bandeirantes, Av dos | Imigrantes/Marginal",7,2023-12-09,Ingenuo,0.0,0.0
+"Bandeirantes, Av dos | Imigrantes/Marginal",7,2023-12-09,Chronos-2,0.004263835648695628,0.009006437657206719
+"Bandeirantes, Av dos | Imigrantes/Marginal",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Bandeirantes, Av dos | Imigrantes/Marginal",8,2023-12-10,SN_semanal(m=168),0.04783333333333334,0.1009824291394126
+"Bandeirantes, Av dos | Imigrantes/Marginal",8,2023-12-10,Ingenuo,0.0,0.0
+"Bandeirantes, Av dos | Imigrantes/Marginal",8,2023-12-10,Chronos-2,0.00556839257478714,0.011755605754784815
+"Bandeirantes, Av dos | Imigrantes/Marginal",9,2023-12-11,SN_diario(m=24),0.8359583333333335,1.7673278965956263
+"Bandeirantes, Av dos | Imigrantes/Marginal",9,2023-12-11,SN_semanal(m=168),0.18862500000000004,0.3987785170656632
+"Bandeirantes, Av dos | Imigrantes/Marginal",9,2023-12-11,Ingenuo,0.8359583333333335,1.7673278965956263
+"Bandeirantes, Av dos | Imigrantes/Marginal",9,2023-12-11,Chronos-2,0.153913986514012,0.3253947848785801
+"Bandeirantes, Av dos | Imigrantes/Marginal",10,2023-12-12,SN_diario(m=24),0.5802916666666668,1.2254804924820157
+"Bandeirantes, Av dos | Imigrantes/Marginal",10,2023-12-12,SN_semanal(m=168),0.8458333333333332,1.7862607882088686
+"Bandeirantes, Av dos | Imigrantes/Marginal",10,2023-12-12,Ingenuo,1.4162499999999998,2.990886905971401
+"Bandeirantes, Av dos | Imigrantes/Marginal",10,2023-12-12,Chronos-2,0.523876254359881,1.1063404268415262
+"Bandeirantes, Av dos | Imigrantes/Marginal",11,2023-12-13,SN_diario(m=24),0.7131249999999999,1.5055218003180941
+"Bandeirantes, Av dos | Imigrantes/Marginal",11,2023-12-13,SN_semanal(m=168),0.8496666666666668,1.7937832633413138
+"Bandeirantes, Av dos | Imigrantes/Marginal",11,2023-12-13,Ingenuo,0.703125,1.4844101887448347
+"Bandeirantes, Av dos | Imigrantes/Marginal",11,2023-12-13,Chronos-2,0.6246831876536211,1.3188068814089053
+"Bandeirantes, Av dos | Imigrantes/Marginal",12,2023-12-14,SN_diario(m=24),0.7647916666666669,1.6134448087350168
+"Bandeirantes, Av dos | Imigrantes/Marginal",12,2023-12-14,SN_semanal(m=168),0.6755625000000002,1.4252022558662596
+"Bandeirantes, Av dos | Imigrantes/Marginal",12,2023-12-14,Ingenuo,1.4679166666666668,3.096794367296902
+"Bandeirantes, Av dos | Imigrantes/Marginal",12,2023-12-14,Chronos-2,0.6189468768239023,1.3057629532586565
+"Bandeirantes, Av dos | Imigrantes/Marginal",13,2023-12-15,SN_diario(m=24),0.8023333333333335,1.6911793693019253
+"Bandeirantes, Av dos | Imigrantes/Marginal",13,2023-12-15,SN_semanal(m=168),0.24258333333333335,0.5113235504817101
+"Bandeirantes, Av dos | Imigrantes/Marginal",13,2023-12-15,Ingenuo,0.8051666666666666,1.6971515440584959
+"Bandeirantes, Av dos | Imigrantes/Marginal",13,2023-12-15,Chronos-2,0.5733039276699224,1.208425145178815
+"Bandeirantes, Av dos | Marginal/Imigrantes",0,2023-12-02,SN_diario(m=24),0.12187500000000001,0.3525636578690873
+"Bandeirantes, Av dos | Marginal/Imigrantes",0,2023-12-02,SN_semanal(m=168),0.12187500000000001,0.3525636578690873
+"Bandeirantes, Av dos | Marginal/Imigrantes",0,2023-12-02,Ingenuo,0.12187500000000001,0.3525636578690873
+"Bandeirantes, Av dos | Marginal/Imigrantes",0,2023-12-02,Chronos-2,0.12344745745261511,0.3571125099826256
+"Bandeirantes, Av dos | Marginal/Imigrantes",1,2023-12-03,SN_diario(m=24),0.21666666666666667,0.6273634251214053
+"Bandeirantes, Av dos | Marginal/Imigrantes",1,2023-12-03,SN_semanal(m=168),0.09479166666666668,0.2744714984906148
+"Bandeirantes, Av dos | Marginal/Imigrantes",1,2023-12-03,Ingenuo,0.5552083333333334,1.6076187768736012
+"Bandeirantes, Av dos | Marginal/Imigrantes",1,2023-12-03,Chronos-2,0.6020656069119772,1.743295113692749
+"Bandeirantes, Av dos | Marginal/Imigrantes",2,2023-12-04,SN_diario(m=24),0.09479166666666668,0.2746183174708462
+"Bandeirantes, Av dos | Marginal/Imigrantes",2,2023-12-04,SN_semanal(m=168),0.0,0.0
+"Bandeirantes, Av dos | Marginal/Imigrantes",2,2023-12-04,Ingenuo,0.0,0.0
+"Bandeirantes, Av dos | Marginal/Imigrantes",2,2023-12-04,Chronos-2,0.0040504224598407745,0.011734366955262587
+"Bandeirantes, Av dos | Marginal/Imigrantes",3,2023-12-05,SN_diario(m=24),0.3604583333333333,1.0453602429203064
+"Bandeirantes, Av dos | Marginal/Imigrantes",3,2023-12-05,SN_semanal(m=168),0.3604583333333333,1.0453602429203064
+"Bandeirantes, Av dos | Marginal/Imigrantes",3,2023-12-05,Ingenuo,0.3604583333333333,1.0453602429203064
+"Bandeirantes, Av dos | Marginal/Imigrantes",3,2023-12-05,Chronos-2,0.3627774842480818,1.0520859805144165
+"Bandeirantes, Av dos | Marginal/Imigrantes",4,2023-12-06,SN_diario(m=24),0.3604583333333333,1.0452924107061827
+"Bandeirantes, Av dos | Marginal/Imigrantes",4,2023-12-06,SN_semanal(m=168),0.0,0.0
+"Bandeirantes, Av dos | Marginal/Imigrantes",4,2023-12-06,Ingenuo,0.0,0.0
+"Bandeirantes, Av dos | Marginal/Imigrantes",4,2023-12-06,Chronos-2,0.06294991945226987,0.1825483474040639
+"Bandeirantes, Av dos | Marginal/Imigrantes",5,2023-12-07,SN_diario(m=24),0.51875,1.5042247745043653
+"Bandeirantes, Av dos | Marginal/Imigrantes",5,2023-12-07,SN_semanal(m=168),0.51875,1.5042247745043653
+"Bandeirantes, Av dos | Marginal/Imigrantes",5,2023-12-07,Ingenuo,0.51875,1.5042247745043653
+"Bandeirantes, Av dos | Marginal/Imigrantes",5,2023-12-07,Chronos-2,0.5197206417719523,1.5070393545535978
+"Bandeirantes, Av dos | Marginal/Imigrantes",6,2023-12-08,SN_diario(m=24),0.09687500000000003,0.2807075347236337
+"Bandeirantes, Av dos | Marginal/Imigrantes",6,2023-12-08,SN_semanal(m=168),0.5593750000000001,1.6208596359848522
+"Bandeirantes, Av dos | Marginal/Imigrantes",6,2023-12-08,Ingenuo,0.5593750000000001,1.6208596359848522
+"Bandeirantes, Av dos | Marginal/Imigrantes",6,2023-12-08,Chronos-2,0.4692177575081587,1.3596176511862395
+"Bandeirantes, Av dos | Marginal/Imigrantes",7,2023-12-09,SN_diario(m=24),0.5593750000000001,1.6225221259277638
+"Bandeirantes, Av dos | Marginal/Imigrantes",7,2023-12-09,SN_semanal(m=168),0.12187500000000001,0.3535104073250435
+"Bandeirantes, Av dos | Marginal/Imigrantes",7,2023-12-09,Ingenuo,0.0,0.0
+"Bandeirantes, Av dos | Marginal/Imigrantes",7,2023-12-09,Chronos-2,0.005522398898998897,0.016018260383150535
+"Bandeirantes, Av dos | Marginal/Imigrantes",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Bandeirantes, Av dos | Marginal/Imigrantes",8,2023-12-10,SN_semanal(m=168),0.09479166666666668,0.2747092778589467
+"Bandeirantes, Av dos | Marginal/Imigrantes",8,2023-12-10,Ingenuo,0.0,0.0
+"Bandeirantes, Av dos | Marginal/Imigrantes",8,2023-12-10,Chronos-2,0.002288700391848882,0.006632726841814098
+"Bandeirantes, Av dos | Marginal/Imigrantes",9,2023-12-11,SN_diario(m=24),0.1369375,0.39741375726955647
+"Bandeirantes, Av dos | Marginal/Imigrantes",9,2023-12-11,SN_semanal(m=168),0.1369375,0.39741375726955647
+"Bandeirantes, Av dos | Marginal/Imigrantes",9,2023-12-11,Ingenuo,0.1369375,0.39741375726955647
+"Bandeirantes, Av dos | Marginal/Imigrantes",9,2023-12-11,Chronos-2,0.19781840003530182,0.5740995243456428
+"Bandeirantes, Av dos | Marginal/Imigrantes",10,2023-12-12,SN_diario(m=24),0.24818749999999998,0.720894597297915
+"Bandeirantes, Av dos | Marginal/Imigrantes",10,2023-12-12,SN_semanal(m=168),0.18154166666666668,0.5273126434025043
+"Bandeirantes, Av dos | Marginal/Imigrantes",10,2023-12-12,Ingenuo,0.33375,0.9694226012517921
+"Bandeirantes, Av dos | Marginal/Imigrantes",10,2023-12-12,Chronos-2,0.2451248092701038,0.7119985924613437
+"Bandeirantes, Av dos | Marginal/Imigrantes",11,2023-12-13,SN_diario(m=24),0.3559166666666667,1.034217582370469
+"Bandeirantes, Av dos | Marginal/Imigrantes",11,2023-12-13,SN_semanal(m=168),0.49800000000000005,1.4470813093528265
+"Bandeirantes, Av dos | Marginal/Imigrantes",11,2023-12-13,Ingenuo,0.49800000000000005,1.4470813093528265
+"Bandeirantes, Av dos | Marginal/Imigrantes",11,2023-12-13,Chronos-2,0.26578353005647665,0.7723099973464709
+"Bandeirantes, Av dos | Marginal/Imigrantes",12,2023-12-14,SN_diario(m=24),0.33133333333333337,0.9627370875770828
+"Bandeirantes, Av dos | Marginal/Imigrantes",12,2023-12-14,SN_semanal(m=168),0.4079166666666667,1.1852610773867758
+"Bandeirantes, Av dos | Marginal/Imigrantes",12,2023-12-14,Ingenuo,0.35250000000000004,1.0242399095701862
+"Bandeirantes, Av dos | Marginal/Imigrantes",12,2023-12-14,Chronos-2,0.25150134598215423,0.7307736620299057
+"Bandeirantes, Av dos | Marginal/Imigrantes",13,2023-12-15,SN_diario(m=24),0.22854166666666673,0.6640959337467096
+"Bandeirantes, Av dos | Marginal/Imigrantes",13,2023-12-15,SN_semanal(m=168),0.4154166666666667,1.2071169479406918
+"Bandeirantes, Av dos | Marginal/Imigrantes",13,2023-12-15,Ingenuo,0.16062500000000002,0.46674381487576394
+"Bandeirantes, Av dos | Marginal/Imigrantes",13,2023-12-15,Chronos-2,0.10840473701556523,0.31500227551905896
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,0,2023-12-02,SN_diario(m=24),0.024999999999999998,0.5198660403159882
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,0,2023-12-02,SN_semanal(m=168),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,0,2023-12-02,Ingenuo,0.0,0.0
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,0,2023-12-02,Chronos-2,0.00013073083634177843,0.0027185008894479138
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,1,2023-12-03,SN_diario(m=24),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,1,2023-12-03,SN_semanal(m=168),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,1,2023-12-03,Ingenuo,0.0,0.0
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,1,2023-12-03,Chronos-2,0.00037283745283881825,0.007758412061196325
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,2,2023-12-04,SN_diario(m=24),0.14375,2.995637165776407
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,2,2023-12-04,SN_semanal(m=168),0.14375,2.995637165776407
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,2,2023-12-04,Ingenuo,0.14375,2.995637165776407
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,2,2023-12-04,Chronos-2,0.14350605425424873,2.990553527916195
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,3,2023-12-05,SN_diario(m=24),0.053125,1.1039043788862941
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,3,2023-12-05,SN_semanal(m=168),0.090625,1.8831309992766194
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,3,2023-12-05,Ingenuo,0.090625,1.8831309992766194
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,3,2023-12-05,Chronos-2,0.028097235529373085,0.5838430369030496
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,4,2023-12-06,SN_diario(m=24),0.04833333333333333,1.0041861880741039
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,4,2023-12-06,SN_semanal(m=168),0.06645833333333333,1.3807560086018928
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,4,2023-12-06,Ingenuo,0.042291666666666665,0.8786629145648409
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,4,2023-12-06,Chronos-2,0.03096480160641173,0.6433329535782101
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,5,2023-12-07,SN_diario(m=24),0.06041666666666665,1.2552251745046357
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,5,2023-12-07,SN_semanal(m=168),0.0060416666666666665,0.12552251745046358
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,5,2023-12-07,Ingenuo,0.090625,1.8828377617569538
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,5,2023-12-07,Chronos-2,0.08172570258999863,1.6979447055731587
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,6,2023-12-08,SN_diario(m=24),0.07891666666666665,1.638982760035509
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,6,2023-12-08,SN_semanal(m=168),0.036708333333333336,0.7623779364262322
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,6,2023-12-08,Ingenuo,0.011708333333333334,0.24316481286693672
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,6,2023-12-08,Chronos-2,0.02458579434702794,0.5106106831242737
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,7,2023-12-09,SN_diario(m=24),0.011708333333333334,0.2429420929113309
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,7,2023-12-09,SN_semanal(m=168),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,7,2023-12-09,Ingenuo,0.0,0.0
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,7,2023-12-09,Chronos-2,0.0005533811636269093,0.011482383892033793
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,8,2023-12-10,SN_diario(m=24),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,8,2023-12-10,SN_semanal(m=168),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,8,2023-12-10,Ingenuo,0.0,0.0
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,8,2023-12-10,Chronos-2,0.00035106251016259193,0.0072922817495077175
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,9,2023-12-11,SN_diario(m=24),0.03229166666666667,0.6717245176194001
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,9,2023-12-11,SN_semanal(m=168),0.11312499999999999,2.353202664950543
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,9,2023-12-11,Ingenuo,0.03229166666666667,0.6717245176194001
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,9,2023-12-11,Chronos-2,0.031414290176083645,0.6534735147835554
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,10,2023-12-12,SN_diario(m=24),0.050624999999999996,1.0535847897290036
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,10,2023-12-12,SN_semanal(m=168),0.07479166666666666,1.5565306152786513
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,10,2023-12-12,Ingenuo,0.08124999999999999,1.6909385514169193
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,10,2023-12-12,Chronos-2,0.06663372262070576,1.3867511434310524
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,11,2023-12-13,SN_diario(m=24),0.08749999999999998,1.8208715593493294
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,11,2023-12-13,SN_semanal(m=168),0.075625,1.573753276294778
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,11,2023-12-13,Ingenuo,0.10625,2.2110583220670432
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,11,2023-12-13,Chronos-2,0.06050850466514627,1.2591796027830982
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,12,2023-12-14,SN_diario(m=24),0.075,1.5589241498768134
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,12,2023-12-14,SN_semanal(m=168),0.090625,1.8837000144344829
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,12,2023-12-14,Ingenuo,0.18125,3.7674000288689657
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,12,2023-12-14,Chronos-2,0.12084559081122277,2.511854798956623
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,13,2023-12-15,SN_diario(m=24),0.15833333333333333,3.288447595213446
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,13,2023-12-15,SN_semanal(m=168),0.09037499999999998,1.8770112721099905
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,13,2023-12-15,Ingenuo,0.18958333333333333,3.9374833047950477
+Cidade Jardim / Europa / Colômbia | Bairro/Centro,13,2023-12-15,Chronos-2,0.08545482573099435,1.7748234705756158
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,0,2023-12-02,SN_diario(m=24),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,0,2023-12-02,SN_semanal(m=168),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,0,2023-12-02,Ingenuo,0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,0,2023-12-02,Chronos-2,0.0003395435245086749,0.009072847629836282
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,1,2023-12-03,SN_diario(m=24),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,1,2023-12-03,SN_semanal(m=168),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,1,2023-12-03,Ingenuo,0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,1,2023-12-03,Chronos-2,0.00028262225290139514,0.007563158534711364
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,2,2023-12-04,SN_diario(m=24),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,2,2023-12-04,SN_semanal(m=168),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,2,2023-12-04,Ingenuo,0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,2,2023-12-04,Chronos-2,0.0002640623909731706,0.007077031337653547
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,3,2023-12-05,SN_diario(m=24),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,3,2023-12-05,SN_semanal(m=168),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,3,2023-12-05,Ingenuo,0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,3,2023-12-05,Chronos-2,0.00028377119451761246,0.007616573345815075
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,4,2023-12-06,SN_diario(m=24),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,4,2023-12-06,SN_semanal(m=168),0.06041666666666667,1.6240293435316753
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,4,2023-12-06,Ingenuo,0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,4,2023-12-06,Chronos-2,0.0003352959950764974,0.009012919196240837
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,5,2023-12-07,SN_diario(m=24),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,5,2023-12-07,SN_semanal(m=168),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,5,2023-12-07,Ingenuo,0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,5,2023-12-07,Chronos-2,0.0001870892010629177,0.005036521174529704
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,6,2023-12-08,SN_diario(m=24),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,6,2023-12-08,SN_semanal(m=168),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,6,2023-12-08,Ingenuo,0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,6,2023-12-08,Chronos-2,0.00026611130063732463,0.007174458662973195
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,7,2023-12-09,SN_diario(m=24),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,7,2023-12-09,SN_semanal(m=168),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,7,2023-12-09,Ingenuo,0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,7,2023-12-09,Chronos-2,0.0002613507676869631,0.007056551627363258
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,8,2023-12-10,SN_diario(m=24),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,8,2023-12-10,SN_semanal(m=168),0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,8,2023-12-10,Ingenuo,0.0,0.0
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,8,2023-12-10,Chronos-2,0.00030192569829523563,0.008164146614311942
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,9,2023-12-11,SN_diario(m=24),0.06833333333333333,1.850479794701788
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,9,2023-12-11,SN_semanal(m=168),0.06833333333333333,1.850479794701788
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,9,2023-12-11,Ingenuo,0.06833333333333333,1.850479794701788
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,9,2023-12-11,Chronos-2,0.06841736579313874,1.852755409857432
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,10,2023-12-12,SN_diario(m=24),0.09752083333333333,2.637579208725988
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,10,2023-12-12,SN_semanal(m=168),0.1250625,3.3824798098658633
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,10,2023-12-12,Ingenuo,0.1250625,3.3824798098658633
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,10,2023-12-12,Chronos-2,0.12688565179457267,3.4317893481804083
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,11,2023-12-13,SN_diario(m=24),0.0409375,1.1045485544235263
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,11,2023-12-13,SN_semanal(m=168),0.13125,3.5413007088387864
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,11,2023-12-13,Ingenuo,0.13125,3.5413007088387864
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,11,2023-12-13,Chronos-2,0.09219879857264458,2.487647015157263
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,12,2023-12-14,SN_diario(m=24),0.1125,3.034934678011702
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,12,2023-12-14,SN_semanal(m=168),0.03125,0.8430374105588062
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,12,2023-12-14,Ingenuo,0.03125,0.8430374105588062
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,12,2023-12-14,Chronos-2,0.036984458565711975,0.9977370297650331
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,13,2023-12-15,SN_diario(m=24),0.06874999999999999,1.8491648111479018
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,13,2023-12-15,SN_semanal(m=168),0.049999999999999996,1.3448471353802922
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,13,2023-12-15,Ingenuo,0.049999999999999996,1.3448471353802922
+Cidade Jardim / Europa / Colômbia | Centro/Bairro,13,2023-12-15,Chronos-2,0.05018720049411058,1.3498822563452202
+"Cidade Universitária, Pt | PanAmericana/USP",0,2023-12-02,SN_diario(m=24),0.034999999999999996,0.8244158804533653
+"Cidade Universitária, Pt | PanAmericana/USP",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Cidade Universitária, Pt | PanAmericana/USP",0,2023-12-02,Ingenuo,0.0,0.0
+"Cidade Universitária, Pt | PanAmericana/USP",0,2023-12-02,Chronos-2,0.0005631147262950739,0.013264020653565977
+"Cidade Universitária, Pt | PanAmericana/USP",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Cidade Universitária, Pt | PanAmericana/USP",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Cidade Universitária, Pt | PanAmericana/USP",1,2023-12-03,Ingenuo,0.0,0.0
+"Cidade Universitária, Pt | PanAmericana/USP",1,2023-12-03,Chronos-2,0.0006834816498061022,0.01610378542543023
+"Cidade Universitária, Pt | PanAmericana/USP",2,2023-12-04,SN_diario(m=24),0.13125,3.0974136840774005
+"Cidade Universitária, Pt | PanAmericana/USP",2,2023-12-04,SN_semanal(m=168),0.09625,2.2714367016567603
+"Cidade Universitária, Pt | PanAmericana/USP",2,2023-12-04,Ingenuo,0.13125,3.0974136840774005
+"Cidade Universitária, Pt | PanAmericana/USP",2,2023-12-04,Chronos-2,0.11829765434376895,2.79174684463732
+"Cidade Universitária, Pt | PanAmericana/USP",3,2023-12-05,SN_diario(m=24),0.07014583333333334,1.6498411225244218
+"Cidade Universitária, Pt | PanAmericana/USP",3,2023-12-05,SN_semanal(m=168),0.008895833333333334,0.20923141054883518
+"Cidade Universitária, Pt | PanAmericana/USP",3,2023-12-05,Ingenuo,0.06110416666666666,1.437179688851835
+"Cidade Universitária, Pt | PanAmericana/USP",3,2023-12-05,Chronos-2,0.03142302027903497,0.7390744194870789
+"Cidade Universitária, Pt | PanAmericana/USP",4,2023-12-06,SN_diario(m=24),0.11389583333333332,2.6760611772790277
+"Cidade Universitária, Pt | PanAmericana/USP",4,2023-12-06,SN_semanal(m=168),0.17500000000000002,4.111745726933206
+"Cidade Universitária, Pt | PanAmericana/USP",4,2023-12-06,Ingenuo,0.17500000000000002,4.111745726933206
+"Cidade Universitária, Pt | PanAmericana/USP",4,2023-12-06,Chronos-2,0.12018369808793068,2.823798897486168
+"Cidade Universitária, Pt | PanAmericana/USP",5,2023-12-07,SN_diario(m=24),0.0525,1.2302246273005202
+"Cidade Universitária, Pt | PanAmericana/USP",5,2023-12-07,SN_semanal(m=168),0.043750000000000004,1.0251871894171003
+"Cidade Universitária, Pt | PanAmericana/USP",5,2023-12-07,Ingenuo,0.2275,5.330973384968921
+"Cidade Universitária, Pt | PanAmericana/USP",5,2023-12-07,Chronos-2,0.14132580506615341,3.3116663974372296
+"Cidade Universitária, Pt | PanAmericana/USP",6,2023-12-08,SN_diario(m=24),0.17500000000000002,4.099241175764399
+"Cidade Universitária, Pt | PanAmericana/USP",6,2023-12-08,SN_semanal(m=168),0.017499999999999998,0.4099241175764398
+"Cidade Universitária, Pt | PanAmericana/USP",6,2023-12-08,Ingenuo,0.0525,1.2297723527293194
+"Cidade Universitária, Pt | PanAmericana/USP",6,2023-12-08,Chronos-2,0.01833841818384826,0.42956342238638495
+"Cidade Universitária, Pt | PanAmericana/USP",7,2023-12-09,SN_diario(m=24),0.0525,1.2237235260313482
+"Cidade Universitária, Pt | PanAmericana/USP",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Cidade Universitária, Pt | PanAmericana/USP",7,2023-12-09,Ingenuo,0.0,0.0
+"Cidade Universitária, Pt | PanAmericana/USP",7,2023-12-09,Chronos-2,0.00038427285229166347,0.008957023424085293
+"Cidade Universitária, Pt | PanAmericana/USP",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Cidade Universitária, Pt | PanAmericana/USP",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Cidade Universitária, Pt | PanAmericana/USP",8,2023-12-10,Ingenuo,0.0,0.0
+"Cidade Universitária, Pt | PanAmericana/USP",8,2023-12-10,Chronos-2,0.0007494225477178892,0.017462083984627008
+"Cidade Universitária, Pt | PanAmericana/USP",9,2023-12-11,SN_diario(m=24),0.06983333333333333,1.6297578871046785
+"Cidade Universitária, Pt | PanAmericana/USP",9,2023-12-11,SN_semanal(m=168),0.06141666666666667,1.4333312205204631
+"Cidade Universitária, Pt | PanAmericana/USP",9,2023-12-11,Ingenuo,0.06983333333333333,1.6297578871046785
+"Cidade Universitária, Pt | PanAmericana/USP",9,2023-12-11,Chronos-2,0.02470676573862632,0.5766020953800557
+"Cidade Universitária, Pt | PanAmericana/USP",10,2023-12-12,SN_diario(m=24),0.08766666666666667,2.043905921609565
+"Cidade Universitária, Pt | PanAmericana/USP",10,2023-12-12,SN_semanal(m=168),0.09639583333333333,2.2474222194124187
+"Cidade Universitária, Pt | PanAmericana/USP",10,2023-12-12,Ingenuo,0.1575,3.672036304032394
+"Cidade Universitária, Pt | PanAmericana/USP",10,2023-12-12,Chronos-2,0.08854509209903579,2.064385985597151
+"Cidade Universitária, Pt | PanAmericana/USP",11,2023-12-13,SN_diario(m=24),0.043750000000000004,1.0183253999603459
+"Cidade Universitária, Pt | PanAmericana/USP",11,2023-12-13,SN_semanal(m=168),0.008749999999999999,0.20366507999206912
+"Cidade Universitária, Pt | PanAmericana/USP",11,2023-12-13,Ingenuo,0.16625,3.869636519849314
+"Cidade Universitária, Pt | PanAmericana/USP",11,2023-12-13,Chronos-2,0.05103068293382723,1.1877906424877533
+"Cidade Universitária, Pt | PanAmericana/USP",12,2023-12-14,SN_diario(m=24),0.09625,2.24025092185239
+"Cidade Universitária, Pt | PanAmericana/USP",12,2023-12-14,SN_semanal(m=168),0.13999999999999999,3.258546795421658
+"Cidade Universitária, Pt | PanAmericana/USP",12,2023-12-14,Ingenuo,0.08750000000000001,2.0365917471385364
+"Cidade Universitária, Pt | PanAmericana/USP",12,2023-12-14,Chronos-2,0.09145390413701533,2.1286201875319346
+"Cidade Universitária, Pt | PanAmericana/USP",13,2023-12-15,SN_diario(m=24),0.017499999999999998,0.4065218421772909
+"Cidade Universitária, Pt | PanAmericana/USP",13,2023-12-15,SN_semanal(m=168),0.017499999999999998,0.4065218421772909
+"Cidade Universitária, Pt | PanAmericana/USP",13,2023-12-15,Ingenuo,0.06999999999999999,1.6260873687091637
+"Cidade Universitária, Pt | PanAmericana/USP",13,2023-12-15,Chronos-2,0.033948744970063366,0.788623219704983
+Ferradura | unico//,0,2023-12-02,SN_diario(m=24),0.0,0.0
+Ferradura | unico//,0,2023-12-02,SN_semanal(m=168),0.0,0.0
+Ferradura | unico//,0,2023-12-02,Ingenuo,0.0,0.0
+Ferradura | unico//,0,2023-12-02,Chronos-2,3.966434936349591e-05,0.0035452523788478624
+Ferradura | unico//,1,2023-12-03,SN_diario(m=24),0.0,0.0
+Ferradura | unico//,1,2023-12-03,SN_semanal(m=168),0.0,0.0
+Ferradura | unico//,1,2023-12-03,Ingenuo,0.0,0.0
+Ferradura | unico//,1,2023-12-03,Chronos-2,8.680017587418358e-05,0.007769674510347108
+Ferradura | unico//,2,2023-12-04,SN_diario(m=24),0.0,0.0
+Ferradura | unico//,2,2023-12-04,SN_semanal(m=168),0.0,0.0
+Ferradura | unico//,2,2023-12-04,Ingenuo,0.0,0.0
+Ferradura | unico//,2,2023-12-04,Chronos-2,5.021574907004833e-05,0.004501493586003874
+Ferradura | unico//,3,2023-12-05,SN_diario(m=24),0.0,0.0
+Ferradura | unico//,3,2023-12-05,SN_semanal(m=168),0.0,0.0
+Ferradura | unico//,3,2023-12-05,Ingenuo,0.0,0.0
+Ferradura | unico//,3,2023-12-05,Chronos-2,6.38638351423045e-05,0.005733307424359037
+Ferradura | unico//,4,2023-12-06,SN_diario(m=24),0.0,0.0
+Ferradura | unico//,4,2023-12-06,SN_semanal(m=168),0.0,0.0
+Ferradura | unico//,4,2023-12-06,Ingenuo,0.0,0.0
+Ferradura | unico//,4,2023-12-06,Chronos-2,6.220142434661587e-05,0.005592206313330874
+Ferradura | unico//,5,2023-12-07,SN_diario(m=24),0.020833333333333332,1.875742935973914
+Ferradura | unico//,5,2023-12-07,SN_semanal(m=168),0.020833333333333332,1.875742935973914
+Ferradura | unico//,5,2023-12-07,Ingenuo,0.020833333333333332,1.875742935973914
+Ferradura | unico//,5,2023-12-07,Chronos-2,0.020894108068508405,1.8812148294230497
+Ferradura | unico//,6,2023-12-08,SN_diario(m=24),0.041666666666666664,3.746723656019228
+Ferradura | unico//,6,2023-12-08,SN_semanal(m=168),0.0375,3.3720512904173052
+Ferradura | unico//,6,2023-12-08,Ingenuo,0.0375,3.3720512904173052
+Ferradura | unico//,6,2023-12-08,Chronos-2,0.03754590714039902,3.3761793232712223
+Ferradura | unico//,7,2023-12-09,SN_diario(m=24),0.0375,3.3586811903036335
+Ferradura | unico//,7,2023-12-09,SN_semanal(m=168),0.0,0.0
+Ferradura | unico//,7,2023-12-09,Ingenuo,0.0,0.0
+Ferradura | unico//,7,2023-12-09,Chronos-2,0.00022971199359744787,0.020574116055543917
+Ferradura | unico//,8,2023-12-10,SN_diario(m=24),0.0,0.0
+Ferradura | unico//,8,2023-12-10,SN_semanal(m=168),0.0,0.0
+Ferradura | unico//,8,2023-12-10,Ingenuo,0.0,0.0
+Ferradura | unico//,8,2023-12-10,Chronos-2,5.872409868364533e-05,0.005241721759419432
+Ferradura | unico//,9,2023-12-11,SN_diario(m=24),0.0,0.0
+Ferradura | unico//,9,2023-12-11,SN_semanal(m=168),0.0,0.0
+Ferradura | unico//,9,2023-12-11,Ingenuo,0.0,0.0
+Ferradura | unico//,9,2023-12-11,Chronos-2,0.00011427215455720822,0.010214710608986911
+Ferradura | unico//,10,2023-12-12,SN_diario(m=24),0.0,0.0
+Ferradura | unico//,10,2023-12-12,SN_semanal(m=168),0.0,0.0
+Ferradura | unico//,10,2023-12-12,Ingenuo,0.0,0.0
+Ferradura | unico//,10,2023-12-12,Chronos-2,8.40797050235172e-05,0.0075266889886171666
+Ferradura | unico//,11,2023-12-13,SN_diario(m=24),0.0,0.0
+Ferradura | unico//,11,2023-12-13,SN_semanal(m=168),0.0,0.0
+Ferradura | unico//,11,2023-12-13,Ingenuo,0.0,0.0
+Ferradura | unico//,11,2023-12-13,Chronos-2,9.449080486471455e-05,0.00847088089941917
+Ferradura | unico//,12,2023-12-14,SN_diario(m=24),0.0,0.0
+Ferradura | unico//,12,2023-12-14,SN_semanal(m=168),0.020833333333333332,1.870351033940816
+Ferradura | unico//,12,2023-12-14,Ingenuo,0.0,0.0
+Ferradura | unico//,12,2023-12-14,Chronos-2,6.635345440978806e-05,0.005957004098922811
+Ferradura | unico//,13,2023-12-15,SN_diario(m=24),0.0,0.0
+Ferradura | unico//,13,2023-12-15,SN_semanal(m=168),0.0375,3.3714759357137467
+Ferradura | unico//,13,2023-12-15,Ingenuo,0.0,0.0
+Ferradura | unico//,13,2023-12-15,Chronos-2,9.856964849556486e-05,0.008862005277188258
+"Francisco Matarazzo, Av | Bairro/Centro",0,2023-12-02,SN_diario(m=24),0.5625,4.953882261202616
+"Francisco Matarazzo, Av | Bairro/Centro",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Francisco Matarazzo, Av | Bairro/Centro",0,2023-12-02,Ingenuo,0.0,0.0
+"Francisco Matarazzo, Av | Bairro/Centro",0,2023-12-02,Chronos-2,0.0009593615929285685,0.008449003337400748
+"Francisco Matarazzo, Av | Bairro/Centro",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Francisco Matarazzo, Av | Bairro/Centro",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Francisco Matarazzo, Av | Bairro/Centro",1,2023-12-03,Ingenuo,0.0,0.0
+"Francisco Matarazzo, Av | Bairro/Centro",1,2023-12-03,Chronos-2,0.0013819945355256398,0.012100002514003014
+"Francisco Matarazzo, Av | Bairro/Centro",2,2023-12-04,SN_diario(m=24),0.3016666666666667,2.6451560095425446
+"Francisco Matarazzo, Av | Bairro/Centro",2,2023-12-04,SN_semanal(m=168),0.31395833333333334,2.7529351563402034
+"Francisco Matarazzo, Av | Bairro/Centro",2,2023-12-04,Ingenuo,0.3016666666666667,2.6451560095425446
+"Francisco Matarazzo, Av | Bairro/Centro",2,2023-12-04,Chronos-2,0.35613453565786285,3.1227560459702968
+"Francisco Matarazzo, Av | Bairro/Centro",3,2023-12-05,SN_diario(m=24),0.34624999999999995,3.0287020033681937
+"Francisco Matarazzo, Av | Bairro/Centro",3,2023-12-05,SN_semanal(m=168),0.3633333333333333,3.1781325474573587
+"Francisco Matarazzo, Av | Bairro/Centro",3,2023-12-05,Ingenuo,0.61125,5.346697760458653
+"Francisco Matarazzo, Av | Bairro/Centro",3,2023-12-05,Chronos-2,0.3507245930408438,3.0678419568903923
+"Francisco Matarazzo, Av | Bairro/Centro",4,2023-12-06,SN_diario(m=24),0.2925,2.5508871760607326
+"Francisco Matarazzo, Av | Bairro/Centro",4,2023-12-06,SN_semanal(m=168),0.31875000000000003,2.779812948271312
+"Francisco Matarazzo, Av | Bairro/Centro",4,2023-12-06,Ingenuo,0.31875000000000003,2.779812948271312
+"Francisco Matarazzo, Av | Bairro/Centro",4,2023-12-06,Chronos-2,0.10204842326541741,0.8899624418631488
+"Francisco Matarazzo, Av | Bairro/Centro",5,2023-12-07,SN_diario(m=24),0.234375,2.0393084143880054
+"Francisco Matarazzo, Av | Bairro/Centro",5,2023-12-07,SN_semanal(m=168),0.11062500000000001,0.9625535715911386
+"Francisco Matarazzo, Av | Bairro/Centro",5,2023-12-07,Ingenuo,0.17937499999999998,1.5607507064782864
+"Francisco Matarazzo, Av | Bairro/Centro",5,2023-12-07,Chronos-2,0.21195221369465192,1.8442066467655178
+"Francisco Matarazzo, Av | Bairro/Centro",6,2023-12-08,SN_diario(m=24),0.17937499999999998,1.55836188844978
+"Francisco Matarazzo, Av | Bairro/Centro",6,2023-12-08,SN_semanal(m=168),0.5625,4.886849127542865
+"Francisco Matarazzo, Av | Bairro/Centro",6,2023-12-08,Ingenuo,0.0,0.0
+"Francisco Matarazzo, Av | Bairro/Centro",6,2023-12-08,Chronos-2,0.16690205813695988,1.450000315007486
+"Francisco Matarazzo, Av | Bairro/Centro",7,2023-12-09,SN_diario(m=24),0.0,0.0
+"Francisco Matarazzo, Av | Bairro/Centro",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Francisco Matarazzo, Av | Bairro/Centro",7,2023-12-09,Ingenuo,0.0,0.0
+"Francisco Matarazzo, Av | Bairro/Centro",7,2023-12-09,Chronos-2,0.0016079321503639221,0.013957805328172604
+"Francisco Matarazzo, Av | Bairro/Centro",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Francisco Matarazzo, Av | Bairro/Centro",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Francisco Matarazzo, Av | Bairro/Centro",8,2023-12-10,Ingenuo,0.0,0.0
+"Francisco Matarazzo, Av | Bairro/Centro",8,2023-12-10,Chronos-2,0.001549214745561282,0.013467909156097867
+"Francisco Matarazzo, Av | Bairro/Centro",9,2023-12-11,SN_diario(m=24),0.212875,1.8533242848338378
+"Francisco Matarazzo, Av | Bairro/Centro",9,2023-12-11,SN_semanal(m=168),0.29658333333333337,2.5821026148849597
+"Francisco Matarazzo, Av | Bairro/Centro",9,2023-12-11,Ingenuo,0.212875,1.8533242848338378
+"Francisco Matarazzo, Av | Bairro/Centro",9,2023-12-11,Chronos-2,0.2760431682740649,2.403276605636162
+"Francisco Matarazzo, Av | Bairro/Centro",10,2023-12-12,SN_diario(m=24),0.41050000000000003,3.569413514662134
+"Francisco Matarazzo, Av | Bairro/Centro",10,2023-12-12,SN_semanal(m=168),0.1420833333333333,1.2354547386315342
+"Francisco Matarazzo, Av | Bairro/Centro",10,2023-12-12,Ingenuo,0.57,4.956311092222695
+"Francisco Matarazzo, Av | Bairro/Centro",10,2023-12-12,Chronos-2,0.3833069903900226,3.33296261087117
+"Francisco Matarazzo, Av | Bairro/Centro",11,2023-12-13,SN_diario(m=24),0.26895833333333335,2.3299037337521638
+"Francisco Matarazzo, Av | Bairro/Centro",11,2023-12-13,SN_semanal(m=168),0.017708333333333333,0.1534018724778729
+"Francisco Matarazzo, Av | Bairro/Centro",11,2023-12-13,Ingenuo,0.30104166666666665,2.607831832123839
+"Francisco Matarazzo, Av | Bairro/Centro",11,2023-12-13,Chronos-2,0.07527359860638778,0.6520721491407637
+"Francisco Matarazzo, Av | Bairro/Centro",12,2023-12-14,SN_diario(m=24),0.30104166666666665,2.6027712543325534
+"Francisco Matarazzo, Av | Bairro/Centro",12,2023-12-14,SN_semanal(m=168),0.17937499999999998,1.5508553979102617
+"Francisco Matarazzo, Av | Bairro/Centro",12,2023-12-14,Ingenuo,0.0,0.0
+"Francisco Matarazzo, Av | Bairro/Centro",12,2023-12-14,Chronos-2,0.25665233222146827,2.2189862289166378
+"Francisco Matarazzo, Av | Bairro/Centro",13,2023-12-15,SN_diario(m=24),0.6941666666666667,5.987674271694897
+"Francisco Matarazzo, Av | Bairro/Centro",13,2023-12-15,SN_semanal(m=168),0.6941666666666667,5.987674271694897
+"Francisco Matarazzo, Av | Bairro/Centro",13,2023-12-15,Ingenuo,0.6941666666666667,5.987674271694897
+"Francisco Matarazzo, Av | Bairro/Centro",13,2023-12-15,Chronos-2,0.6598309568688273,5.691504697399235
+"Francisco Matarazzo, Av | Centro/Bairro",0,2023-12-02,SN_diario(m=24),0.24500000000000002,3.12804132400795
+"Francisco Matarazzo, Av | Centro/Bairro",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Francisco Matarazzo, Av | Centro/Bairro",0,2023-12-02,Ingenuo,0.0,0.0
+"Francisco Matarazzo, Av | Centro/Bairro",0,2023-12-02,Chronos-2,0.0006854844590028127,0.008751933529494006
+"Francisco Matarazzo, Av | Centro/Bairro",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Francisco Matarazzo, Av | Centro/Bairro",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Francisco Matarazzo, Av | Centro/Bairro",1,2023-12-03,Ingenuo,0.0,0.0
+"Francisco Matarazzo, Av | Centro/Bairro",1,2023-12-03,Chronos-2,0.0005371749090651671,0.006837423158255078
+"Francisco Matarazzo, Av | Centro/Bairro",2,2023-12-04,SN_diario(m=24),0.21125000000000002,2.692767093012859
+"Francisco Matarazzo, Av | Centro/Bairro",2,2023-12-04,SN_semanal(m=168),0.18322916666666667,2.335590392805532
+"Francisco Matarazzo, Av | Centro/Bairro",2,2023-12-04,Ingenuo,0.21125000000000002,2.692767093012859
+"Francisco Matarazzo, Av | Centro/Bairro",2,2023-12-04,Chronos-2,0.16715105590720972,2.130645504896033
+"Francisco Matarazzo, Av | Centro/Bairro",3,2023-12-05,SN_diario(m=24),0.11874999999999998,1.510013085866579
+"Francisco Matarazzo, Av | Centro/Bairro",3,2023-12-05,SN_semanal(m=168),0.2236875,2.8443878075349933
+"Francisco Matarazzo, Av | Centro/Bairro",3,2023-12-05,Ingenuo,0.245,3.115395419261574
+"Francisco Matarazzo, Av | Centro/Bairro",3,2023-12-05,Chronos-2,0.12743343075737357,1.6204307201726882
+"Francisco Matarazzo, Av | Centro/Bairro",4,2023-12-06,SN_diario(m=24),0.4383333333333333,5.569727174186335
+"Francisco Matarazzo, Av | Centro/Bairro",4,2023-12-06,SN_semanal(m=168),0.5127083333333333,6.5147806918595865
+"Francisco Matarazzo, Av | Centro/Bairro",4,2023-12-06,Ingenuo,0.4666666666666666,5.929747561871383
+"Francisco Matarazzo, Av | Centro/Bairro",4,2023-12-06,Chronos-2,0.3652071819764872,4.6405422790778434
+"Francisco Matarazzo, Av | Centro/Bairro",5,2023-12-07,SN_diario(m=24),0.29458333333333336,3.718806541969449
+"Francisco Matarazzo, Av | Centro/Bairro",5,2023-12-07,SN_semanal(m=168),0.278125,3.5110372938679024
+"Francisco Matarazzo, Av | Centro/Bairro",5,2023-12-07,Ingenuo,0.34875000000000006,4.402604067366943
+"Francisco Matarazzo, Av | Centro/Bairro",5,2023-12-07,Chronos-2,0.24113482333409295,3.0440749935325786
+"Francisco Matarazzo, Av | Centro/Bairro",6,2023-12-08,SN_diario(m=24),0.12541666666666665,1.5771199583830247
+"Francisco Matarazzo, Av | Centro/Bairro",6,2023-12-08,SN_semanal(m=168),0.24749999999999997,3.1123231072409188
+"Francisco Matarazzo, Av | Centro/Bairro",6,2023-12-08,Ingenuo,0.33416666666666667,4.2021601548943055
+"Francisco Matarazzo, Av | Centro/Bairro",6,2023-12-08,Chronos-2,0.2085914411768317,2.6230463125144983
+"Francisco Matarazzo, Av | Centro/Bairro",7,2023-12-09,SN_diario(m=24),0.33416666666666667,4.1986985081681665
+"Francisco Matarazzo, Av | Centro/Bairro",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Francisco Matarazzo, Av | Centro/Bairro",7,2023-12-09,Ingenuo,0.0,0.0
+"Francisco Matarazzo, Av | Centro/Bairro",7,2023-12-09,Chronos-2,0.0015121322746078174,0.0189994639168542
+"Francisco Matarazzo, Av | Centro/Bairro",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Francisco Matarazzo, Av | Centro/Bairro",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Francisco Matarazzo, Av | Centro/Bairro",8,2023-12-10,Ingenuo,0.0,0.0
+"Francisco Matarazzo, Av | Centro/Bairro",8,2023-12-10,Chronos-2,0.0008460235161085924,0.010581732996266418
+"Francisco Matarazzo, Av | Centro/Bairro",9,2023-12-11,SN_diario(m=24),0.20812499999999998,2.6068600053081514
+"Francisco Matarazzo, Av | Centro/Bairro",9,2023-12-11,SN_semanal(m=168),0.15687500000000001,1.9649305145115499
+"Francisco Matarazzo, Av | Centro/Bairro",9,2023-12-11,Ingenuo,0.20812499999999998,2.6068600053081514
+"Francisco Matarazzo, Av | Centro/Bairro",9,2023-12-11,Chronos-2,0.1023533842091759,1.2820225523259559
+"Francisco Matarazzo, Av | Centro/Bairro",10,2023-12-12,SN_diario(m=24),0.20808333333333331,2.6003943423282494
+"Francisco Matarazzo, Av | Centro/Bairro",10,2023-12-12,SN_semanal(m=168),0.165875,2.0729214811391192
+"Francisco Matarazzo, Av | Centro/Bairro",10,2023-12-12,Ingenuo,0.409125,5.112789757172824
+"Francisco Matarazzo, Av | Centro/Bairro",10,2023-12-12,Chronos-2,0.2683001797745625,3.3529175948646754
+"Francisco Matarazzo, Av | Centro/Bairro",11,2023-12-13,SN_diario(m=24),0.3735,4.657001379982142
+"Francisco Matarazzo, Av | Centro/Bairro",11,2023-12-13,SN_semanal(m=168),0.46187500000000004,5.758909002354088
+"Francisco Matarazzo, Av | Centro/Bairro",11,2023-12-13,Ingenuo,0.07104166666666667,0.885786183943502
+"Francisco Matarazzo, Av | Centro/Bairro",11,2023-12-13,Chronos-2,0.22365967512130736,2.7887106176339644
+"Francisco Matarazzo, Av | Centro/Bairro",12,2023-12-14,SN_diario(m=24),0.158125,1.9614142841852298
+"Francisco Matarazzo, Av | Centro/Bairro",12,2023-12-14,SN_semanal(m=168),0.205,2.5428612063745275
+"Francisco Matarazzo, Av | Centro/Bairro",12,2023-12-14,Ingenuo,0.19375,2.403313945049096
+"Francisco Matarazzo, Av | Centro/Bairro",12,2023-12-14,Chronos-2,0.1072075043184062,1.3298234329927061
+"Francisco Matarazzo, Av | Centro/Bairro",13,2023-12-15,SN_diario(m=24),0.18499999999999997,2.291656462080244
+"Francisco Matarazzo, Av | Centro/Bairro",13,2023-12-15,SN_semanal(m=168),0.2970833333333333,3.680069949241473
+"Francisco Matarazzo, Av | Centro/Bairro",13,2023-12-15,Ingenuo,0.24958333333333335,3.0916716684370864
+"Francisco Matarazzo, Av | Centro/Bairro",13,2023-12-15,Chronos-2,0.21270974437395732,2.6349062715784655
+"Francisco Morato, Av Prof | Bairro/Centro",0,2023-12-02,SN_diario(m=24),0.25416666666666665,2.9049368051716304
+"Francisco Morato, Av Prof | Bairro/Centro",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Francisco Morato, Av Prof | Bairro/Centro",0,2023-12-02,Ingenuo,0.0,0.0
+"Francisco Morato, Av Prof | Bairro/Centro",0,2023-12-02,Chronos-2,0.0001838815708955129,0.002101630202310106
+"Francisco Morato, Av Prof | Bairro/Centro",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Francisco Morato, Av Prof | Bairro/Centro",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Francisco Morato, Av Prof | Bairro/Centro",1,2023-12-03,Ingenuo,0.0,0.0
+"Francisco Morato, Av Prof | Bairro/Centro",1,2023-12-03,Chronos-2,0.0004924445723493894,0.005612936393447714
+"Francisco Morato, Av Prof | Bairro/Centro",2,2023-12-04,SN_diario(m=24),0.19125,2.1830156744425637
+"Francisco Morato, Av Prof | Bairro/Centro",2,2023-12-04,SN_semanal(m=168),0.06291666666666666,0.7181598406118237
+"Francisco Morato, Av Prof | Bairro/Centro",2,2023-12-04,Ingenuo,0.19125,2.1830156744425637
+"Francisco Morato, Av Prof | Bairro/Centro",2,2023-12-04,Chronos-2,0.0427094679325819,0.48750555787674943
+"Francisco Morato, Av Prof | Bairro/Centro",3,2023-12-05,SN_diario(m=24),0.07145833333333332,0.8142802414342596
+"Francisco Morato, Av Prof | Bairro/Centro",3,2023-12-05,SN_semanal(m=168),0.0,0.0
+"Francisco Morato, Av Prof | Bairro/Centro",3,2023-12-05,Ingenuo,0.24145833333333333,2.7514600577909825
+"Francisco Morato, Av Prof | Bairro/Centro",3,2023-12-05,Chronos-2,0.05646113034958641,0.6433844830700282
+"Francisco Morato, Av Prof | Bairro/Centro",4,2023-12-06,SN_diario(m=24),0.025416666666666667,0.28970423707712173
+"Francisco Morato, Av Prof | Bairro/Centro",4,2023-12-06,SN_semanal(m=168),0.025416666666666667,0.28970423707712173
+"Francisco Morato, Av Prof | Bairro/Centro",4,2023-12-06,Ingenuo,0.266875,3.0418944893097777
+"Francisco Morato, Av Prof | Bairro/Centro",4,2023-12-06,Chronos-2,0.03308031258483727,0.37705600208510126
+"Francisco Morato, Av Prof | Bairro/Centro",5,2023-12-07,SN_diario(m=24),0.038125,0.434997121110702
+"Francisco Morato, Av Prof | Bairro/Centro",5,2023-12-07,SN_semanal(m=168),0.15291666666666667,1.7447425513401928
+"Francisco Morato, Av Prof | Bairro/Centro",5,2023-12-07,Ingenuo,0.22875,2.6099827266642124
+"Francisco Morato, Av Prof | Bairro/Centro",5,2023-12-07,Chronos-2,0.08939772512763738,1.020006637753918
+"Francisco Morato, Av Prof | Bairro/Centro",6,2023-12-08,SN_diario(m=24),0.0,0.0
+"Francisco Morato, Av Prof | Bairro/Centro",6,2023-12-08,SN_semanal(m=168),0.025416666666666667,0.29023167294952973
+"Francisco Morato, Av Prof | Bairro/Centro",6,2023-12-08,Ingenuo,0.22875,2.6120850565457676
+"Francisco Morato, Av Prof | Bairro/Centro",6,2023-12-08,Chronos-2,0.03439528857047359,0.3927581171169989
+"Francisco Morato, Av Prof | Bairro/Centro",7,2023-12-09,SN_diario(m=24),0.22875,2.6158059754297356
+"Francisco Morato, Av Prof | Bairro/Centro",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Francisco Morato, Av Prof | Bairro/Centro",7,2023-12-09,Ingenuo,0.0,0.0
+"Francisco Morato, Av Prof | Bairro/Centro",7,2023-12-09,Chronos-2,0.0002538679788510005,0.0029030355237102375
+"Francisco Morato, Av Prof | Bairro/Centro",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Francisco Morato, Av Prof | Bairro/Centro",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Francisco Morato, Av Prof | Bairro/Centro",8,2023-12-10,Ingenuo,0.0,0.0
+"Francisco Morato, Av Prof | Bairro/Centro",8,2023-12-10,Chronos-2,0.0007469303285082182,0.008521751728286548
+"Francisco Morato, Av Prof | Bairro/Centro",9,2023-12-11,SN_diario(m=24),0.11362499999999999,1.2981926246444806
+"Francisco Morato, Av Prof | Bairro/Centro",9,2023-12-11,SN_semanal(m=168),0.10962500000000001,1.252491674161947
+"Francisco Morato, Av Prof | Bairro/Centro",9,2023-12-11,Ingenuo,0.11362499999999999,1.2981926246444806
+"Francisco Morato, Av Prof | Bairro/Centro",9,2023-12-11,Chronos-2,0.10771816081553698,1.2307055833751217
+"Francisco Morato, Av Prof | Bairro/Centro",10,2023-12-12,SN_diario(m=24),0.011375000000000001,0.12990720913633122
+"Francisco Morato, Av Prof | Bairro/Centro",10,2023-12-12,SN_semanal(m=168),0.13770833333333335,1.5726861765405666
+"Francisco Morato, Av Prof | Bairro/Centro",10,2023-12-12,Ingenuo,0.125,1.4275517487508924
+"Francisco Morato, Av Prof | Bairro/Centro",10,2023-12-12,Chronos-2,0.03698638762036959,0.42239985861949575
+"Francisco Morato, Av Prof | Bairro/Centro",11,2023-12-13,SN_diario(m=24),0.15041666666666667,1.719937301709243
+"Francisco Morato, Av Prof | Bairro/Centro",11,2023-12-13,SN_semanal(m=168),0.012708333333333334,0.1453132623327754
+"Francisco Morato, Av Prof | Bairro/Centro",11,2023-12-13,Ingenuo,0.25416666666666665,2.9062652466555075
+"Francisco Morato, Av Prof | Bairro/Centro",11,2023-12-13,Chronos-2,0.1528666028132041,1.7479510628077617
+"Francisco Morato, Av Prof | Bairro/Centro",12,2023-12-14,SN_diario(m=24),0.1525,1.7419877892523372
+"Francisco Morato, Av Prof | Bairro/Centro",12,2023-12-14,SN_semanal(m=168),0.1525,1.7419877892523372
+"Francisco Morato, Av Prof | Bairro/Centro",12,2023-12-14,Ingenuo,0.12708333333333333,1.4516564910436143
+"Francisco Morato, Av Prof | Bairro/Centro",12,2023-12-14,Chronos-2,0.13393868123491603,1.5299642440641632
+"Francisco Morato, Av Prof | Bairro/Centro",13,2023-12-15,SN_diario(m=24),0.03827083333333334,0.4367057581736076
+"Francisco Morato, Av Prof | Bairro/Centro",13,2023-12-15,SN_semanal(m=168),0.19064583333333332,2.1754460495627015
+"Francisco Morato, Av Prof | Bairro/Centro",13,2023-12-15,Ingenuo,0.0888125,1.0134331230778928
+"Francisco Morato, Av Prof | Bairro/Centro",13,2023-12-15,Chronos-2,0.06486627777169147,0.7401844837675259
+"Interlagos, Av I | Bairro/Centro",0,2023-12-02,SN_diario(m=24),0.2225,1.1236030357369269
+"Interlagos, Av I | Bairro/Centro",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Interlagos, Av I | Bairro/Centro",0,2023-12-02,Ingenuo,0.0,0.0
+"Interlagos, Av I | Bairro/Centro",0,2023-12-02,Chronos-2,0.0013780687004327774,0.006959110900046339
+"Interlagos, Av I | Bairro/Centro",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Interlagos, Av I | Bairro/Centro",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Interlagos, Av I | Bairro/Centro",1,2023-12-03,Ingenuo,0.0,0.0
+"Interlagos, Av I | Bairro/Centro",1,2023-12-03,Chronos-2,0.0032615289092063904,0.016467482937003584
+"Interlagos, Av I | Bairro/Centro",2,2023-12-04,SN_diario(m=24),0.40166666666666667,2.030923360700206
+"Interlagos, Av I | Bairro/Centro",2,2023-12-04,SN_semanal(m=168),0.2041666666666667,1.0323158161235488
+"Interlagos, Av I | Bairro/Centro",2,2023-12-04,Ingenuo,0.40166666666666667,2.030923360700206
+"Interlagos, Av I | Bairro/Centro",2,2023-12-04,Chronos-2,0.15250530146062374,0.7711035170962856
+"Interlagos, Av I | Bairro/Centro",3,2023-12-05,SN_diario(m=24),0.04950000000000001,0.24991585324806467
+"Interlagos, Av I | Bairro/Centro",3,2023-12-05,SN_semanal(m=168),0.22991666666666669,1.1608044429485023
+"Interlagos, Av I | Bairro/Centro",3,2023-12-05,Ingenuo,0.4295,2.168461797374621
+"Interlagos, Av I | Bairro/Centro",3,2023-12-05,Chronos-2,0.07234064434468745,0.36523381527105747
+"Interlagos, Av I | Bairro/Centro",4,2023-12-06,SN_diario(m=24),0.07202083333333335,0.3640086484005206
+"Interlagos, Av I | Bairro/Centro",4,2023-12-06,SN_semanal(m=168),0.04216666666666668,0.21311932437450207
+"Interlagos, Av I | Bairro/Centro",4,2023-12-06,Ingenuo,0.36489583333333336,1.8442613470451596
+"Interlagos, Av I | Bairro/Centro",4,2023-12-06,Chronos-2,0.059292467609047904,0.299676774008
+"Interlagos, Av I | Bairro/Centro",5,2023-12-07,SN_diario(m=24),0.06937499999999999,0.3509539965707198
+"Interlagos, Av I | Bairro/Centro",5,2023-12-07,SN_semanal(m=168),0.1376666666666667,0.6964276304322273
+"Interlagos, Av I | Bairro/Centro",5,2023-12-07,Ingenuo,0.2955208333333334,1.4949797121188173
+"Interlagos, Av I | Bairro/Centro",5,2023-12-07,Chronos-2,0.08590474906067054,0.43457463073509356
+"Interlagos, Av I | Bairro/Centro",6,2023-12-08,SN_diario(m=24),0.05947916666666663,0.3011710477606998
+"Interlagos, Av I | Bairro/Centro",6,2023-12-08,SN_semanal(m=168),0.13249999999999998,0.6709099347663928
+"Interlagos, Av I | Bairro/Centro",6,2023-12-08,Ingenuo,0.355,1.7975322780533547
+"Interlagos, Av I | Bairro/Centro",6,2023-12-08,Chronos-2,0.1430828846246004,0.7244960663371923
+"Interlagos, Av I | Bairro/Centro",7,2023-12-09,SN_diario(m=24),0.355,1.7993183800110932
+"Interlagos, Av I | Bairro/Centro",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Interlagos, Av I | Bairro/Centro",7,2023-12-09,Ingenuo,0.0,0.0
+"Interlagos, Av I | Bairro/Centro",7,2023-12-09,Chronos-2,0.0019681286066770554,0.009975464721745491
+"Interlagos, Av I | Bairro/Centro",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Interlagos, Av I | Bairro/Centro",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Interlagos, Av I | Bairro/Centro",8,2023-12-10,Ingenuo,0.0,0.0
+"Interlagos, Av I | Bairro/Centro",8,2023-12-10,Chronos-2,0.0037000123411417007,0.018732283342379953
+"Interlagos, Av I | Bairro/Centro",9,2023-12-11,SN_diario(m=24),0.355,1.7998299845394248
+"Interlagos, Av I | Bairro/Centro",9,2023-12-11,SN_semanal(m=168),0.09916666666666668,0.5027694088267408
+"Interlagos, Av I | Bairro/Centro",9,2023-12-11,Ingenuo,0.355,1.7998299845394248
+"Interlagos, Av I | Bairro/Centro",9,2023-12-11,Chronos-2,0.05676129912336666,0.2877765862637935
+"Interlagos, Av I | Bairro/Centro",10,2023-12-12,SN_diario(m=24),0.1578125,0.7991963454565478
+"Interlagos, Av I | Bairro/Centro",10,2023-12-12,SN_semanal(m=168),0.18664583333333332,0.9452145292336913
+"Interlagos, Av I | Bairro/Centro",10,2023-12-12,Ingenuo,0.48968750000000005,2.4798825214463576
+"Interlagos, Av I | Bairro/Centro",10,2023-12-12,Chronos-2,0.171457378740112,0.8682969377625772
+"Interlagos, Av I | Bairro/Centro",11,2023-12-13,SN_diario(m=24),0.15781250000000002,0.7994230786143335
+"Interlagos, Av I | Bairro/Centro",11,2023-12-13,SN_semanal(m=168),0.04835416666666667,0.2449453419754281
+"Interlagos, Av I | Bairro/Centro",11,2023-12-13,Ingenuo,0.35325,1.789441283298302
+"Interlagos, Av I | Bairro/Centro",11,2023-12-13,Chronos-2,0.027027089561025303,0.13690980843000497
+"Interlagos, Av I | Bairro/Centro",12,2023-12-14,SN_diario(m=24),0.11883333333333336,0.6021385622534353
+"Interlagos, Av I | Bairro/Centro",12,2023-12-14,SN_semanal(m=168),0.17656250000000004,0.8946571379905092
+"Interlagos, Av I | Bairro/Centro",12,2023-12-14,Ingenuo,0.4720833333333334,2.3920862238188714
+"Interlagos, Av I | Bairro/Centro",12,2023-12-14,Chronos-2,0.16480105936527256,0.8350609223903077
+"Interlagos, Av I | Bairro/Centro",13,2023-12-15,SN_diario(m=24),0.17635416666666667,0.8941025219905052
+"Interlagos, Av I | Bairro/Centro",13,2023-12-15,SN_semanal(m=168),0.05927083333333327,0.30049872121240223
+"Interlagos, Av I | Bairro/Centro",13,2023-12-15,Ingenuo,0.2957291666666667,1.4993249024991404
+"Interlagos, Av I | Bairro/Centro",13,2023-12-15,Chronos-2,0.0787843488504489,0.3994307950416035
+"João Dias, Av | Bairro/Centro",0,2023-12-02,SN_diario(m=24),0.0,0.0
+"João Dias, Av | Bairro/Centro",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"João Dias, Av | Bairro/Centro",0,2023-12-02,Ingenuo,0.0,0.0
+"João Dias, Av | Bairro/Centro",0,2023-12-02,Chronos-2,0.00026092616220315296,0.0041599544892815515
+"João Dias, Av | Bairro/Centro",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"João Dias, Av | Bairro/Centro",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"João Dias, Av | Bairro/Centro",1,2023-12-03,Ingenuo,0.0,0.0
+"João Dias, Av | Bairro/Centro",1,2023-12-03,Chronos-2,0.0003968427578608195,0.006335980718590294
+"João Dias, Av | Bairro/Centro",2,2023-12-04,SN_diario(m=24),0.0,0.0
+"João Dias, Av | Bairro/Centro",2,2023-12-04,SN_semanal(m=168),0.0,0.0
+"João Dias, Av | Bairro/Centro",2,2023-12-04,Ingenuo,0.0,0.0
+"João Dias, Av | Bairro/Centro",2,2023-12-04,Chronos-2,0.0004451146038870017,0.007116898462397444
+"João Dias, Av | Bairro/Centro",3,2023-12-05,SN_diario(m=24),0.0,0.0
+"João Dias, Av | Bairro/Centro",3,2023-12-05,SN_semanal(m=168),0.0,0.0
+"João Dias, Av | Bairro/Centro",3,2023-12-05,Ingenuo,0.0,0.0
+"João Dias, Av | Bairro/Centro",3,2023-12-05,Chronos-2,0.00042467812697092694,0.0067998833740514405
+"João Dias, Av | Bairro/Centro",4,2023-12-06,SN_diario(m=24),0.0,0.0
+"João Dias, Av | Bairro/Centro",4,2023-12-06,SN_semanal(m=168),0.0,0.0
+"João Dias, Av | Bairro/Centro",4,2023-12-06,Ingenuo,0.0,0.0
+"João Dias, Av | Bairro/Centro",4,2023-12-06,Chronos-2,0.00035392384355266887,0.005675095127185428
+"João Dias, Av | Bairro/Centro",5,2023-12-07,SN_diario(m=24),0.0,0.0
+"João Dias, Av | Bairro/Centro",5,2023-12-07,SN_semanal(m=168),0.0,0.0
+"João Dias, Av | Bairro/Centro",5,2023-12-07,Ingenuo,0.0,0.0
+"João Dias, Av | Bairro/Centro",5,2023-12-07,Chronos-2,0.00035439323013027507,0.005690751287905204
+"João Dias, Av | Bairro/Centro",6,2023-12-08,SN_diario(m=24),0.0,0.0
+"João Dias, Av | Bairro/Centro",6,2023-12-08,SN_semanal(m=168),0.0,0.0
+"João Dias, Av | Bairro/Centro",6,2023-12-08,Ingenuo,0.0,0.0
+"João Dias, Av | Bairro/Centro",6,2023-12-08,Chronos-2,0.0002442634043594201,0.003927919438880627
+"João Dias, Av | Bairro/Centro",7,2023-12-09,SN_diario(m=24),0.0,0.0
+"João Dias, Av | Bairro/Centro",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"João Dias, Av | Bairro/Centro",7,2023-12-09,Ingenuo,0.0,0.0
+"João Dias, Av | Bairro/Centro",7,2023-12-09,Chronos-2,0.0001130749781926473,0.001820915417419505
+"João Dias, Av | Bairro/Centro",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"João Dias, Av | Bairro/Centro",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"João Dias, Av | Bairro/Centro",8,2023-12-10,Ingenuo,0.0,0.0
+"João Dias, Av | Bairro/Centro",8,2023-12-10,Chronos-2,0.00020729036380847296,0.0033428784613028324
+"João Dias, Av | Bairro/Centro",9,2023-12-11,SN_diario(m=24),0.0,0.0
+"João Dias, Av | Bairro/Centro",9,2023-12-11,SN_semanal(m=168),0.0,0.0
+"João Dias, Av | Bairro/Centro",9,2023-12-11,Ingenuo,0.0,0.0
+"João Dias, Av | Bairro/Centro",9,2023-12-11,Chronos-2,0.0002925933028260867,0.004725232569045436
+"João Dias, Av | Bairro/Centro",10,2023-12-12,SN_diario(m=24),0.0,0.0
+"João Dias, Av | Bairro/Centro",10,2023-12-12,SN_semanal(m=168),0.0,0.0
+"João Dias, Av | Bairro/Centro",10,2023-12-12,Ingenuo,0.0,0.0
+"João Dias, Av | Bairro/Centro",10,2023-12-12,Chronos-2,0.0003731055185198784,0.006034022675195433
+"João Dias, Av | Bairro/Centro",11,2023-12-13,SN_diario(m=24),0.0,0.0
+"João Dias, Av | Bairro/Centro",11,2023-12-13,SN_semanal(m=168),0.0,0.0
+"João Dias, Av | Bairro/Centro",11,2023-12-13,Ingenuo,0.0,0.0
+"João Dias, Av | Bairro/Centro",11,2023-12-13,Chronos-2,0.0002544654222826163,0.004121161428140841
+"João Dias, Av | Bairro/Centro",12,2023-12-14,SN_diario(m=24),0.0,0.0
+"João Dias, Av | Bairro/Centro",12,2023-12-14,SN_semanal(m=168),0.0,0.0
+"João Dias, Av | Bairro/Centro",12,2023-12-14,Ingenuo,0.0,0.0
+"João Dias, Av | Bairro/Centro",12,2023-12-14,Chronos-2,0.00023334364717205366,0.00378443929863596
+"João Dias, Av | Bairro/Centro",13,2023-12-15,SN_diario(m=24),0.0,0.0
+"João Dias, Av | Bairro/Centro",13,2023-12-15,SN_semanal(m=168),0.0,0.0
+"João Dias, Av | Bairro/Centro",13,2023-12-15,Ingenuo,0.0,0.0
+"João Dias, Av | Bairro/Centro",13,2023-12-15,Chronos-2,0.00021899755423267683,0.003556793654827255
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",0,2023-12-02,SN_diario(m=24),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",0,2023-12-02,Ingenuo,0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",0,2023-12-02,Chronos-2,0.0003495321919520696,0.0036950186932393843
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",1,2023-12-03,Ingenuo,0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",1,2023-12-03,Chronos-2,0.000315103679895401,0.00333638486202604
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",2,2023-12-04,SN_diario(m=24),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",2,2023-12-04,SN_semanal(m=168),0.07083333333333333,0.7511945865580075
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",2,2023-12-04,Ingenuo,0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",2,2023-12-04,Chronos-2,0.0003671664744615555,0.0038938371950274268
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",3,2023-12-05,SN_diario(m=24),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",3,2023-12-05,SN_semanal(m=168),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",3,2023-12-05,Ingenuo,0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",3,2023-12-05,Chronos-2,0.00019845863183339438,0.0021080250366463634
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",4,2023-12-06,SN_diario(m=24),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",4,2023-12-06,SN_semanal(m=168),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",4,2023-12-06,Ingenuo,0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",4,2023-12-06,Chronos-2,0.00031431081394354504,0.0033439132248006802
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",5,2023-12-07,SN_diario(m=24),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",5,2023-12-07,SN_semanal(m=168),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",5,2023-12-07,Ingenuo,0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",5,2023-12-07,Chronos-2,0.00023379921913146973,0.002491308683226096
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",6,2023-12-08,SN_diario(m=24),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",6,2023-12-08,SN_semanal(m=168),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",6,2023-12-08,Ingenuo,0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",6,2023-12-08,Chronos-2,0.00020111848910649618,0.0021464669317242746
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",7,2023-12-09,SN_diario(m=24),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",7,2023-12-09,Ingenuo,0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",7,2023-12-09,Chronos-2,0.0002926774322986603,0.003128585818831826
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",8,2023-12-10,Ingenuo,0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",8,2023-12-10,Chronos-2,0.00023479262987772623,0.0025137891323192265
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",9,2023-12-11,SN_diario(m=24),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",9,2023-12-11,SN_semanal(m=168),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",9,2023-12-11,Ingenuo,0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",9,2023-12-11,Chronos-2,0.00015521918733914694,0.001664463426441261
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",10,2023-12-12,SN_diario(m=24),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",10,2023-12-12,SN_semanal(m=168),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",10,2023-12-12,Ingenuo,0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",10,2023-12-12,Chronos-2,0.00017833709716796875,0.0019153755312730657
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",11,2023-12-13,SN_diario(m=24),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",11,2023-12-13,SN_semanal(m=168),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",11,2023-12-13,Ingenuo,0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",11,2023-12-13,Chronos-2,0.0001581969360510508,0.00170173772384977
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",12,2023-12-14,SN_diario(m=24),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",12,2023-12-14,SN_semanal(m=168),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",12,2023-12-14,Ingenuo,0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",12,2023-12-14,Chronos-2,0.00021342684825261435,0.0022994546876442218
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",13,2023-12-15,SN_diario(m=24),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",13,2023-12-15,SN_semanal(m=168),0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",13,2023-12-15,Ingenuo,0.0,0.0
+"Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera",13,2023-12-15,Chronos-2,0.00015975845356782278,0.0017239308134841611
+"Jânio Quadros, Túnel | unico//",0,2023-12-02,SN_diario(m=24),0.065,1.3315678530389852
+"Jânio Quadros, Túnel | unico//",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Jânio Quadros, Túnel | unico//",0,2023-12-02,Ingenuo,0.0,0.0
+"Jânio Quadros, Túnel | unico//",0,2023-12-02,Chronos-2,0.00046185900767644245,0.009461486265514409
+"Jânio Quadros, Túnel | unico//",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Jânio Quadros, Túnel | unico//",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Jânio Quadros, Túnel | unico//",1,2023-12-03,Ingenuo,0.0,0.0
+"Jânio Quadros, Túnel | unico//",1,2023-12-03,Chronos-2,0.0006682594927648703,0.013683005054295927
+"Jânio Quadros, Túnel | unico//",2,2023-12-04,SN_diario(m=24),0.049375,1.0124820572799977
+"Jânio Quadros, Túnel | unico//",2,2023-12-04,SN_semanal(m=168),0.0006250000000000006,0.012816228573164539
+"Jânio Quadros, Túnel | unico//",2,2023-12-04,Ingenuo,0.049375,1.0124820572799977
+"Jânio Quadros, Túnel | unico//",2,2023-12-04,Chronos-2,0.014049835366507371,0.28810544235598284
+"Jânio Quadros, Túnel | unico//",3,2023-12-05,SN_diario(m=24),0.033125,0.6792475723553746
+"Jânio Quadros, Túnel | unico//",3,2023-12-05,SN_semanal(m=168),0.3333333333333333,6.835195696657856
+"Jânio Quadros, Túnel | unico//",3,2023-12-05,Ingenuo,0.05000000000000001,1.0252793544986787
+"Jânio Quadros, Túnel | unico//",3,2023-12-05,Chronos-2,0.03948618943492572,0.8096874963090637
+"Jânio Quadros, Túnel | unico//",4,2023-12-06,SN_diario(m=24),0.09999999999999999,2.051530693414344
+"Jânio Quadros, Túnel | unico//",4,2023-12-06,SN_semanal(m=168),0.050249999999999996,1.0308941734407078
+"Jânio Quadros, Túnel | unico//",4,2023-12-06,Ingenuo,0.15,3.077296040121516
+"Jânio Quadros, Túnel | unico//",4,2023-12-06,Chronos-2,0.09719511937970916,1.9939877065754468
+"Jânio Quadros, Túnel | unico//",5,2023-12-07,SN_diario(m=24),0.09999999999999999,2.0483538395305096
+"Jânio Quadros, Túnel | unico//",5,2023-12-07,SN_semanal(m=168),0.016666666666666666,0.3413923065884183
+"Jânio Quadros, Túnel | unico//",5,2023-12-07,Ingenuo,0.05000000000000001,1.0241769197652553
+"Jânio Quadros, Túnel | unico//",5,2023-12-07,Chronos-2,0.03147395813527206,0.6446980299160705
+"Jânio Quadros, Túnel | unico//",6,2023-12-08,SN_diario(m=24),0.05000000000000001,1.0225980617323926
+"Jânio Quadros, Túnel | unico//",6,2023-12-08,SN_semanal(m=168),0.065,1.32937748025211
+"Jânio Quadros, Túnel | unico//",6,2023-12-08,Ingenuo,0.0,0.0
+"Jânio Quadros, Túnel | unico//",6,2023-12-08,Chronos-2,0.04527813925718268,0.9260267488648871
+"Jânio Quadros, Túnel | unico//",7,2023-12-09,SN_diario(m=24),0.0,0.0
+"Jânio Quadros, Túnel | unico//",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Jânio Quadros, Túnel | unico//",7,2023-12-09,Ingenuo,0.0,0.0
+"Jânio Quadros, Túnel | unico//",7,2023-12-09,Chronos-2,0.00045721543331940967,0.009350641573461412
+"Jânio Quadros, Túnel | unico//",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Jânio Quadros, Túnel | unico//",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Jânio Quadros, Túnel | unico//",8,2023-12-10,Ingenuo,0.0,0.0
+"Jânio Quadros, Túnel | unico//",8,2023-12-10,Chronos-2,0.0005053328350186348,0.010349902199195191
+"Jânio Quadros, Túnel | unico//",9,2023-12-11,SN_diario(m=24),0.0,0.0
+"Jânio Quadros, Túnel | unico//",9,2023-12-11,SN_semanal(m=168),0.049375,1.0127519755787637
+"Jânio Quadros, Túnel | unico//",9,2023-12-11,Ingenuo,0.0,0.0
+"Jânio Quadros, Túnel | unico//",9,2023-12-11,Chronos-2,0.05287743220105767,1.08459187696513
+"Jânio Quadros, Túnel | unico//",10,2023-12-12,SN_diario(m=24),0.0,0.0
+"Jânio Quadros, Túnel | unico//",10,2023-12-12,SN_semanal(m=168),0.05000000000000001,1.0270753915442974
+"Jânio Quadros, Túnel | unico//",10,2023-12-12,Ingenuo,0.0,0.0
+"Jânio Quadros, Túnel | unico//",10,2023-12-12,Chronos-2,0.03101750447725256,0.6371463111140233
+"Jânio Quadros, Túnel | unico//",11,2023-12-13,SN_diario(m=24),0.06666666666666667,1.3714388829991202
+"Jânio Quadros, Túnel | unico//",11,2023-12-13,SN_semanal(m=168),0.08333333333333333,1.7142986037489
+"Jânio Quadros, Túnel | unico//",11,2023-12-13,Ingenuo,0.06666666666666667,1.3714388829991202
+"Jânio Quadros, Túnel | unico//",11,2023-12-13,Chronos-2,0.0637527282970647,1.3114945572580923
+"Jânio Quadros, Túnel | unico//",12,2023-12-14,SN_diario(m=24),0.23062500000000005,4.741750188220523
+"Jânio Quadros, Túnel | unico//",12,2023-12-14,SN_semanal(m=168),0.21395833333333333,4.399076281212715
+"Jânio Quadros, Túnel | unico//",12,2023-12-14,Ingenuo,0.21770833333333336,4.476177910289472
+"Jânio Quadros, Túnel | unico//",12,2023-12-14,Chronos-2,0.2173859259982904,4.469549075420644
+"Jânio Quadros, Túnel | unico//",13,2023-12-15,SN_diario(m=24),0.23062500000000005,4.716026872712324
+"Jânio Quadros, Túnel | unico//",13,2023-12-15,SN_semanal(m=168),0.06666666666666667,1.3632598006033816
+"Jânio Quadros, Túnel | unico//",13,2023-12-15,Ingenuo,0.06666666666666667,1.3632598006033816
+"Jânio Quadros, Túnel | unico//",13,2023-12-15,Chronos-2,0.0173071900382638,0.35391294660852507
+Ligação Leste-Oeste | Penha/Lapa,0,2023-12-02,SN_diario(m=24),0.23625,1.9684286539426532
+Ligação Leste-Oeste | Penha/Lapa,0,2023-12-02,SN_semanal(m=168),0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,0,2023-12-02,Ingenuo,0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,0,2023-12-02,Chronos-2,0.001134848843018214,0.009455530076151197
+Ligação Leste-Oeste | Penha/Lapa,1,2023-12-03,SN_diario(m=24),0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,1,2023-12-03,SN_semanal(m=168),0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,1,2023-12-03,Ingenuo,0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,1,2023-12-03,Chronos-2,0.0016340858613451321,0.013596021745214576
+Ligação Leste-Oeste | Penha/Lapa,2,2023-12-04,SN_diario(m=24),0.27,2.2497358347194556
+Ligação Leste-Oeste | Penha/Lapa,2,2023-12-04,SN_semanal(m=168),0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,2,2023-12-04,Ingenuo,0.27,2.2497358347194556
+Ligação Leste-Oeste | Penha/Lapa,2,2023-12-04,Chronos-2,0.04498222421854736,0.3748078583327828
+Ligação Leste-Oeste | Penha/Lapa,3,2023-12-05,SN_diario(m=24),0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,3,2023-12-05,SN_semanal(m=168),0.03375,0.2807085568144777
+Ligação Leste-Oeste | Penha/Lapa,3,2023-12-05,Ingenuo,0.27,2.2456684545158216
+Ligação Leste-Oeste | Penha/Lapa,3,2023-12-05,Chronos-2,0.019726861268281937,0.16407403724737302
+Ligação Leste-Oeste | Penha/Lapa,4,2023-12-06,SN_diario(m=24),0.10125,0.8433461424295831
+Ligação Leste-Oeste | Penha/Lapa,4,2023-12-06,SN_semanal(m=168),0.03375,0.28111538080986104
+Ligação Leste-Oeste | Penha/Lapa,4,2023-12-06,Ingenuo,0.16875000000000004,1.4055769040493054
+Ligação Leste-Oeste | Penha/Lapa,4,2023-12-06,Chronos-2,0.10009631888320049,0.8337367348301092
+Ligação Leste-Oeste | Penha/Lapa,5,2023-12-07,SN_diario(m=24),0.0675,0.5623580673431109
+Ligação Leste-Oeste | Penha/Lapa,5,2023-12-07,SN_semanal(m=168),0.10125,0.8435371010146663
+Ligação Leste-Oeste | Penha/Lapa,5,2023-12-07,Ingenuo,0.23625,1.968253235700888
+Ligação Leste-Oeste | Penha/Lapa,5,2023-12-07,Chronos-2,0.07463922033707303,0.6218365584704149
+Ligação Leste-Oeste | Penha/Lapa,6,2023-12-08,SN_diario(m=24),0.135,1.1254268619400796
+Ligação Leste-Oeste | Penha/Lapa,6,2023-12-08,SN_semanal(m=168),0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,6,2023-12-08,Ingenuo,0.23625,1.969497008395139
+Ligação Leste-Oeste | Penha/Lapa,6,2023-12-08,Chronos-2,0.08696537849803766,0.7249864668183541
+Ligação Leste-Oeste | Penha/Lapa,7,2023-12-09,SN_diario(m=24),0.23625,1.9691411248331725
+Ligação Leste-Oeste | Penha/Lapa,7,2023-12-09,SN_semanal(m=168),0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,7,2023-12-09,Ingenuo,0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,7,2023-12-09,Chronos-2,0.0009935181587934494,0.008280962813751177
+Ligação Leste-Oeste | Penha/Lapa,8,2023-12-10,SN_diario(m=24),0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,8,2023-12-10,SN_semanal(m=168),0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,8,2023-12-10,Ingenuo,0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,8,2023-12-10,Chronos-2,0.001942722126841545,0.016170019094735845
+Ligação Leste-Oeste | Penha/Lapa,9,2023-12-11,SN_diario(m=24),0.23625000000000004,1.9692284354286669
+Ligação Leste-Oeste | Penha/Lapa,9,2023-12-11,SN_semanal(m=168),0.03375,0.28131834791838095
+Ligação Leste-Oeste | Penha/Lapa,9,2023-12-11,Ingenuo,0.23625000000000004,1.9692284354286669
+Ligação Leste-Oeste | Penha/Lapa,9,2023-12-11,Chronos-2,0.011717861418922745,0.0976725752743076
+Ligação Leste-Oeste | Penha/Lapa,10,2023-12-12,SN_diario(m=24),0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,10,2023-12-12,SN_semanal(m=168),0.03375,0.28092769782794424
+Ligação Leste-Oeste | Penha/Lapa,10,2023-12-12,Ingenuo,0.23625000000000004,1.9664938847956102
+Ligação Leste-Oeste | Penha/Lapa,10,2023-12-12,Chronos-2,0.024432067039112253,0.20336723989557937
+Ligação Leste-Oeste | Penha/Lapa,11,2023-12-13,SN_diario(m=24),0.0675,0.562661500958121
+Ligação Leste-Oeste | Penha/Lapa,11,2023-12-13,SN_semanal(m=168),0.0,0.0
+Ligação Leste-Oeste | Penha/Lapa,11,2023-12-13,Ingenuo,0.16875000000000004,1.4066537523953024
+Ligação Leste-Oeste | Penha/Lapa,11,2023-12-13,Chronos-2,0.06894751918812593,0.5747276242034041
+Ligação Leste-Oeste | Penha/Lapa,12,2023-12-14,SN_diario(m=24),0.13497916666666668,1.1258537460914253
+Ligação Leste-Oeste | Penha/Lapa,12,2023-12-14,SN_semanal(m=168),0.1350625,1.1265488248048634
+Ligação Leste-Oeste | Penha/Lapa,12,2023-12-14,Ingenuo,0.1011875,0.84399932779226
+Ligação Leste-Oeste | Penha/Lapa,12,2023-12-14,Chronos-2,0.11789647142589092,0.9833679321312546
+Ligação Leste-Oeste | Penha/Lapa,13,2023-12-15,SN_diario(m=24),0.06745833333333333,0.5625650743538481
+Ligação Leste-Oeste | Penha/Lapa,13,2023-12-15,SN_semanal(m=168),0.06760416666666669,0.5637812434460276
+Ligação Leste-Oeste | Penha/Lapa,13,2023-12-15,Ingenuo,0.16864583333333336,1.4064126858846204
+Ligação Leste-Oeste | Penha/Lapa,13,2023-12-15,Chronos-2,0.07071825429797172,0.5897510066062429
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",0,2023-12-02,SN_diario(m=24),0.07708333333333334,1.5432184960373787
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",0,2023-12-02,Ingenuo,0.0,0.0
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",0,2023-12-02,Chronos-2,0.0002902117557823658,0.005810077612421573
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",1,2023-12-03,Ingenuo,0.0,0.0
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",1,2023-12-03,Chronos-2,0.0004981670839091142,0.009965502318825536
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",2,2023-12-04,SN_diario(m=24),0.09375,1.8781324923887326
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",2,2023-12-04,SN_semanal(m=168),0.13541666666666666,2.7128580445615023
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",2,2023-12-04,Ingenuo,0.09375,1.8781324923887326
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",2,2023-12-04,Chronos-2,0.025540527965252597,0.5116639514059091
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",3,2023-12-05,SN_diario(m=24),0.08750000000000001,1.7506956266439202
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",3,2023-12-05,SN_semanal(m=168),0.27291666666666664,5.460503025960798
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",3,2023-12-05,Ingenuo,0.13958333333333334,2.7927763567891106
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",3,2023-12-05,Chronos-2,0.060288166254758836,1.2062426171495755
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",4,2023-12-06,SN_diario(m=24),0.3727291666666667,7.449453523924072
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",4,2023-12-06,SN_semanal(m=168),0.30206250000000007,6.037092764148182
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",4,2023-12-06,Ingenuo,0.4890208333333334,9.77368635442791
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",4,2023-12-06,Chronos-2,0.40528758992006386,8.100173892838313
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",5,2023-12-07,SN_diario(m=24),0.4478958333333334,8.869092237961219
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",5,2023-12-07,SN_semanal(m=168),0.09375,1.8564079757581973
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",5,2023-12-07,Ingenuo,0.10416666666666667,2.062675528620219
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",5,2023-12-07,Chronos-2,0.09378895598153274,1.8571793698362864
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",6,2023-12-08,SN_diario(m=24),0.27125,5.310901201460681
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",6,2023-12-08,SN_semanal(m=168),0.24333333333333332,4.764310755227401
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",6,2023-12-08,Ingenuo,0.3204166666666667,6.273553032140191
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",6,2023-12-08,Chronos-2,0.2883441380908092,5.645593472518427
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",7,2023-12-09,SN_diario(m=24),0.3204166666666667,6.234824340869371
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",7,2023-12-09,Ingenuo,0.0,0.0
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",7,2023-12-09,Chronos-2,0.00037879031151533127,0.007370687295671091
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",8,2023-12-10,Ingenuo,0.0,0.0
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",8,2023-12-10,Chronos-2,0.0007574128297468027,0.014627930241756265
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",9,2023-12-11,SN_diario(m=24),0.3354166666666667,6.487230017159412
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",9,2023-12-11,SN_semanal(m=168),0.2416666666666667,4.674029080686284
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",9,2023-12-11,Ingenuo,0.3354166666666667,6.487230017159412
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",9,2023-12-11,Chronos-2,0.21557487466682992,4.169392689343713
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",10,2023-12-12,SN_diario(m=24),0.21314583333333337,4.090212293912238
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",10,2023-12-12,SN_semanal(m=168),0.04539583333333334,0.8711340620110218
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",10,2023-12-12,Ingenuo,0.12227083333333333,2.346345025214634
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",10,2023-12-12,Chronos-2,0.08548987082702418,1.640528060967632
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",11,2023-12-13,SN_diario(m=24),0.27606249999999993,5.274216311799928
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",11,2023-12-13,SN_semanal(m=168),0.12297916666666663,2.349535800207907
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",11,2023-12-13,Ingenuo,0.378875,7.238464858983739
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",11,2023-12-13,Chronos-2,0.2918928807924191,5.576658159560423
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",12,2023-12-14,SN_diario(m=24),0.14608333333333334,2.7739822085285417
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",12,2023-12-14,SN_semanal(m=168),0.21229166666666668,4.03121487520049
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",12,2023-12-14,Ingenuo,0.254375,4.830336960372717
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",12,2023-12-14,Chronos-2,0.1254217330242197,2.381638261074743
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",13,2023-12-15,SN_diario(m=24),0.229375,4.344600620318999
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",13,2023-12-15,SN_semanal(m=168),0.17875,3.3857105651532247
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",13,2023-12-15,Ingenuo,0.1416666666666667,2.683313734620272
+"Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré",13,2023-12-15,Chronos-2,0.1421887994123002,2.693203470862531
+Marginal Pinheiros | Castelo/Interlagos,0,2023-12-02,SN_diario(m=24),0.21583333333333332,0.2143467780302203
+Marginal Pinheiros | Castelo/Interlagos,0,2023-12-02,SN_semanal(m=168),0.0,0.0
+Marginal Pinheiros | Castelo/Interlagos,0,2023-12-02,Ingenuo,0.0,0.0
+Marginal Pinheiros | Castelo/Interlagos,0,2023-12-02,Chronos-2,0.005550960699717204,0.0055127283750892354
+Marginal Pinheiros | Castelo/Interlagos,1,2023-12-03,SN_diario(m=24),0.0,0.0
+Marginal Pinheiros | Castelo/Interlagos,1,2023-12-03,SN_semanal(m=168),0.0,0.0
+Marginal Pinheiros | Castelo/Interlagos,1,2023-12-03,Ingenuo,0.0,0.0
+Marginal Pinheiros | Castelo/Interlagos,1,2023-12-03,Chronos-2,0.004996222754319509,0.004967418477651968
+Marginal Pinheiros | Castelo/Interlagos,2,2023-12-04,SN_diario(m=24),0.08437500000000002,0.08400908989155645
+Marginal Pinheiros | Castelo/Interlagos,2,2023-12-04,SN_semanal(m=168),0.08437500000000002,0.08400908989155645
+Marginal Pinheiros | Castelo/Interlagos,2,2023-12-04,Ingenuo,0.08437500000000002,0.08400908989155645
+Marginal Pinheiros | Castelo/Interlagos,2,2023-12-04,Chronos-2,0.07877898067235947,0.0784373388903044
+Marginal Pinheiros | Castelo/Interlagos,3,2023-12-05,SN_diario(m=24),0.34883333333333333,0.34777693390816716
+Marginal Pinheiros | Castelo/Interlagos,3,2023-12-05,SN_semanal(m=168),0.43320833333333336,0.4318964144581001
+Marginal Pinheiros | Castelo/Interlagos,3,2023-12-05,Ingenuo,0.43320833333333336,0.4318964144581001
+Marginal Pinheiros | Castelo/Interlagos,3,2023-12-05,Chronos-2,0.4060423603951931,0.4048127103728865
+Marginal Pinheiros | Castelo/Interlagos,4,2023-12-06,SN_diario(m=24),0.9805416666666665,0.9784852203947265
+Marginal Pinheiros | Castelo/Interlagos,4,2023-12-06,SN_semanal(m=168),1.05975,1.0575274336259497
+Marginal Pinheiros | Castelo/Interlagos,4,2023-12-06,Ingenuo,1.05975,1.0575274336259497
+Marginal Pinheiros | Castelo/Interlagos,4,2023-12-06,Chronos-2,0.9262296936015287,0.9242871534065341
+Marginal Pinheiros | Castelo/Interlagos,5,2023-12-07,SN_diario(m=24),1.1414166666666667,1.1390578338352357
+Marginal Pinheiros | Castelo/Interlagos,5,2023-12-07,SN_semanal(m=168),1.2201666666666666,1.2176450903858889
+Marginal Pinheiros | Castelo/Interlagos,5,2023-12-07,Ingenuo,1.64125,1.6378582198572655
+Marginal Pinheiros | Castelo/Interlagos,5,2023-12-07,Chronos-2,1.315463249941667,1.3127447353158335
+Marginal Pinheiros | Castelo/Interlagos,6,2023-12-08,SN_diario(m=24),1.0681666666666667,1.065747797979556
+Marginal Pinheiros | Castelo/Interlagos,6,2023-12-08,SN_semanal(m=168),0.6272500000000001,0.6258295892800841
+Marginal Pinheiros | Castelo/Interlagos,6,2023-12-08,Ingenuo,0.58225,0.5809314920021187
+Marginal Pinheiros | Castelo/Interlagos,6,2023-12-08,Chronos-2,0.4442483486334483,0.4432423460560009
+Marginal Pinheiros | Castelo/Interlagos,7,2023-12-09,SN_diario(m=24),0.58225,0.5808770883134388
+Marginal Pinheiros | Castelo/Interlagos,7,2023-12-09,SN_semanal(m=168),0.0,0.0
+Marginal Pinheiros | Castelo/Interlagos,7,2023-12-09,Ingenuo,0.0,0.0
+Marginal Pinheiros | Castelo/Interlagos,7,2023-12-09,Chronos-2,0.005867163340250651,0.005853328909822495
+Marginal Pinheiros | Castelo/Interlagos,8,2023-12-10,SN_diario(m=24),0.0,0.0
+Marginal Pinheiros | Castelo/Interlagos,8,2023-12-10,SN_semanal(m=168),0.0,0.0
+Marginal Pinheiros | Castelo/Interlagos,8,2023-12-10,Ingenuo,0.0,0.0
+Marginal Pinheiros | Castelo/Interlagos,8,2023-12-10,Chronos-2,0.009233849744002024,0.009217572304574059
+Marginal Pinheiros | Castelo/Interlagos,9,2023-12-11,SN_diario(m=24),1.3637500000000002,1.3632824609244896
+Marginal Pinheiros | Castelo/Interlagos,9,2023-12-11,SN_semanal(m=168),1.279375,1.278936387494239
+Marginal Pinheiros | Castelo/Interlagos,9,2023-12-11,Ingenuo,1.3637500000000002,1.3632824609244896
+Marginal Pinheiros | Castelo/Interlagos,9,2023-12-11,Chronos-2,1.3226183371742566,1.322164899407352
+Marginal Pinheiros | Castelo/Interlagos,10,2023-12-12,SN_diario(m=24),1.5335416666666666,1.5322263698635292
+Marginal Pinheiros | Castelo/Interlagos,10,2023-12-12,SN_semanal(m=168),2.4640833333333334,2.4619699242219646
+Marginal Pinheiros | Castelo/Interlagos,10,2023-12-12,Ingenuo,2.8972916666666664,2.8948067009498843
+Marginal Pinheiros | Castelo/Interlagos,10,2023-12-12,Chronos-2,2.2693886547287305,2.267442232464816
+Marginal Pinheiros | Castelo/Interlagos,11,2023-12-13,SN_diario(m=24),1.0735416666666666,1.0718129065846018
+Marginal Pinheiros | Castelo/Interlagos,11,2023-12-13,SN_semanal(m=168),0.9804166666666667,0.9788378688894114
+Marginal Pinheiros | Castelo/Interlagos,11,2023-12-13,Ingenuo,1.8237500000000002,1.8208131543259471
+Marginal Pinheiros | Castelo/Interlagos,11,2023-12-13,Chronos-2,0.6380182061096032,0.6369907840349878
+Marginal Pinheiros | Castelo/Interlagos,12,2023-12-14,SN_diario(m=24),0.7925000000000001,0.7911434510174666
+Marginal Pinheiros | Castelo/Interlagos,12,2023-12-14,SN_semanal(m=168),0.46041666666666675,0.4596285559276029
+Marginal Pinheiros | Castelo/Interlagos,12,2023-12-14,Ingenuo,1.375,1.3726463661186328
+Marginal Pinheiros | Castelo/Interlagos,12,2023-12-14,Chronos-2,0.6278844550251961,0.6268096840237917
+Marginal Pinheiros | Castelo/Interlagos,13,2023-12-15,SN_diario(m=24),0.53625,0.5354900497407913
+Marginal Pinheiros | Castelo/Interlagos,13,2023-12-15,SN_semanal(m=168),0.7640833333333333,0.7630005075483007
+Marginal Pinheiros | Castelo/Interlagos,13,2023-12-15,Ingenuo,1.0725,1.0709800994815826
+Marginal Pinheiros | Castelo/Interlagos,13,2023-12-15,Chronos-2,0.6513173923889796,0.650394373608237
+Marginal Pinheiros | Interlagos/Castelo,0,2023-12-02,SN_diario(m=24),3.3979999999999997,2.6160697648882425
+Marginal Pinheiros | Interlagos/Castelo,0,2023-12-02,SN_semanal(m=168),0.0,0.0
+Marginal Pinheiros | Interlagos/Castelo,0,2023-12-02,Ingenuo,0.0,0.0
+Marginal Pinheiros | Interlagos/Castelo,0,2023-12-02,Chronos-2,0.06261740624904633,0.048208211666819954
+Marginal Pinheiros | Interlagos/Castelo,1,2023-12-03,SN_diario(m=24),0.0,0.0
+Marginal Pinheiros | Interlagos/Castelo,1,2023-12-03,SN_semanal(m=168),0.0,0.0
+Marginal Pinheiros | Interlagos/Castelo,1,2023-12-03,Ingenuo,0.0,0.0
+Marginal Pinheiros | Interlagos/Castelo,1,2023-12-03,Chronos-2,0.01927296817302704,0.014803599076964883
+Marginal Pinheiros | Interlagos/Castelo,2,2023-12-04,SN_diario(m=24),1.9823333333333337,1.5248212395562615
+Marginal Pinheiros | Interlagos/Castelo,2,2023-12-04,SN_semanal(m=168),1.9823333333333337,1.5248212395562615
+Marginal Pinheiros | Interlagos/Castelo,2,2023-12-04,Ingenuo,1.9823333333333337,1.5248212395562615
+Marginal Pinheiros | Interlagos/Castelo,2,2023-12-04,Chronos-2,1.2274705678621929,0.9441768250242761
+Marginal Pinheiros | Interlagos/Castelo,3,2023-12-05,SN_diario(m=24),0.5574583333333334,0.4284777163912855
+Marginal Pinheiros | Interlagos/Castelo,3,2023-12-05,SN_semanal(m=168),1.0252083333333333,0.7880031550794213
+Marginal Pinheiros | Interlagos/Castelo,3,2023-12-05,Ingenuo,1.8968749999999996,1.457989987197344
+Marginal Pinheiros | Interlagos/Castelo,3,2023-12-05,Chronos-2,0.40462319423755005,0.31100444983784076
+Marginal Pinheiros | Interlagos/Castelo,4,2023-12-06,SN_diario(m=24),1.4029166666666668,1.0792024936083313
+Marginal Pinheiros | Interlagos/Castelo,4,2023-12-06,SN_semanal(m=168),2.2786666666666666,1.752878704201141
+Marginal Pinheiros | Interlagos/Castelo,4,2023-12-06,Ingenuo,3.2989583333333337,2.5377445034582604
+Marginal Pinheiros | Interlagos/Castelo,4,2023-12-06,Chronos-2,1.6884527275959653,1.2988529092685623
+Marginal Pinheiros | Interlagos/Castelo,5,2023-12-07,SN_diario(m=24),0.6837499999999999,0.52591949379871
+Marginal Pinheiros | Interlagos/Castelo,5,2023-12-07,SN_semanal(m=168),1.698875,1.306722457078294
+Marginal Pinheiros | Interlagos/Castelo,5,2023-12-07,Ingenuo,2.801458333333333,2.1547956834586395
+Marginal Pinheiros | Interlagos/Castelo,5,2023-12-07,Chronos-2,1.2651994176705676,0.9731525225531668
+Marginal Pinheiros | Interlagos/Castelo,6,2023-12-08,SN_diario(m=24),0.6406250000000001,0.4930825363310611
+Marginal Pinheiros | Interlagos/Castelo,6,2023-12-08,SN_semanal(m=168),0.9906666666666668,0.7625060412232395
+Marginal Pinheiros | Interlagos/Castelo,6,2023-12-08,Ingenuo,2.8366666666666664,2.1833534356695043
+Marginal Pinheiros | Interlagos/Castelo,6,2023-12-08,Chronos-2,1.6595392761627832,1.2773304748196812
+Marginal Pinheiros | Interlagos/Castelo,7,2023-12-09,SN_diario(m=24),2.8366666666666664,2.184931184635896
+Marginal Pinheiros | Interlagos/Castelo,7,2023-12-09,SN_semanal(m=168),0.0,0.0
+Marginal Pinheiros | Interlagos/Castelo,7,2023-12-09,Ingenuo,0.0,0.0
+Marginal Pinheiros | Interlagos/Castelo,7,2023-12-09,Chronos-2,0.06722751756509145,0.0517817272362958
+Marginal Pinheiros | Interlagos/Castelo,8,2023-12-10,SN_diario(m=24),0.0825,0.06343836831306507
+Marginal Pinheiros | Interlagos/Castelo,8,2023-12-10,SN_semanal(m=168),0.0825,0.06343836831306507
+Marginal Pinheiros | Interlagos/Castelo,8,2023-12-10,Ingenuo,0.0825,0.06343836831306507
+Marginal Pinheiros | Interlagos/Castelo,8,2023-12-10,Chronos-2,0.10080101013183594,0.07751092857057469
+Marginal Pinheiros | Interlagos/Castelo,9,2023-12-11,SN_diario(m=24),1.328125,1.0226220494175269
+Marginal Pinheiros | Interlagos/Castelo,9,2023-12-11,SN_semanal(m=168),0.7883749999999999,0.607028448534244
+Marginal Pinheiros | Interlagos/Castelo,9,2023-12-11,Ingenuo,1.4106250000000002,1.086144924957816
+Marginal Pinheiros | Interlagos/Castelo,9,2023-12-11,Chronos-2,0.593116469681263,0.4566844082964643
+Marginal Pinheiros | Interlagos/Castelo,10,2023-12-12,SN_diario(m=24),1.5885416666666667,1.2230969300036687
+Marginal Pinheiros | Interlagos/Castelo,10,2023-12-12,SN_semanal(m=168),1.560625,1.201602505266555
+Marginal Pinheiros | Interlagos/Castelo,10,2023-12-12,Ingenuo,2.6162500000000004,2.01438049140801
+Marginal Pinheiros | Interlagos/Castelo,10,2023-12-12,Chronos-2,1.5295696486035981,1.1776914516567194
+Marginal Pinheiros | Interlagos/Castelo,11,2023-12-13,SN_diario(m=24),1.4727083333333335,1.1335529037493248
+Marginal Pinheiros | Interlagos/Castelo,11,2023-12-13,SN_semanal(m=168),1.979583333333333,1.5236977919686068
+Marginal Pinheiros | Interlagos/Castelo,11,2023-12-13,Ingenuo,1.5818750000000001,1.2175791764278714
+Marginal Pinheiros | Interlagos/Castelo,11,2023-12-13,Chronos-2,1.3407199103633562,1.031960581133569
+Marginal Pinheiros | Interlagos/Castelo,12,2023-12-14,SN_diario(m=24),1.4104166666666667,1.0854015812826523
+Marginal Pinheiros | Interlagos/Castelo,12,2023-12-14,SN_semanal(m=168),0.4375,0.33668291295325997
+Marginal Pinheiros | Interlagos/Castelo,12,2023-12-14,Ingenuo,2.363958333333333,1.8192100063241146
+Marginal Pinheiros | Interlagos/Castelo,12,2023-12-14,Chronos-2,1.4816635762651762,1.1402304202827525
+Marginal Pinheiros | Interlagos/Castelo,13,2023-12-15,SN_diario(m=24),0.900875,0.6931945996306806
+Marginal Pinheiros | Interlagos/Castelo,13,2023-12-15,SN_semanal(m=168),1.4768333333333332,1.1363761800707572
+Marginal Pinheiros | Interlagos/Castelo,13,2023-12-15,Ingenuo,1.5556666666666665,1.1970359174788905
+Marginal Pinheiros | Interlagos/Castelo,13,2023-12-15,Chronos-2,0.8060134398937224,0.6202016525756366
+Marginal Tietê - Pista Central | Castelo/A.Senna,0,2023-12-02,SN_diario(m=24),1.64375,2.932100104129217
+Marginal Tietê - Pista Central | Castelo/A.Senna,0,2023-12-02,SN_semanal(m=168),0.0,0.0
+Marginal Tietê - Pista Central | Castelo/A.Senna,0,2023-12-02,Ingenuo,0.0,0.0
+Marginal Tietê - Pista Central | Castelo/A.Senna,0,2023-12-02,Chronos-2,0.013059109449386597,0.02329467143810268
+Marginal Tietê - Pista Central | Castelo/A.Senna,1,2023-12-03,SN_diario(m=24),0.0,0.0
+Marginal Tietê - Pista Central | Castelo/A.Senna,1,2023-12-03,SN_semanal(m=168),0.0,0.0
+Marginal Tietê - Pista Central | Castelo/A.Senna,1,2023-12-03,Ingenuo,0.0,0.0
+Marginal Tietê - Pista Central | Castelo/A.Senna,1,2023-12-03,Chronos-2,0.006901673972606659,0.012276987220074113
+Marginal Tietê - Pista Central | Castelo/A.Senna,2,2023-12-04,SN_diario(m=24),1.6753124999999998,2.984404099142924
+Marginal Tietê - Pista Central | Castelo/A.Senna,2,2023-12-04,SN_semanal(m=168),1.6753124999999998,2.984404099142924
+Marginal Tietê - Pista Central | Castelo/A.Senna,2,2023-12-04,Ingenuo,1.6753124999999998,2.984404099142924
+Marginal Tietê - Pista Central | Castelo/A.Senna,2,2023-12-04,Chronos-2,0.7833639638523261,1.395485692873259
+Marginal Tietê - Pista Central | Castelo/A.Senna,3,2023-12-05,SN_diario(m=24),0.6286458333333335,1.1166913000607568
+Marginal Tietê - Pista Central | Castelo/A.Senna,3,2023-12-05,SN_semanal(m=168),1.3683333333333334,2.430630806561408
+Marginal Tietê - Pista Central | Castelo/A.Senna,3,2023-12-05,Ingenuo,1.6179166666666667,2.873976681448827
+Marginal Tietê - Pista Central | Castelo/A.Senna,3,2023-12-05,Chronos-2,0.942952684511741,1.6750084122562858
+Marginal Tietê - Pista Central | Castelo/A.Senna,4,2023-12-06,SN_diario(m=24),1.275625,2.2655701512120947
+Marginal Tietê - Pista Central | Castelo/A.Senna,4,2023-12-06,SN_semanal(m=168),0.9353541666666666,1.6612331059769625
+Marginal Tietê - Pista Central | Castelo/A.Senna,4,2023-12-06,Ingenuo,2.1247916666666664,3.7737301930772746
+Marginal Tietê - Pista Central | Castelo/A.Senna,4,2023-12-06,Chronos-2,1.2539887438714503,2.22714314008514
+Marginal Tietê - Pista Central | Castelo/A.Senna,5,2023-12-07,SN_diario(m=24),1.3877083333333333,2.460181170535519
+Marginal Tietê - Pista Central | Castelo/A.Senna,5,2023-12-07,SN_semanal(m=168),1.4422916666666667,2.556948542803993
+Marginal Tietê - Pista Central | Castelo/A.Senna,5,2023-12-07,Ingenuo,2.2666666666666666,4.018431336950375
+Marginal Tietê - Pista Central | Castelo/A.Senna,5,2023-12-07,Chronos-2,1.0603999204933645,1.8799165897986272
+Marginal Tietê - Pista Central | Castelo/A.Senna,6,2023-12-08,SN_diario(m=24),1.3618125,2.4092464465946133
+Marginal Tietê - Pista Central | Castelo/A.Senna,6,2023-12-08,SN_semanal(m=168),0.7922291666666669,1.4015698230705613
+Marginal Tietê - Pista Central | Castelo/A.Senna,6,2023-12-08,Ingenuo,0.9048541666666666,1.6008199996166848
+Marginal Tietê - Pista Central | Castelo/A.Senna,6,2023-12-08,Chronos-2,0.7585108224650224,1.3419171168772595
+Marginal Tietê - Pista Central | Castelo/A.Senna,7,2023-12-09,SN_diario(m=24),2.5859791666666667,4.56579839057139
+Marginal Tietê - Pista Central | Castelo/A.Senna,7,2023-12-09,SN_semanal(m=168),3.2775,5.786745855492287
+Marginal Tietê - Pista Central | Castelo/A.Senna,7,2023-12-09,Ingenuo,3.2775,5.786745855492287
+Marginal Tietê - Pista Central | Castelo/A.Senna,7,2023-12-09,Chronos-2,3.2579684768120445,5.752261046686992
+Marginal Tietê - Pista Central | Castelo/A.Senna,8,2023-12-10,SN_diario(m=24),2.549166666666667,4.478056113697547
+Marginal Tietê - Pista Central | Castelo/A.Senna,8,2023-12-10,SN_semanal(m=168),4.538333333333334,7.972374499900897
+Marginal Tietê - Pista Central | Castelo/A.Senna,8,2023-12-10,Ingenuo,0.5416666666666666,0.9515320280821854
+Marginal Tietê - Pista Central | Castelo/A.Senna,8,2023-12-10,Chronos-2,1.3401239159703255,2.354161527959417
+Marginal Tietê - Pista Central | Castelo/A.Senna,9,2023-12-11,SN_diario(m=24),2.7541666666666664,4.814355613726398
+Marginal Tietê - Pista Central | Castelo/A.Senna,9,2023-12-11,SN_semanal(m=168),1.6253958333333334,2.8412345735803317
+Marginal Tietê - Pista Central | Castelo/A.Senna,9,2023-12-11,Ingenuo,1.9958333333333336,3.4887690453478744
+Marginal Tietê - Pista Central | Castelo/A.Senna,9,2023-12-11,Chronos-2,2.79644787033399,4.888264267365449
+Marginal Tietê - Pista Central | Castelo/A.Senna,10,2023-12-12,SN_diario(m=24),1.6991666666666667,2.9541818183314916
+Marginal Tietê - Pista Central | Castelo/A.Senna,10,2023-12-12,SN_semanal(m=168),1.2924999999999998,2.247148602369859
+Marginal Tietê - Pista Central | Castelo/A.Senna,10,2023-12-12,Ingenuo,1.2195833333333332,2.120375228606247
+Marginal Tietê - Pista Central | Castelo/A.Senna,10,2023-12-12,Chronos-2,0.7584170510371525,1.3185886392662343
+Marginal Tietê - Pista Central | Castelo/A.Senna,11,2023-12-13,SN_diario(m=24),1.354375,2.3482158712618393
+Marginal Tietê - Pista Central | Castelo/A.Senna,11,2023-12-13,SN_semanal(m=168),0.7491666666666665,1.2989054411717538
+Marginal Tietê - Pista Central | Castelo/A.Senna,11,2023-12-13,Ingenuo,2.3489583333333335,4.07262481902434
+Marginal Tietê - Pista Central | Castelo/A.Senna,11,2023-12-13,Chronos-2,0.8858013575275737,1.535802718251246
+Marginal Tietê - Pista Central | Castelo/A.Senna,12,2023-12-14,SN_diario(m=24),1.2943749999999998,2.239910394964404
+Marginal Tietê - Pista Central | Castelo/A.Senna,12,2023-12-14,SN_semanal(m=168),0.9666666666666668,1.6728125273836854
+Marginal Tietê - Pista Central | Castelo/A.Senna,12,2023-12-14,Ingenuo,1.7333333333333334,2.9995259111707457
+Marginal Tietê - Pista Central | Castelo/A.Senna,12,2023-12-14,Chronos-2,0.9507973819971084,1.6453507982155593
+Marginal Tietê - Pista Central | Castelo/A.Senna,13,2023-12-15,SN_diario(m=24),2.1593750000000003,3.73024722170442
+Marginal Tietê - Pista Central | Castelo/A.Senna,13,2023-12-15,SN_semanal(m=168),2.6611875,4.59711133004204
+Marginal Tietê - Pista Central | Castelo/A.Senna,13,2023-12-15,Ingenuo,3.0260416666666665,5.227384553329155
+Marginal Tietê - Pista Central | Castelo/A.Senna,13,2023-12-15,Chronos-2,2.6566975101828576,4.589355024610664
+Marginal Tietê | A.Senna/Castelo Branco,0,2023-12-02,SN_diario(m=24),3.7460624999999994,2.858199926186048
+Marginal Tietê | A.Senna/Castelo Branco,0,2023-12-02,SN_semanal(m=168),3.4307499999999997,2.6176203404942613
+Marginal Tietê | A.Senna/Castelo Branco,0,2023-12-02,Ingenuo,3.4307499999999997,2.6176203404942613
+Marginal Tietê | A.Senna/Castelo Branco,0,2023-12-02,Chronos-2,3.430494281172752,2.6174252301528926
+Marginal Tietê | A.Senna/Castelo Branco,1,2023-12-03,SN_diario(m=24),3.4307499999999997,2.6106603278278815
+Marginal Tietê | A.Senna/Castelo Branco,1,2023-12-03,SN_semanal(m=168),0.0,0.0
+Marginal Tietê | A.Senna/Castelo Branco,1,2023-12-03,Ingenuo,0.0,0.0
+Marginal Tietê | A.Senna/Castelo Branco,1,2023-12-03,Chronos-2,0.018658076723416645,0.014198032702876241
+Marginal Tietê | A.Senna/Castelo Branco,2,2023-12-04,SN_diario(m=24),2.6366666666666667,2.001776242040975
+Marginal Tietê | A.Senna/Castelo Branco,2,2023-12-04,SN_semanal(m=168),2.6366666666666667,2.001776242040975
+Marginal Tietê | A.Senna/Castelo Branco,2,2023-12-04,Ingenuo,2.6366666666666667,2.001776242040975
+Marginal Tietê | A.Senna/Castelo Branco,2,2023-12-04,Chronos-2,2.522599089841048,1.9151753196857129
+Marginal Tietê | A.Senna/Castelo Branco,3,2023-12-05,SN_diario(m=24),1.0322916666666673,0.7826016458891855
+Marginal Tietê | A.Senna/Castelo Branco,3,2023-12-05,SN_semanal(m=168),3.6689583333333338,2.7815131353692104
+Marginal Tietê | A.Senna/Castelo Branco,3,2023-12-05,Ingenuo,3.6689583333333338,2.7815131353692104
+Marginal Tietê | A.Senna/Castelo Branco,3,2023-12-05,Chronos-2,2.17223034520944,1.6468127161199662
+Marginal Tietê | A.Senna/Castelo Branco,4,2023-12-06,SN_diario(m=24),3.0324583333333344,2.2996835420253583
+Marginal Tietê | A.Senna/Castelo Branco,4,2023-12-06,SN_semanal(m=168),6.311625,4.786459875272525
+Marginal Tietê | A.Senna/Castelo Branco,4,2023-12-06,Ingenuo,6.311625,4.786459875272525
+Marginal Tietê | A.Senna/Castelo Branco,4,2023-12-06,Chronos-2,4.151255017081898,3.1481299302931123
+Marginal Tietê | A.Senna/Castelo Branco,5,2023-12-07,SN_diario(m=24),5.161083333333335,3.90669630318514
+Marginal Tietê | A.Senna/Castelo Branco,5,2023-12-07,SN_semanal(m=168),1.1595208333333333,0.8777025016807488
+Marginal Tietê | A.Senna/Castelo Branco,5,2023-12-07,Ingenuo,1.1601666666666668,0.8781913670085981
+Marginal Tietê | A.Senna/Castelo Branco,5,2023-12-07,Chronos-2,2.6866181404391924,2.033643031790598
+Marginal Tietê | A.Senna/Castelo Branco,6,2023-12-08,SN_diario(m=24),1.4235833333333332,1.0731418975187879
+Marginal Tietê | A.Senna/Castelo Branco,6,2023-12-08,SN_semanal(m=168),1.7114791666666669,1.2901668328611187
+Marginal Tietê | A.Senna/Castelo Branco,6,2023-12-08,Ingenuo,2.124,1.6011380134612696
+Marginal Tietê | A.Senna/Castelo Branco,6,2023-12-08,Chronos-2,1.8470148588617643,1.3923379011070491
+Marginal Tietê | A.Senna/Castelo Branco,7,2023-12-09,SN_diario(m=24),2.124,1.6009714443441818
+Marginal Tietê | A.Senna/Castelo Branco,7,2023-12-09,SN_semanal(m=168),3.4307499999999997,2.585938221602543
+Marginal Tietê | A.Senna/Castelo Branco,7,2023-12-09,Ingenuo,0.0,0.0
+Marginal Tietê | A.Senna/Castelo Branco,7,2023-12-09,Chronos-2,0.015311017632484436,0.011540725995036649
+Marginal Tietê | A.Senna/Castelo Branco,8,2023-12-10,SN_diario(m=24),0.0,0.0
+Marginal Tietê | A.Senna/Castelo Branco,8,2023-12-10,SN_semanal(m=168),0.0,0.0
+Marginal Tietê | A.Senna/Castelo Branco,8,2023-12-10,Ingenuo,0.0,0.0
+Marginal Tietê | A.Senna/Castelo Branco,8,2023-12-10,Chronos-2,0.009162927667299906,0.00690069373481761
+Marginal Tietê | A.Senna/Castelo Branco,9,2023-12-11,SN_diario(m=24),1.5181250000000002,1.1449393581639342
+Marginal Tietê | A.Senna/Castelo Branco,9,2023-12-11,SN_semanal(m=168),1.159375,0.874377319635281
+Marginal Tietê | A.Senna/Castelo Branco,9,2023-12-11,Ingenuo,1.5181250000000002,1.1449393581639342
+Marginal Tietê | A.Senna/Castelo Branco,9,2023-12-11,Chronos-2,0.5365985221664111,0.40469181889562866
+Marginal Tietê | A.Senna/Castelo Branco,10,2023-12-12,SN_diario(m=24),1.2229583333333334,0.9221412790893919
+Marginal Tietê | A.Senna/Castelo Branco,10,2023-12-12,SN_semanal(m=168),3.0164166666666667,2.2744538774964203
+Marginal Tietê | A.Senna/Castelo Branco,10,2023-12-12,Ingenuo,1.3687916666666666,1.0321032727799941
+Marginal Tietê | A.Senna/Castelo Branco,10,2023-12-12,Chronos-2,1.3553753639658292,1.0219870437998295
+Marginal Tietê | A.Senna/Castelo Branco,11,2023-12-13,SN_diario(m=24),1.6053750000000002,1.2106263650794067
+Marginal Tietê | A.Senna/Castelo Branco,11,2023-12-13,SN_semanal(m=168),4.655541666666667,3.5107818954402483
+Marginal Tietê | A.Senna/Castelo Branco,11,2023-12-13,Ingenuo,1.6560833333333338,1.2488659323223052
+Marginal Tietê | A.Senna/Castelo Branco,11,2023-12-13,Chronos-2,0.7793784224589667,0.5877356172874381
+Marginal Tietê | A.Senna/Castelo Branco,12,2023-12-14,SN_diario(m=24),0.5959791666666666,0.4492990803322226
+Marginal Tietê | A.Senna/Castelo Branco,12,2023-12-14,SN_semanal(m=168),0.9368958333333334,0.7063106561897573
+Marginal Tietê | A.Senna/Castelo Branco,12,2023-12-14,Ingenuo,1.0704375,0.806985564601319
+Marginal Tietê | A.Senna/Castelo Branco,12,2023-12-14,Chronos-2,0.4562820233503977,0.34398365736519215
+Marginal Tietê | A.Senna/Castelo Branco,13,2023-12-15,SN_diario(m=24),0.9837291666666667,0.7421940344381629
+Marginal Tietê | A.Senna/Castelo Branco,13,2023-12-15,SN_semanal(m=168),0.1661666666666667,0.1253677464300131
+Marginal Tietê | A.Senna/Castelo Branco,13,2023-12-15,Ingenuo,2.0541666666666667,1.5498068954362199
+Marginal Tietê | A.Senna/Castelo Branco,13,2023-12-15,Chronos-2,1.5059189046422639,1.1361704676912
+Marginal Tietê | Castelo/A.Senna,0,2023-12-02,SN_diario(m=24),5.177916666666667,2.9395689734429045
+Marginal Tietê | Castelo/A.Senna,0,2023-12-02,SN_semanal(m=168),0.08666666666666667,0.04920176603171514
+Marginal Tietê | Castelo/A.Senna,0,2023-12-02,Ingenuo,0.08666666666666667,0.04920176603171514
+Marginal Tietê | Castelo/A.Senna,0,2023-12-02,Chronos-2,0.097704984943072,0.05546835933809168
+Marginal Tietê | Castelo/A.Senna,1,2023-12-03,SN_diario(m=24),0.08666666666666667,0.04906542537737312
+Marginal Tietê | Castelo/A.Senna,1,2023-12-03,SN_semanal(m=168),0.0,0.0
+Marginal Tietê | Castelo/A.Senna,1,2023-12-03,Ingenuo,0.0,0.0
+Marginal Tietê | Castelo/A.Senna,1,2023-12-03,Chronos-2,0.01873519519964854,0.0106067344846024
+Marginal Tietê | Castelo/A.Senna,2,2023-12-04,SN_diario(m=24),3.120520833333334,1.76905684074515
+Marginal Tietê | Castelo/A.Senna,2,2023-12-04,SN_semanal(m=168),3.120520833333334,1.76905684074515
+Marginal Tietê | Castelo/A.Senna,2,2023-12-04,Ingenuo,3.120520833333334,1.76905684074515
+Marginal Tietê | Castelo/A.Senna,2,2023-12-04,Chronos-2,1.3619434002041817,0.7721003696249157
+Marginal Tietê | Castelo/A.Senna,3,2023-12-05,SN_diario(m=24),1.987354166666667,1.1254160219866947
+Marginal Tietê | Castelo/A.Senna,3,2023-12-05,SN_semanal(m=168),2.74,1.5516307822554072
+Marginal Tietê | Castelo/A.Senna,3,2023-12-05,Ingenuo,3.7566666666666673,2.127357532362341
+Marginal Tietê | Castelo/A.Senna,3,2023-12-05,Chronos-2,1.7598871344327929,0.9966040332413071
+Marginal Tietê | Castelo/A.Senna,4,2023-12-06,SN_diario(m=24),1.675,0.9483637442507958
+Marginal Tietê | Castelo/A.Senna,4,2023-12-06,SN_semanal(m=168),1.9108333333333334,1.0818895848592414
+Marginal Tietê | Castelo/A.Senna,4,2023-12-06,Ingenuo,4.235833333333333,2.3982750806103454
+Marginal Tietê | Castelo/A.Senna,4,2023-12-06,Chronos-2,1.1246698101361592,0.636773774439737
+Marginal Tietê | Castelo/A.Senna,5,2023-12-07,SN_diario(m=24),1.9809375000000002,1.1216641794445714
+Marginal Tietê | Castelo/A.Senna,5,2023-12-07,SN_semanal(m=168),2.779541666666667,1.5738569857825717
+Marginal Tietê | Castelo/A.Senna,5,2023-12-07,Ingenuo,4.1244375,2.3353759541166337
+Marginal Tietê | Castelo/A.Senna,5,2023-12-07,Chronos-2,1.817792129715284,1.0292865461822465
+Marginal Tietê | Castelo/A.Senna,6,2023-12-08,SN_diario(m=24),2.063979166666667,1.1684825533795802
+Marginal Tietê | Castelo/A.Senna,6,2023-12-08,SN_semanal(m=168),3.489125,1.975301764137894
+Marginal Tietê | Castelo/A.Senna,6,2023-12-08,Ingenuo,2.200458333333333,1.2457476380884214
+Marginal Tietê | Castelo/A.Senna,6,2023-12-08,Chronos-2,1.621835728744666,0.9181714544853526
+Marginal Tietê | Castelo/A.Senna,7,2023-12-09,SN_diario(m=24),4.8887083333333345,2.766987051311368
+Marginal Tietê | Castelo/A.Senna,7,2023-12-09,SN_semanal(m=168),6.4458333333333355,3.6483128368763786
+Marginal Tietê | Castelo/A.Senna,7,2023-12-09,Ingenuo,6.5325000000000015,3.697365782582279
+Marginal Tietê | Castelo/A.Senna,7,2023-12-09,Chronos-2,6.513472593029341,3.6865963553393266
+Marginal Tietê | Castelo/A.Senna,8,2023-12-10,SN_diario(m=24),5.3961666666666686,3.0465703821145453
+Marginal Tietê | Castelo/A.Senna,8,2023-12-10,SN_semanal(m=168),8.735333333333335,4.931798711041404
+Marginal Tietê | Castelo/A.Senna,8,2023-12-10,Ingenuo,1.3966666666666676,0.788530741023563
+Marginal Tietê | Castelo/A.Senna,8,2023-12-10,Chronos-2,2.709259944677354,1.5295952876863173
+Marginal Tietê | Castelo/A.Senna,9,2023-12-11,SN_diario(m=24),5.090270833333334,2.8655608058072217
+Marginal Tietê | Castelo/A.Senna,9,2023-12-11,SN_semanal(m=168),3.2275416666666668,1.8169400414895505
+Marginal Tietê | Castelo/A.Senna,9,2023-12-11,Ingenuo,3.1349374999999995,1.7648086561187115
+Marginal Tietê | Castelo/A.Senna,9,2023-12-11,Chronos-2,4.128036224683126,2.323872186317076
+Marginal Tietê | Castelo/A.Senna,10,2023-12-12,SN_diario(m=24),5.656291666666665,3.1758213982842523
+Marginal Tietê | Castelo/A.Senna,10,2023-12-12,SN_semanal(m=168),3.172812499999999,1.7814296758465873
+Marginal Tietê | Castelo/A.Senna,10,2023-12-12,Ingenuo,6.337812500000001,3.558472890361928
+Marginal Tietê | Castelo/A.Senna,10,2023-12-12,Chronos-2,2.970686492125193,1.667942582396035
+Marginal Tietê | Castelo/A.Senna,11,2023-12-13,SN_diario(m=24),1.9876874999999998,1.1126017965033972
+Marginal Tietê | Castelo/A.Senna,11,2023-12-13,SN_semanal(m=168),1.3149166666666667,0.7360204486799823
+Marginal Tietê | Castelo/A.Senna,11,2023-12-13,Ingenuo,4.815875,2.695670811803062
+Marginal Tietê | Castelo/A.Senna,11,2023-12-13,Chronos-2,0.9140655437310535,0.5116452994130238
+Marginal Tietê | Castelo/A.Senna,12,2023-12-14,SN_diario(m=24),2.9806666666666666,1.6681538145034491
+Marginal Tietê | Castelo/A.Senna,12,2023-12-14,SN_semanal(m=168),2.4786875,1.3872171800784001
+Marginal Tietê | Castelo/A.Senna,12,2023-12-14,Ingenuo,5.60475,3.1367429294916818
+Marginal Tietê | Castelo/A.Senna,12,2023-12-14,Chronos-2,2.89648849829038,1.6210428328411308
+Marginal Tietê | Castelo/A.Senna,13,2023-12-15,SN_diario(m=24),3.5862916666666673,2.005209638158723
+Marginal Tietê | Castelo/A.Senna,13,2023-12-15,SN_semanal(m=168),5.096166666666667,2.8494287323711474
+Marginal Tietê | Castelo/A.Senna,13,2023-12-15,Ingenuo,6.394958333333332,3.575624426984263
+Marginal Tietê | Castelo/A.Senna,13,2023-12-15,Chronos-2,3.1325311774810154,1.7514977287823188
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,0,2023-12-02,SN_diario(m=24),0.21937500000000001,2.308296422151665
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,0,2023-12-02,SN_semanal(m=168),0.0,0.0
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,0,2023-12-02,Ingenuo,0.0,0.0
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,0,2023-12-02,Chronos-2,0.00041409643987814587,0.004357184412975344
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,1,2023-12-03,SN_diario(m=24),0.0,0.0
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,1,2023-12-03,SN_semanal(m=168),0.0,0.0
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,1,2023-12-03,Ingenuo,0.0,0.0
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,1,2023-12-03,Chronos-2,0.0004695945729811986,0.004931806459374143
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,2,2023-12-04,SN_diario(m=24),0.050625,0.53244657675823
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,2,2023-12-04,SN_semanal(m=168),0.050625,0.53244657675823
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,2,2023-12-04,Ingenuo,0.050625,0.53244657675823
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,2,2023-12-04,Chronos-2,0.16650994355479876,1.7512622111991845
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,3,2023-12-05,SN_diario(m=24),0.31762500000000005,3.342864627859341
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,3,2023-12-05,SN_semanal(m=168),0.3675833333333334,3.8686543023711275
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,3,2023-12-05,Ingenuo,0.3675833333333334,3.8686543023711275
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,3,2023-12-05,Chronos-2,0.3109970969508092,3.27310883829611
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,4,2023-12-06,SN_diario(m=24),0.08637500000000002,0.906000657461368
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,4,2023-12-06,SN_semanal(m=168),0.11025000000000001,1.1564292038797779
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,4,2023-12-06,Ingenuo,0.28687500000000005,3.0090759896871773
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,4,2023-12-06,Chronos-2,0.19184903902312123,2.012334072223206
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,5,2023-12-07,SN_diario(m=24),0.08437500000000002,0.8851420661270857
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,5,2023-12-07,SN_semanal(m=168),0.15833333333333335,1.6610073339668767
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,5,2023-12-07,Ingenuo,0.3375000000000001,3.5405682645083427
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,5,2023-12-07,Chronos-2,0.12363256694128118,1.2969764236207506
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,6,2023-12-08,SN_diario(m=24),0.33749999999999997,3.5411526459400102
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,6,2023-12-08,SN_semanal(m=168),0.050625,0.5311728968910017
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,6,2023-12-08,Ingenuo,0.2025,2.1246915875640067
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,6,2023-12-08,Chronos-2,0.22508712507784367,2.3616825734412927
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,7,2023-12-09,SN_diario(m=24),0.2025,2.1169734345588216
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,7,2023-12-09,SN_semanal(m=168),0.0,0.0
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,7,2023-12-09,Ingenuo,0.0,0.0
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,7,2023-12-09,Chronos-2,0.0002917821208635966,0.0030503456718393345
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,8,2023-12-10,SN_diario(m=24),0.0,0.0
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,8,2023-12-10,SN_semanal(m=168),0.0,0.0
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,8,2023-12-10,Ingenuo,0.0,0.0
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,8,2023-12-10,Chronos-2,0.0002805773789683978,0.0029285228092483166
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,9,2023-12-11,SN_diario(m=24),0.0,0.0
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,9,2023-12-11,SN_semanal(m=168),0.050625,0.5291548077737845
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,9,2023-12-11,Ingenuo,0.0,0.0
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,9,2023-12-11,Chronos-2,0.1122414090981086,1.1731966667766591
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,10,2023-12-12,SN_diario(m=24),0.38812500000000005,4.0626573224405975
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,10,2023-12-12,SN_semanal(m=168),0.12079166666666667,1.2643739750676641
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,10,2023-12-12,Ingenuo,0.38812500000000005,4.0626573224405975
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,10,2023-12-12,Chronos-2,0.31992281859119737,3.3487582133729155
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,11,2023-12-13,SN_diario(m=24),0.18908333333333335,1.9706002419626105
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,11,2023-12-13,SN_semanal(m=168),0.25625000000000003,2.670601914515217
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,11,2023-12-13,Ingenuo,0.26587500000000003,2.770912327889691
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,11,2023-12-13,Chronos-2,0.16120205451051395,1.6800254259495215
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,12,2023-12-14,SN_diario(m=24),0.2549166666666667,2.6530379525548278
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,12,2023-12-14,SN_semanal(m=168),0.18495833333333334,1.9249485896356457
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,12,2023-12-14,Ingenuo,0.31995833333333334,3.3299572470854075
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,12,2023-12-14,Chronos-2,0.23079870826005935,2.4020309869155945
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,13,2023-12-15,SN_diario(m=24),0.13177083333333336,1.3681840420196256
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,13,2023-12-15,SN_semanal(m=168),0.2556041666666667,2.653952570994274
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,13,2023-12-15,Ingenuo,0.3553541666666667,3.6896624829610674
+Max Feffer Túnel (Cidade Jardim) | Bairro/Centro,13,2023-12-15,Chronos-2,0.19827545942987004,2.058705349687079
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,0,2023-12-02,SN_diario(m=24),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,0,2023-12-02,SN_semanal(m=168),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,0,2023-12-02,Ingenuo,0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,0,2023-12-02,Chronos-2,0.0003697657957673073,0.004288929496952591
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,1,2023-12-03,SN_diario(m=24),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,1,2023-12-03,SN_semanal(m=168),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,1,2023-12-03,Ingenuo,0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,1,2023-12-03,Chronos-2,0.000339411199092865,0.003942801106959527
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,2,2023-12-04,SN_diario(m=24),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,2,2023-12-04,SN_semanal(m=168),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,2,2023-12-04,Ingenuo,0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,2,2023-12-04,Chronos-2,0.0003262050449848175,0.003795114769988437
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,3,2023-12-05,SN_diario(m=24),0.04750000000000001,0.5534551096403522
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,3,2023-12-05,SN_semanal(m=168),0.04750000000000001,0.5534551096403522
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,3,2023-12-05,Ingenuo,0.04750000000000001,0.5534551096403522
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,3,2023-12-05,Chronos-2,0.04778141339619955,0.5567340503150444
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,4,2023-12-06,SN_diario(m=24),0.04750000000000001,0.5538270022990286
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,4,2023-12-06,SN_semanal(m=168),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,4,2023-12-06,Ingenuo,0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,4,2023-12-06,Chronos-2,0.0009795639974375565,0.011421241942334634
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,5,2023-12-07,SN_diario(m=24),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,5,2023-12-07,SN_semanal(m=168),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,5,2023-12-07,Ingenuo,0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,5,2023-12-07,Chronos-2,0.00033600783596436184,0.003920315019466983
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,6,2023-12-08,SN_diario(m=24),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,6,2023-12-08,SN_semanal(m=168),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,6,2023-12-08,Ingenuo,0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,6,2023-12-08,Chronos-2,0.0003726429616411527,0.004354277350201405
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,7,2023-12-09,SN_diario(m=24),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,7,2023-12-09,SN_semanal(m=168),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,7,2023-12-09,Ingenuo,0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,7,2023-12-09,Chronos-2,0.0003564804792404175,0.00417166616654881
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,8,2023-12-10,SN_diario(m=24),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,8,2023-12-10,SN_semanal(m=168),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,8,2023-12-10,Ingenuo,0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,8,2023-12-10,Chronos-2,0.0003875751669208209,0.0045423374227493265
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,9,2023-12-11,SN_diario(m=24),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,9,2023-12-11,SN_semanal(m=168),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,9,2023-12-11,Ingenuo,0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,9,2023-12-11,Chronos-2,0.0003548641689121723,0.004165184894153655
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,10,2023-12-12,SN_diario(m=24),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,10,2023-12-12,SN_semanal(m=168),0.04750000000000001,0.5583589237499261
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,10,2023-12-12,Ingenuo,0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,10,2023-12-12,Chronos-2,0.00044742381821076077,0.005259433296763009
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,11,2023-12-13,SN_diario(m=24),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,11,2023-12-13,SN_semanal(m=168),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,11,2023-12-13,Ingenuo,0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,11,2023-12-13,Chronos-2,0.0003183339722454548,0.003747568615558848
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,12,2023-12-14,SN_diario(m=24),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,12,2023-12-14,SN_semanal(m=168),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,12,2023-12-14,Ingenuo,0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,12,2023-12-14,Chronos-2,0.0003876381864150365,0.00457023938832323
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,13,2023-12-15,SN_diario(m=24),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,13,2023-12-15,SN_semanal(m=168),0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,13,2023-12-15,Ingenuo,0.0,0.0
+Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio,13,2023-12-15,Chronos-2,0.00027343786011139554,0.0032286121357786753
+"Paulina, Vd Dona | //unico",0,2023-12-02,SN_diario(m=24),0.0325,2.464246424642464
+"Paulina, Vd Dona | //unico",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Paulina, Vd Dona | //unico",0,2023-12-02,Ingenuo,0.0,0.0
+"Paulina, Vd Dona | //unico",0,2023-12-02,Chronos-2,0.00011691901211937268,0.008865146387319786
+"Paulina, Vd Dona | //unico",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Paulina, Vd Dona | //unico",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Paulina, Vd Dona | //unico",1,2023-12-03,Ingenuo,0.0,0.0
+"Paulina, Vd Dona | //unico",1,2023-12-03,Chronos-2,7.082374456028144e-05,0.0053584081491885455
+"Paulina, Vd Dona | //unico",2,2023-12-04,SN_diario(m=24),0.048749999999999995,3.693825356229448
+"Paulina, Vd Dona | //unico",2,2023-12-04,SN_semanal(m=168),0.01625,1.2312751187431494
+"Paulina, Vd Dona | //unico",2,2023-12-04,Ingenuo,0.048749999999999995,3.693825356229448
+"Paulina, Vd Dona | //unico",2,2023-12-04,Chronos-2,0.043477570388931776,3.294329270356653
+"Paulina, Vd Dona | //unico",3,2023-12-05,SN_diario(m=24),0.08125,6.131904069767442
+"Paulina, Vd Dona | //unico",3,2023-12-05,SN_semanal(m=168),0.07041666666666667,5.314316860465117
+"Paulina, Vd Dona | //unico",3,2023-12-05,Ingenuo,0.09749999999999999,7.35828488372093
+"Paulina, Vd Dona | //unico",3,2023-12-05,Chronos-2,0.0687561044531564,5.188994913448186
+"Paulina, Vd Dona | //unico",4,2023-12-06,SN_diario(m=24),0.005416666666666667,0.40571359980794625
+"Paulina, Vd Dona | //unico",4,2023-12-06,SN_semanal(m=168),0.05958333333333334,4.462849597887409
+"Paulina, Vd Dona | //unico",4,2023-12-06,Ingenuo,0.09208333333333334,6.897131196735086
+"Paulina, Vd Dona | //unico",4,2023-12-06,Chronos-2,0.06654761733720078,4.984481240957063
+"Paulina, Vd Dona | //unico",5,2023-12-07,SN_diario(m=24),0.07041666666666667,5.278910748560461
+"Paulina, Vd Dona | //unico",5,2023-12-07,SN_semanal(m=168),0.027083333333333334,2.03035028790787
+"Paulina, Vd Dona | //unico",5,2023-12-07,Ingenuo,0.043333333333333335,3.2485604606525915
+"Paulina, Vd Dona | //unico",5,2023-12-07,Chronos-2,0.023077265669126063,1.7300282952161168
+"Paulina, Vd Dona | //unico",6,2023-12-08,SN_diario(m=24),0.01625,1.210570170217831
+"Paulina, Vd Dona | //unico",6,2023-12-08,SN_semanal(m=168),0.005416666666666667,0.4035233900726104
+"Paulina, Vd Dona | //unico",6,2023-12-08,Ingenuo,0.03791666666666667,2.8246637305082727
+"Paulina, Vd Dona | //unico",6,2023-12-08,Chronos-2,0.013287717741914095,0.9898901371467964
+"Paulina, Vd Dona | //unico",7,2023-12-09,SN_diario(m=24),0.03791666666666667,2.8237880228136882
+"Paulina, Vd Dona | //unico",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Paulina, Vd Dona | //unico",7,2023-12-09,Ingenuo,0.0,0.0
+"Paulina, Vd Dona | //unico",7,2023-12-09,Chronos-2,6.618451637526353e-05,0.004928994583811487
+"Paulina, Vd Dona | //unico",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Paulina, Vd Dona | //unico",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Paulina, Vd Dona | //unico",8,2023-12-10,Ingenuo,0.0,0.0
+"Paulina, Vd Dona | //unico",8,2023-12-10,Chronos-2,5.790354528774818e-05,0.004300746653086346
+"Paulina, Vd Dona | //unico",9,2023-12-11,SN_diario(m=24),0.04850000000000001,3.607602195461621
+"Paulina, Vd Dona | //unico",9,2023-12-11,SN_semanal(m=168),0.03225,2.398869501105923
+"Paulina, Vd Dona | //unico",9,2023-12-11,Ingenuo,0.04850000000000001,3.607602195461621
+"Paulina, Vd Dona | //unico",9,2023-12-11,Chronos-2,0.0320601631202735,2.3847487599908526
+"Paulina, Vd Dona | //unico",10,2023-12-12,SN_diario(m=24),0.016,1.1856036941464079
+"Paulina, Vd Dona | //unico",10,2023-12-12,SN_semanal(m=168),0.065,4.816515007469782
+"Paulina, Vd Dona | //unico",10,2023-12-12,Ingenuo,0.0325,2.408257503734891
+"Paulina, Vd Dona | //unico",10,2023-12-12,Chronos-2,0.005617479356005789,0.41625651726697793
+"Paulina, Vd Dona | //unico",11,2023-12-13,SN_diario(m=24),0.005729166666666667,0.4244172383560654
+"Paulina, Vd Dona | //unico",11,2023-12-13,SN_semanal(m=168),0.05460416666666667,4.045082115386354
+"Paulina, Vd Dona | //unico",11,2023-12-13,Ingenuo,0.03747916666666667,2.776460406554769
+"Paulina, Vd Dona | //unico",11,2023-12-13,Chronos-2,0.008053241052664818,0.5965849007803976
+"Paulina, Vd Dona | //unico",12,2023-12-14,SN_diario(m=24),0.0004375000000000004,0.03243733952391816
+"Paulina, Vd Dona | //unico",12,2023-12-14,SN_semanal(m=168),0.01625,1.2048154680312448
+"Paulina, Vd Dona | //unico",12,2023-12-14,Ingenuo,0.03791666666666667,2.811236092072905
+"Paulina, Vd Dona | //unico",12,2023-12-14,Chronos-2,0.007735323018860073,0.5735161122055853
+"Paulina, Vd Dona | //unico",13,2023-12-15,SN_diario(m=24),0.016416666666666666,1.2188942381515837
+"Paulina, Vd Dona | //unico",13,2023-12-15,SN_semanal(m=168),0.016416666666666666,1.2188942381515837
+"Paulina, Vd Dona | //unico",13,2023-12-15,Ingenuo,0.05333333333333334,3.95985945389347
+"Paulina, Vd Dona | //unico",13,2023-12-15,Chronos-2,0.021729996960299713,1.6133950105559847
+"Pompeia, Vd | Marginal/Pompeia",0,2023-12-02,SN_diario(m=24),0.09999999999999998,1.9785297177770746
+"Pompeia, Vd | Marginal/Pompeia",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Pompeia, Vd | Marginal/Pompeia",0,2023-12-02,Ingenuo,0.0,0.0
+"Pompeia, Vd | Marginal/Pompeia",0,2023-12-02,Chronos-2,0.0002549705095589161,0.005044667303190793
+"Pompeia, Vd | Marginal/Pompeia",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Pompeia, Vd | Marginal/Pompeia",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Pompeia, Vd | Marginal/Pompeia",1,2023-12-03,Ingenuo,0.0,0.0
+"Pompeia, Vd | Marginal/Pompeia",1,2023-12-03,Chronos-2,0.0005156259673337141,0.010187239142117107
+"Pompeia, Vd | Marginal/Pompeia",2,2023-12-04,SN_diario(m=24),0.11249999999999999,2.225915700438323
+"Pompeia, Vd | Marginal/Pompeia",2,2023-12-04,SN_semanal(m=168),0.0385,0.7617578174833374
+"Pompeia, Vd | Marginal/Pompeia",2,2023-12-04,Ingenuo,0.11249999999999999,2.225915700438323
+"Pompeia, Vd | Marginal/Pompeia",2,2023-12-04,Chronos-2,0.05033567557111382,0.9959375159636624
+"Pompeia, Vd | Marginal/Pompeia",3,2023-12-05,SN_diario(m=24),0.0375,0.7406483252038762
+"Pompeia, Vd | Marginal/Pompeia",3,2023-12-05,SN_semanal(m=168),0.13749999999999998,2.715710525747546
+"Pompeia, Vd | Marginal/Pompeia",3,2023-12-05,Ingenuo,0.09999999999999999,1.97506220054367
+"Pompeia, Vd | Marginal/Pompeia",3,2023-12-05,Chronos-2,0.04882159940898418,0.9642569556276984
+"Pompeia, Vd | Marginal/Pompeia",4,2023-12-06,SN_diario(m=24),0.2125,4.198592200782749
+"Pompeia, Vd | Marginal/Pompeia",4,2023-12-06,SN_semanal(m=168),0.0625,1.2348800590537499
+"Pompeia, Vd | Marginal/Pompeia",4,2023-12-06,Ingenuo,0.2875,5.680448271647249
+"Pompeia, Vd | Marginal/Pompeia",4,2023-12-06,Chronos-2,0.19858912499621506,3.9237400064441372
+"Pompeia, Vd | Marginal/Pompeia",5,2023-12-07,SN_diario(m=24),0.049999999999999996,0.9833324201935698
+"Pompeia, Vd | Marginal/Pompeia",5,2023-12-07,SN_semanal(m=168),0.09999999999999999,1.9666648403871396
+"Pompeia, Vd | Marginal/Pompeia",5,2023-12-07,Ingenuo,0.3125,6.145827626209812
+"Pompeia, Vd | Marginal/Pompeia",5,2023-12-07,Chronos-2,0.1897144597955048,3.7310475779285888
+"Pompeia, Vd | Marginal/Pompeia",6,2023-12-08,SN_diario(m=24),0.11875000000000001,2.3354709952735155
+"Pompeia, Vd | Marginal/Pompeia",6,2023-12-08,SN_semanal(m=168),0.11875000000000001,2.3354709952735155
+"Pompeia, Vd | Marginal/Pompeia",6,2023-12-08,Ingenuo,0.19374999999999998,3.81050530807784
+"Pompeia, Vd | Marginal/Pompeia",6,2023-12-08,Chronos-2,0.08104314537098009,1.593885603197129
+"Pompeia, Vd | Marginal/Pompeia",7,2023-12-09,SN_diario(m=24),0.19374999999999998,3.8031444542958877
+"Pompeia, Vd | Marginal/Pompeia",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Pompeia, Vd | Marginal/Pompeia",7,2023-12-09,Ingenuo,0.0,0.0
+"Pompeia, Vd | Marginal/Pompeia",7,2023-12-09,Chronos-2,0.00018140487372875214,0.003560820332922578
+"Pompeia, Vd | Marginal/Pompeia",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Pompeia, Vd | Marginal/Pompeia",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Pompeia, Vd | Marginal/Pompeia",8,2023-12-10,Ingenuo,0.0,0.0
+"Pompeia, Vd | Marginal/Pompeia",8,2023-12-10,Chronos-2,0.0005223378539085388,0.010211614097493566
+"Pompeia, Vd | Marginal/Pompeia",9,2023-12-11,SN_diario(m=24),0.049999999999999996,0.9789058981909573
+"Pompeia, Vd | Marginal/Pompeia",9,2023-12-11,SN_semanal(m=168),0.0625,1.2236323727386968
+"Pompeia, Vd | Marginal/Pompeia",9,2023-12-11,Ingenuo,0.049999999999999996,0.9789058981909573
+"Pompeia, Vd | Marginal/Pompeia",9,2023-12-11,Chronos-2,0.09871191810816526,1.932593577156515
+"Pompeia, Vd | Marginal/Pompeia",10,2023-12-12,SN_diario(m=24),0.225,4.405210631269909
+"Pompeia, Vd | Marginal/Pompeia",10,2023-12-12,SN_semanal(m=168),0.225,4.405210631269909
+"Pompeia, Vd | Marginal/Pompeia",10,2023-12-12,Ingenuo,0.25,4.894678479188787
+"Pompeia, Vd | Marginal/Pompeia",10,2023-12-12,Chronos-2,0.19926473799472055,3.901347298895804
+"Pompeia, Vd | Marginal/Pompeia",11,2023-12-13,SN_diario(m=24),0.25,4.870779301293494
+"Pompeia, Vd | Marginal/Pompeia",11,2023-12-13,SN_semanal(m=168),0.2875,5.601396196487518
+"Pompeia, Vd | Marginal/Pompeia",11,2023-12-13,Ingenuo,0.0,0.0
+"Pompeia, Vd | Marginal/Pompeia",11,2023-12-13,Chronos-2,0.24345949587101737,4.743349892767601
+"Pompeia, Vd | Marginal/Pompeia",12,2023-12-14,SN_diario(m=24),0.4124999999999999,7.99227314861063
+"Pompeia, Vd | Marginal/Pompeia",12,2023-12-14,SN_semanal(m=168),0.09999999999999999,1.937520763299547
+"Pompeia, Vd | Marginal/Pompeia",12,2023-12-14,Ingenuo,0.4124999999999999,7.99227314861063
+"Pompeia, Vd | Marginal/Pompeia",12,2023-12-14,Chronos-2,0.38447095133985076,7.449204511064907
+"Pompeia, Vd | Marginal/Pompeia",13,2023-12-15,SN_diario(m=24),0.3125,5.994529130885146
+"Pompeia, Vd | Marginal/Pompeia",13,2023-12-15,SN_semanal(m=168),0.14375000000000002,2.7574834002071675
+"Pompeia, Vd | Marginal/Pompeia",13,2023-12-15,Ingenuo,0.5,9.591246609416233
+"Pompeia, Vd | Marginal/Pompeia",13,2023-12-15,Chronos-2,0.2843339802076419,5.454234647216736
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",0,2023-12-02,SN_diario(m=24),0.29791666666666666,1.73629495796582
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",0,2023-12-02,Ingenuo,0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",0,2023-12-02,Chronos-2,0.0005054591844479243,0.002945878266006533
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",1,2023-12-03,Ingenuo,0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",1,2023-12-03,Chronos-2,0.0009901616722345352,0.005764667963719941
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",2,2023-12-04,SN_diario(m=24),0.1947916666666667,1.135700701073334
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",2,2023-12-04,SN_semanal(m=168),0.036625000000000005,0.21353602486491133
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",2,2023-12-04,Ingenuo,0.1947916666666667,1.135700701073334
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",2,2023-12-04,Chronos-2,0.11914383942882222,0.6946485149153305
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",3,2023-12-05,SN_diario(m=24),0.05520833333333334,0.3218203403576387
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",3,2023-12-05,SN_semanal(m=168),0.07812500000000001,0.4554061420155264
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",3,2023-12-05,Ingenuo,0.18125,1.056542249476021
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",3,2023-12-05,Chronos-2,0.07129047997295858,0.4155663673205787
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",4,2023-12-06,SN_diario(m=24),0.15464583333333332,0.9023392522722284
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",4,2023-12-06,SN_semanal(m=168),0.14172916666666666,0.8269721047026769
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",4,2023-12-06,Ingenuo,0.2863125,1.6705979178199162
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",4,2023-12-06,Chronos-2,0.14226894695063433,0.830121655694955
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",5,2023-12-07,SN_diario(m=24),0.1488125,0.8684239815885854
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",5,2023-12-07,SN_semanal(m=168),0.10312500000000001,0.6018057831252273
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",5,2023-12-07,Ingenuo,0.18333333333333335,1.0698769477781818
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",5,2023-12-07,Chronos-2,0.06800600929806629,0.39686215450030804
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",6,2023-12-08,SN_diario(m=24),0.04583333333333334,0.2675195934008355
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",6,2023-12-08,SN_semanal(m=168),0.11458333333333336,0.6687989835020888
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",6,2023-12-08,Ingenuo,0.20625000000000002,1.2038381703037595
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",6,2023-12-08,Chronos-2,0.09113543499261141,0.5319384984792366
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",7,2023-12-09,SN_diario(m=24),0.20625000000000002,1.2050991867928085
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",7,2023-12-09,Ingenuo,0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",7,2023-12-09,Chronos-2,0.0006256227691968282,0.003655454498900182
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",8,2023-12-10,Ingenuo,0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",8,2023-12-10,Chronos-2,0.001219691087802251,0.007124454856825795
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",9,2023-12-11,SN_diario(m=24),0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",9,2023-12-11,SN_semanal(m=168),0.1947916666666667,1.1394394618211314
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",9,2023-12-11,Ingenuo,0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",9,2023-12-11,Chronos-2,0.1440487364307046,0.8426172306204887
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",10,2023-12-12,SN_diario(m=24),0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",10,2023-12-12,SN_semanal(m=168),0.18125,1.0617373878215364
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",10,2023-12-12,Ingenuo,0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",10,2023-12-12,Chronos-2,0.05294060831268629,0.31011874857707394
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",11,2023-12-13,SN_diario(m=24),0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",11,2023-12-13,SN_semanal(m=168),0.2863125,1.6795647017323607
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",11,2023-12-13,Ingenuo,0.0,0.0
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",11,2023-12-13,Chronos-2,0.013871018153925737,0.08137008502395962
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",12,2023-12-14,SN_diario(m=24),0.35520833333333335,2.0866808645970187
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",12,2023-12-14,SN_semanal(m=168),0.171875,1.009684289321138
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",12,2023-12-14,Ingenuo,0.35520833333333335,2.0866808645970187
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",12,2023-12-14,Chronos-2,0.3429628182823459,2.0147442585657314
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",13,2023-12-15,SN_diario(m=24),0.35520833333333335,2.083473964753699
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",13,2023-12-15,SN_semanal(m=168),0.20625000000000002,1.2097590763085992
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",13,2023-12-15,Ingenuo,0.55,3.2260242034895983
+"Rebouças/ Eusébio Matoso, Av | Bairro/Centro",13,2023-12-15,Chronos-2,0.44754972370962304,2.6251022562769566
+"Republica da Armenia, Vd | único//",0,2023-12-02,SN_diario(m=24),0.0,0.0
+"Republica da Armenia, Vd | único//",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Republica da Armenia, Vd | único//",0,2023-12-02,Ingenuo,0.0,0.0
+"Republica da Armenia, Vd | único//",0,2023-12-02,Chronos-2,0.00042001142476995784,0.005508926808787575
+"Republica da Armenia, Vd | único//",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Republica da Armenia, Vd | único//",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Republica da Armenia, Vd | único//",1,2023-12-03,Ingenuo,0.0,0.0
+"Republica da Armenia, Vd | único//",1,2023-12-03,Chronos-2,0.0004903950418035189,0.006441409741637123
+"Republica da Armenia, Vd | único//",2,2023-12-04,SN_diario(m=24),0.0,0.0
+"Republica da Armenia, Vd | único//",2,2023-12-04,SN_semanal(m=168),0.0,0.0
+"Republica da Armenia, Vd | único//",2,2023-12-04,Ingenuo,0.0,0.0
+"Republica da Armenia, Vd | único//",2,2023-12-04,Chronos-2,0.0004484547923008601,0.0058990431323903475
+"Republica da Armenia, Vd | único//",3,2023-12-05,SN_diario(m=24),0.0,0.0
+"Republica da Armenia, Vd | único//",3,2023-12-05,SN_semanal(m=168),0.0,0.0
+"Republica da Armenia, Vd | único//",3,2023-12-05,Ingenuo,0.0,0.0
+"Republica da Armenia, Vd | único//",3,2023-12-05,Chronos-2,0.0004420247860252857,0.005822864244964862
+"Republica da Armenia, Vd | único//",4,2023-12-06,SN_diario(m=24),0.0,0.0
+"Republica da Armenia, Vd | único//",4,2023-12-06,SN_semanal(m=168),0.0,0.0
+"Republica da Armenia, Vd | único//",4,2023-12-06,Ingenuo,0.0,0.0
+"Republica da Armenia, Vd | único//",4,2023-12-06,Chronos-2,0.0003410857170820236,0.004499661169441452
+"Republica da Armenia, Vd | único//",5,2023-12-07,SN_diario(m=24),0.0,0.0
+"Republica da Armenia, Vd | único//",5,2023-12-07,SN_semanal(m=168),0.0,0.0
+"Republica da Armenia, Vd | único//",5,2023-12-07,Ingenuo,0.0,0.0
+"Republica da Armenia, Vd | único//",5,2023-12-07,Chronos-2,0.00040439314519365627,0.005342510664250045
+"Republica da Armenia, Vd | único//",6,2023-12-08,SN_diario(m=24),0.0,0.0
+"Republica da Armenia, Vd | único//",6,2023-12-08,SN_semanal(m=168),0.0,0.0
+"Republica da Armenia, Vd | único//",6,2023-12-08,Ingenuo,0.0,0.0
+"Republica da Armenia, Vd | único//",6,2023-12-08,Chronos-2,0.00032243117069204647,0.0042658253187671975
+"Republica da Armenia, Vd | único//",7,2023-12-09,SN_diario(m=24),0.0,0.0
+"Republica da Armenia, Vd | único//",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Republica da Armenia, Vd | único//",7,2023-12-09,Ingenuo,0.0,0.0
+"Republica da Armenia, Vd | único//",7,2023-12-09,Chronos-2,0.00044684531167149544,0.005920341949093217
+"Republica da Armenia, Vd | único//",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Republica da Armenia, Vd | único//",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Republica da Armenia, Vd | único//",8,2023-12-10,Ingenuo,0.0,0.0
+"Republica da Armenia, Vd | único//",8,2023-12-10,Chronos-2,0.0003285342827439308,0.004359060790062095
+"Republica da Armenia, Vd | único//",9,2023-12-11,SN_diario(m=24),0.0,0.0
+"Republica da Armenia, Vd | único//",9,2023-12-11,SN_semanal(m=168),0.0,0.0
+"Republica da Armenia, Vd | único//",9,2023-12-11,Ingenuo,0.0,0.0
+"Republica da Armenia, Vd | único//",9,2023-12-11,Chronos-2,0.0004276147422691186,0.005681809295116008
+"Republica da Armenia, Vd | único//",10,2023-12-12,SN_diario(m=24),0.0,0.0
+"Republica da Armenia, Vd | único//",10,2023-12-12,SN_semanal(m=168),0.0,0.0
+"Republica da Armenia, Vd | único//",10,2023-12-12,Ingenuo,0.0,0.0
+"Republica da Armenia, Vd | único//",10,2023-12-12,Chronos-2,0.00032898737117648125,0.004377579832012784
+"Republica da Armenia, Vd | único//",11,2023-12-13,SN_diario(m=24),0.0,0.0
+"Republica da Armenia, Vd | único//",11,2023-12-13,SN_semanal(m=168),0.0,0.0
+"Republica da Armenia, Vd | único//",11,2023-12-13,Ingenuo,0.0,0.0
+"Republica da Armenia, Vd | único//",11,2023-12-13,Chronos-2,0.0004046286145846049,0.005391770743074541
+"Republica da Armenia, Vd | único//",12,2023-12-14,SN_diario(m=24),0.0,0.0
+"Republica da Armenia, Vd | único//",12,2023-12-14,SN_semanal(m=168),0.0,0.0
+"Republica da Armenia, Vd | único//",12,2023-12-14,Ingenuo,0.0,0.0
+"Republica da Armenia, Vd | único//",12,2023-12-14,Chronos-2,0.0003484180197119713,0.00464937448555783
+"Republica da Armenia, Vd | único//",13,2023-12-15,SN_diario(m=24),0.0,0.0
+"Republica da Armenia, Vd | único//",13,2023-12-15,SN_semanal(m=168),0.0,0.0
+"Republica da Armenia, Vd | único//",13,2023-12-15,Ingenuo,0.0,0.0
+"Republica da Armenia, Vd | único//",13,2023-12-15,Chronos-2,0.0003626067191362381,0.004845604680992462
+"Sebastião Camargo, Túnel | unico//",0,2023-12-02,SN_diario(m=24),0.01991666666666667,0.2752171825055985
+"Sebastião Camargo, Túnel | unico//",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Sebastião Camargo, Túnel | unico//",0,2023-12-02,Ingenuo,0.0,0.0
+"Sebastião Camargo, Túnel | unico//",0,2023-12-02,Chronos-2,0.00048436038196086884,0.006693102910825398
+"Sebastião Camargo, Túnel | unico//",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Sebastião Camargo, Túnel | unico//",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Sebastião Camargo, Túnel | unico//",1,2023-12-03,Ingenuo,0.0,0.0
+"Sebastião Camargo, Túnel | unico//",1,2023-12-03,Chronos-2,0.0004599466919898987,0.006362626769348326
+"Sebastião Camargo, Túnel | unico//",2,2023-12-04,SN_diario(m=24),0.0,0.0
+"Sebastião Camargo, Túnel | unico//",2,2023-12-04,SN_semanal(m=168),0.12125000000000001,1.679803235363953
+"Sebastião Camargo, Túnel | unico//",2,2023-12-04,Ingenuo,0.0,0.0
+"Sebastião Camargo, Túnel | unico//",2,2023-12-04,Chronos-2,0.08119095753257473,1.1248233661485882
+"Sebastião Camargo, Túnel | unico//",3,2023-12-05,SN_diario(m=24),0.060625000000000005,0.8411533339527394
+"Sebastião Camargo, Túnel | unico//",3,2023-12-05,SN_semanal(m=168),0.22229166666666667,3.0842288911600444
+"Sebastião Camargo, Túnel | unico//",3,2023-12-05,Ingenuo,0.060625000000000005,0.8411533339527394
+"Sebastião Camargo, Túnel | unico//",3,2023-12-05,Chronos-2,0.04207402739052971,0.5837642624719661
+"Sebastião Camargo, Túnel | unico//",4,2023-12-06,SN_diario(m=24),0.08083333333333333,1.1218025551205084
+"Sebastião Camargo, Túnel | unico//",4,2023-12-06,SN_semanal(m=168),0.2020833333333333,2.804506387801271
+"Sebastião Camargo, Túnel | unico//",4,2023-12-06,Ingenuo,0.14145833333333332,1.96315447146089
+"Sebastião Camargo, Túnel | unico//",4,2023-12-06,Chronos-2,0.0856714152606825,1.1889453097759641
+"Sebastião Camargo, Túnel | unico//",5,2023-12-07,SN_diario(m=24),0.0,0.0
+"Sebastião Camargo, Túnel | unico//",5,2023-12-07,SN_semanal(m=168),0.060625000000000005,0.841199898095641
+"Sebastião Camargo, Túnel | unico//",5,2023-12-07,Ingenuo,0.14145833333333332,1.962799762223162
+"Sebastião Camargo, Túnel | unico//",5,2023-12-07,Chronos-2,0.07119416633620858,0.9878519664663549
+"Sebastião Camargo, Túnel | unico//",6,2023-12-08,SN_diario(m=24),0.14145833333333332,1.965711928042484
+"Sebastião Camargo, Túnel | unico//",6,2023-12-08,SN_semanal(m=168),0.01991666666666667,0.27676297543573125
+"Sebastião Camargo, Túnel | unico//",6,2023-12-08,Ingenuo,0.0,0.0
+"Sebastião Camargo, Túnel | unico//",6,2023-12-08,Chronos-2,0.07427844948445757,1.0321769718864167
+"Sebastião Camargo, Túnel | unico//",7,2023-12-09,SN_diario(m=24),0.0,0.0
+"Sebastião Camargo, Túnel | unico//",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Sebastião Camargo, Túnel | unico//",7,2023-12-09,Ingenuo,0.0,0.0
+"Sebastião Camargo, Túnel | unico//",7,2023-12-09,Chronos-2,0.0006763339042663574,0.009384962001872558
+"Sebastião Camargo, Túnel | unico//",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Sebastião Camargo, Túnel | unico//",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Sebastião Camargo, Túnel | unico//",8,2023-12-10,Ingenuo,0.0,0.0
+"Sebastião Camargo, Túnel | unico//",8,2023-12-10,Chronos-2,0.0005677187194426855,0.007889446707308415
+"Sebastião Camargo, Túnel | unico//",9,2023-12-11,SN_diario(m=24),0.08083333333333333,1.1249801145062324
+"Sebastião Camargo, Túnel | unico//",9,2023-12-11,SN_semanal(m=168),0.08083333333333333,1.1249801145062324
+"Sebastião Camargo, Túnel | unico//",9,2023-12-11,Ingenuo,0.08083333333333333,1.1249801145062324
+"Sebastião Camargo, Túnel | unico//",9,2023-12-11,Chronos-2,0.11613238240281741,1.616246855918389
+"Sebastião Camargo, Túnel | unico//",10,2023-12-12,SN_diario(m=24),0.10104166666666665,1.4059663539782807
+"Sebastião Camargo, Túnel | unico//",10,2023-12-12,SN_semanal(m=168),0.12125000000000001,1.6871596247739373
+"Sebastião Camargo, Túnel | unico//",10,2023-12-12,Ingenuo,0.181875,2.5307394371609058
+"Sebastião Camargo, Túnel | unico//",10,2023-12-12,Chronos-2,0.12020916809017461,1.6726767416858237
+"Sebastião Camargo, Túnel | unico//",11,2023-12-13,SN_diario(m=24),0.22229166666666667,3.091280455435134
+"Sebastião Camargo, Túnel | unico//",11,2023-12-13,SN_semanal(m=168),0.22229166666666667,3.091280455435134
+"Sebastião Camargo, Túnel | unico//",11,2023-12-13,Ingenuo,0.28291666666666665,3.934356943281079
+"Sebastião Camargo, Túnel | unico//",11,2023-12-13,Chronos-2,0.242959655392915,3.378698110629609
+"Sebastião Camargo, Túnel | unico//",12,2023-12-14,SN_diario(m=24),0.22229166666666667,3.0818165161583653
+"Sebastião Camargo, Túnel | unico//",12,2023-12-14,SN_semanal(m=168),0.04041666666666666,0.5603302756651574
+"Sebastião Camargo, Túnel | unico//",12,2023-12-14,Ingenuo,0.10104166666666665,1.4008256891628932
+"Sebastião Camargo, Túnel | unico//",12,2023-12-14,Chronos-2,0.049559699756403765,0.6870878406529027
+"Sebastião Camargo, Túnel | unico//",13,2023-12-15,SN_diario(m=24),0.02020833333333333,0.2793125316133957
+"Sebastião Camargo, Túnel | unico//",13,2023-12-15,SN_semanal(m=168),0.12125000000000001,1.6758751896803743
+"Sebastião Camargo, Túnel | unico//",13,2023-12-15,Ingenuo,0.12125000000000001,1.6758751896803743
+"Sebastião Camargo, Túnel | unico//",13,2023-12-15,Chronos-2,0.10326333172619344,1.4272697372673142
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",0,2023-12-02,SN_diario(m=24),0.24718749999999998,1.5636247345467051
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",0,2023-12-02,SN_semanal(m=168),0.15356250000000002,0.9713845696033516
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",0,2023-12-02,Ingenuo,0.15356250000000002,0.9713845696033516
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",0,2023-12-02,Chronos-2,0.15506189892192682,0.9808692613506179
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",1,2023-12-03,SN_diario(m=24),0.15356250000000002,0.9705836253307565
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",1,2023-12-03,Ingenuo,0.0,0.0
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",1,2023-12-03,Chronos-2,0.0036252370725075402,0.02291311837537046
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",2,2023-12-04,SN_diario(m=24),0.42,2.6547018623711245
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",2,2023-12-04,SN_semanal(m=168),0.017499999999999998,0.11061257759879685
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",2,2023-12-04,Ingenuo,0.42,2.6547018623711245
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",2,2023-12-04,Chronos-2,0.03543948970735073,0.2240030460180626
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",3,2023-12-05,SN_diario(m=24),0.0525,0.3310380695697733
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",3,2023-12-05,SN_semanal(m=168),0.0545,0.3436490436486218
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",3,2023-12-05,Ingenuo,0.4725,2.979342626127959
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",3,2023-12-05,Chronos-2,0.031621648718913396,0.19938989616233496
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",4,2023-12-06,SN_diario(m=24),0.034999999999999996,0.22090746720449542
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",4,2023-12-06,SN_semanal(m=168),0.06999999999999999,0.44181493440899083
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",4,2023-12-06,Ingenuo,0.4375,2.761343340056193
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",4,2023-12-06,Chronos-2,0.042672091747323664,0.2693309630919749
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",5,2023-12-07,SN_diario(m=24),0.06999999999999999,0.44231654360295436
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",5,2023-12-07,SN_semanal(m=168),0.034999999999999996,0.22115827180147718
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",5,2023-12-07,Ingenuo,0.4725,2.985636669319942
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",5,2023-12-07,Chronos-2,0.05735392443835735,0.36240842313770344
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",6,2023-12-08,SN_diario(m=24),0.16087499999999996,1.0173628598336364
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",6,2023-12-08,SN_semanal(m=168),0.15937499999999996,1.0078769590426468
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",6,2023-12-08,Ingenuo,0.34625,2.1896620992534372
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",6,2023-12-08,Chronos-2,0.12313318509856856,0.7786861186157218
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",7,2023-12-09,SN_diario(m=24),0.34625,2.1896069209688807
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",7,2023-12-09,SN_semanal(m=168),0.15356250000000002,0.9710946218087618
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",7,2023-12-09,Ingenuo,0.0,0.0
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",7,2023-12-09,Chronos-2,0.0029887153456608453,0.018899961893617003
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",8,2023-12-10,Ingenuo,0.0,0.0
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",8,2023-12-10,Chronos-2,0.0027608623107274375,0.0174290218624424
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",9,2023-12-11,SN_diario(m=24),0.385,2.433985309567994
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",9,2023-12-11,SN_semanal(m=168),0.14,0.8850855671156344
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",9,2023-12-11,Ingenuo,0.385,2.433985309567994
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",9,2023-12-11,Chronos-2,0.14196893073618413,0.897533225524541
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",10,2023-12-12,SN_diario(m=24),0.11024999999999996,0.6955635143615588
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",10,2023-12-12,SN_semanal(m=168),0.02724999999999995,0.17191932667893378
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",10,2023-12-12,Ingenuo,0.47950000000000004,3.0251492529375748
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",10,2023-12-12,Chronos-2,0.05953202282885709,0.37558551488337777
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",11,2023-12-13,SN_diario(m=24),0.043249999999999955,0.27298270647302336
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",11,2023-12-13,SN_semanal(m=168),0.017499999999999998,0.11045543036480725
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",11,2023-12-13,Ingenuo,0.455,2.871841189484989
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",11,2023-12-13,Chronos-2,0.04029105640947817,0.25430662717495073
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",12,2023-12-14,SN_diario(m=24),0.105,0.6634275725609682
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",12,2023-12-14,SN_semanal(m=168),0.1225,0.773998834654463
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",12,2023-12-14,Ingenuo,0.5599999999999999,3.5382803869918305
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",12,2023-12-14,Chronos-2,0.10331721084813277,0.6527951085404424
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",13,2023-12-15,SN_diario(m=24),0.1415,0.8944808098692966
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",13,2023-12-15,SN_semanal(m=168),0.14124999999999996,0.8929004550815415
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",13,2023-12-15,Ingenuo,0.4215,2.6644781721548307
+"Trib de Justiça, Túnel | Ibirapuera/Marginal",13,2023-12-15,Chronos-2,0.3114767788648605,1.9689752750142775
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,0,2023-12-02,SN_diario(m=24),0.4718125,3.6334450975650587
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,0,2023-12-02,SN_semanal(m=168),0.3570208333333334,2.7494303279450887
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,0,2023-12-02,Ingenuo,0.3570208333333334,2.7494303279450887
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,0,2023-12-02,Chronos-2,0.3582162662620347,2.7586364000908192
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,1,2023-12-03,SN_diario(m=24),0.3570208333333334,2.7389918551906427
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,1,2023-12-03,SN_semanal(m=168),0.0,0.0
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,1,2023-12-03,Ingenuo,0.0,0.0
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,1,2023-12-03,Chronos-2,0.0017289873212575912,0.013264442151561917
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,2,2023-12-04,SN_diario(m=24),0.22833333333333336,1.7473362540387014
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,2,2023-12-04,SN_semanal(m=168),0.05808333333333334,0.44448663104561126
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,2,2023-12-04,Ingenuo,0.22833333333333336,1.7473362540387014
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,2,2023-12-04,Chronos-2,0.08574933679153522,0.6562025909589378
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,3,2023-12-05,SN_diario(m=24),0.2085416666666667,1.5941600344160038
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,3,2023-12-05,SN_semanal(m=168),0.15708333333333332,1.200795870079587
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,3,2023-12-05,Ingenuo,0.22937500000000002,1.7534167811109092
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,3,2023-12-05,Chronos-2,0.218199956274281,1.6679911279302055
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,4,2023-12-06,SN_diario(m=24),0.18687500000000004,1.4273110420926507
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,4,2023-12-06,SN_semanal(m=168),0.12166666666666666,0.9292638222765972
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,4,2023-12-06,Ingenuo,0.24500000000000002,1.871257285954244
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,4,2023-12-06,Chronos-2,0.13787528164063892,1.053061736012404
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,5,2023-12-07,SN_diario(m=24),0.3006666666666667,2.2950162500652107
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,5,2023-12-07,SN_semanal(m=168),0.173875,1.3272038264304495
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,5,2023-12-07,Ingenuo,0.5456666666666666,4.16512372655959
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,5,2023-12-07,Chronos-2,0.34758581768969693,2.6531544342241404
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,6,2023-12-08,SN_diario(m=24),0.19629166666666664,1.4955296341333253
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,6,2023-12-08,SN_semanal(m=168),0.14458333333333337,1.1015682085422713
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,6,2023-12-08,Ingenuo,0.36062500000000003,2.7475714250528407
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,6,2023-12-08,Chronos-2,0.10350130929301182,0.7885677362052972
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,7,2023-12-09,SN_diario(m=24),0.26229166666666665,1.9969583310007653
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,7,2023-12-09,SN_semanal(m=168),0.40743750000000006,3.1020265352964236
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,7,2023-12-09,Ingenuo,0.14208333333333334,1.0817518520591913
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,7,2023-12-09,Chronos-2,0.14118289093176525,1.074896331339645
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,8,2023-12-10,SN_diario(m=24),0.16041666666666668,1.2195907860603674
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,8,2023-12-10,SN_semanal(m=168),0.13749999999999998,1.0453635309088862
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,8,2023-12-10,Ingenuo,0.0825,0.6272181185453318
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,8,2023-12-10,Chronos-2,0.07947195830444495,0.6041969959372973
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,9,2023-12-11,SN_diario(m=24),0.38083333333333336,2.894430918581757
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,9,2023-12-11,SN_semanal(m=168),0.18916666666666662,1.4377151389891873
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,9,2023-12-11,Ingenuo,0.38999999999999996,2.9640999341274883
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,9,2023-12-11,Chronos-2,0.14424606063092746,1.0963070226007225
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,10,2023-12-12,SN_diario(m=24),0.14937499999999998,1.1322241041240118
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,10,2023-12-12,SN_semanal(m=168),0.07,0.5305820069535119
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,10,2023-12-12,Ingenuo,0.240625,1.823875648902697
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,10,2023-12-12,Chronos-2,0.1411997943247358,1.0702581464891632
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,11,2023-12-13,SN_diario(m=24),0.14000000000000004,1.0609638926513696
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,11,2023-12-13,SN_semanal(m=168),0.10312499999999998,0.7815135816405173
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,11,2023-12-13,Ingenuo,0.32312500000000005,2.4487425558069553
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,11,2023-12-13,Chronos-2,0.09900565846512716,0.7502959199976663
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,12,2023-12-14,SN_diario(m=24),0.17333333333333334,1.313460278252156
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,12,2023-12-14,SN_semanal(m=168),0.30754166666666666,2.330444786966145
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,12,2023-12-14,Ingenuo,0.23812500000000003,1.8044292043776617
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,12,2023-12-14,Chronos-2,0.1317448918893933,0.9983173982269774
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,13,2023-12-15,SN_diario(m=24),0.314375,2.3811636967972283
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,13,2023-12-15,SN_semanal(m=168),0.268125,2.0308533318608566
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,13,2023-12-15,Ingenuo,0.36999999999999994,2.8024829194909717
+Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana,13,2023-12-15,Chronos-2,0.21630067907894654,1.6383215097109352
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,0,2023-12-02,SN_diario(m=24),0.4991041666666667,1.2397582831243557
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,0,2023-12-02,SN_semanal(m=168),0.40343749999999995,1.0021254394416306
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,0,2023-12-02,Ingenuo,0.40343749999999995,1.0021254394416306
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,0,2023-12-02,Chronos-2,0.4045689451694488,1.0049359119129255
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,1,2023-12-03,SN_diario(m=24),0.46581249999999996,1.1566650048751572
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,1,2023-12-03,SN_semanal(m=168),0.06237499999999999,0.1548841640769364
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,1,2023-12-03,Ingenuo,0.06237499999999999,0.1548841640769364
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,1,2023-12-03,Chronos-2,0.06306367082397142,0.15659421145000235
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,2,2023-12-04,SN_diario(m=24),0.51675,1.2828606296639613
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,2,2023-12-04,SN_semanal(m=168),0.471875,1.1714559450850153
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,2,2023-12-04,Ingenuo,0.45437500000000003,1.1280112212937832
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,2,2023-12-04,Chronos-2,0.46400478762884934,1.151917704933988
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,3,2023-12-05,SN_diario(m=24),1.0070833333333333,2.4991291050217246
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,3,2023-12-05,SN_semanal(m=168),1.0483333333333333,2.601493102289888
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,3,2023-12-05,Ingenuo,1.4614583333333335,3.6266840446271
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,3,2023-12-05,Chronos-2,1.0112234979867936,2.5094031366163074
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,4,2023-12-06,SN_diario(m=24),0.5407083333333333,1.338928082232668
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,4,2023-12-06,SN_semanal(m=168),0.959625,2.376269758950495
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,4,2023-12-06,Ingenuo,1.1603333333333332,2.873273424829724
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,4,2023-12-06,Chronos-2,0.5825443842113018,1.4425245314031572
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,5,2023-12-07,SN_diario(m=24),0.6409166666666667,1.5863018309556223
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,5,2023-12-07,SN_semanal(m=168),0.4822916666666666,1.193696768515884
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,5,2023-12-07,Ingenuo,0.8241666666666667,2.0398550394163446
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,5,2023-12-07,Chronos-2,0.30861772055427233,0.763844787695633
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,6,2023-12-08,SN_diario(m=24),0.10312500000000002,0.25502670261460175
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,6,2023-12-08,SN_semanal(m=168),0.08291666666666667,0.20505177301133629
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,6,2023-12-08,Ingenuo,0.7210416666666667,1.7831260964629019
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,6,2023-12-08,Chronos-2,0.07111844897270203,0.17587494338495036
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,7,2023-12-09,SN_diario(m=24),0.7210416666666667,1.7850176903671466
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,7,2023-12-09,SN_semanal(m=168),0.40343749999999995,0.9987537582767925
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,7,2023-12-09,Ingenuo,0.0,0.0
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,7,2023-12-09,Chronos-2,0.0030716719726721444,0.007604260701843021
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,8,2023-12-10,SN_diario(m=24),0.0,0.0
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,8,2023-12-10,SN_semanal(m=168),0.06237499999999999,0.1542441555157073
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,8,2023-12-10,Ingenuo,0.0,0.0
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,8,2023-12-10,Chronos-2,0.004899275799592336,0.012115184903353293
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,9,2023-12-11,SN_diario(m=24),0.8408333333333333,2.082210041395686
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,9,2023-12-11,SN_semanal(m=168),0.38645833333333335,0.9570118004928141
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,9,2023-12-11,Ingenuo,0.8408333333333333,2.082210041395686
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,9,2023-12-11,Chronos-2,0.6010709836582343,1.488471006261357
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,10,2023-12-12,SN_diario(m=24),0.562375,1.3905141507616767
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,10,2023-12-12,SN_semanal(m=168),0.5810833333333333,1.43677190090556
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,10,2023-12-12,Ingenuo,1.134625,2.8054449758754703
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,10,2023-12-12,Chronos-2,0.2852332752595345,0.7052605565974363
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,11,2023-12-13,SN_diario(m=24),0.4687083333333333,1.1582765497381184
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,11,2023-12-13,SN_semanal(m=168),0.8762500000000001,2.1653974434165377
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,11,2023-12-13,Ingenuo,0.7539166666666667,1.863086131297139
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,11,2023-12-13,Chronos-2,0.37068798978130024,0.9160477322426741
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,12,2023-12-14,SN_diario(m=24),0.5280416666666667,1.3046100034285606
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,12,2023-12-14,SN_semanal(m=168),0.48104166666666676,1.188489109885799
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,12,2023-12-14,Ingenuo,1.1756250000000001,2.9045664993874247
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,12,2023-12-14,Chronos-2,0.5082533953587215,1.2557199662807905
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,13,2023-12-15,SN_diario(m=24),0.8744166666666665,2.1594561547242126
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,13,2023-12-15,SN_semanal(m=168),0.5790000000000001,1.4298962511220656
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,13,2023-12-15,Ingenuo,0.45462500000000006,1.1227402127225719
+Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto,13,2023-12-15,Chronos-2,0.6489422809978326,1.6026254486932692
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,0,2023-12-02,SN_diario(m=24),1.013625,1.6143824476787991
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,0,2023-12-02,SN_semanal(m=168),0.052083333333333336,0.08295219548643477
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,0,2023-12-02,Ingenuo,0.052083333333333336,0.08295219548643477
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,0,2023-12-02,Chronos-2,0.06143572429815928,0.09784758166716709
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,1,2023-12-03,SN_diario(m=24),0.052083333333333336,0.08287893022023378
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,1,2023-12-03,SN_semanal(m=168),0.0,0.0
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,1,2023-12-03,Ingenuo,0.0,0.0
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,1,2023-12-03,Chronos-2,0.010982217888037363,0.017475733824116192
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,2,2023-12-04,SN_diario(m=24),1.5452083333333333,2.46209641283142
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,2,2023-12-04,SN_semanal(m=168),0.6375000000000002,1.015776597446966
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,2,2023-12-04,Ingenuo,1.5452083333333333,2.46209641283142
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,2,2023-12-04,Chronos-2,0.875224694053332,1.3945611948659689
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,3,2023-12-05,SN_diario(m=24),0.8246458333333334,1.3112195555483739
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,3,2023-12-05,SN_semanal(m=168),0.38864583333333336,0.6179622769561407
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,3,2023-12-05,Ingenuo,1.0238125,1.6279024484832816
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,3,2023-12-05,Chronos-2,0.46314101743698116,0.7364125719100908
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,4,2023-12-06,SN_diario(m=24),2.5604583333333335,4.069415776652698
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,4,2023-12-06,SN_semanal(m=168),3.0870208333333333,4.906297875844712
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,4,2023-12-06,Ingenuo,3.5613124999999997,5.660104319769752
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,4,2023-12-06,Chronos-2,2.7724215297500288,4.40629545336468
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,5,2023-12-07,SN_diario(m=24),2.3683541666666668,3.7476422019603395
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,5,2023-12-07,SN_semanal(m=168),0.7790208333333334,1.2327089386784333
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,5,2023-12-07,Ingenuo,1.324625,2.0960634273541077
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,5,2023-12-07,Chronos-2,0.7803596015473206,1.2348273820801832
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,6,2023-12-08,SN_diario(m=24),0.5965416666666666,0.9402663611098874
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,6,2023-12-08,SN_semanal(m=168),0.6755416666666667,1.0647858149524765
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,6,2023-12-08,Ingenuo,1.4669166666666669,2.312147622353475
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,6,2023-12-08,Chronos-2,0.3871200700799624,0.6101769582007809
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,7,2023-12-09,SN_diario(m=24),1.4669166666666669,2.3123446619555104
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,7,2023-12-09,SN_semanal(m=168),0.052083333333333336,0.08210051773687405
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,7,2023-12-09,Ingenuo,0.0,0.0
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,7,2023-12-09,Chronos-2,0.010888037582238516,0.01716313963469423
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,8,2023-12-10,SN_diario(m=24),0.0,0.0
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,8,2023-12-10,SN_semanal(m=168),0.0,0.0
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,8,2023-12-10,Ingenuo,0.0,0.0
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,8,2023-12-10,Chronos-2,0.009371794760227203,0.014745474943129064
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,9,2023-12-11,SN_diario(m=24),1.5066249999999999,2.3738833743451275
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,9,2023-12-11,SN_semanal(m=168),0.7660833333333334,1.2070637938192297
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,9,2023-12-11,Ingenuo,1.5066249999999999,2.3738833743451275
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,9,2023-12-11,Chronos-2,0.3513113250931104,0.5535366224891337
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,10,2023-12-12,SN_diario(m=24),0.7234791666666668,1.137715100368732
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,10,2023-12-12,SN_semanal(m=168),0.6523333333333334,1.0258339396649794
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,10,2023-12-12,Ingenuo,1.024604166666667,1.6112525225684518
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,10,2023-12-12,Chronos-2,0.5534203019142151,0.8702871669952604
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,11,2023-12-13,SN_diario(m=24),0.2852291666666667,0.4484526541122383
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,11,2023-12-13,SN_semanal(m=168),2.7084375,4.258351274403735
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,11,2023-12-13,Ingenuo,0.8886250000000001,1.3971440733696159
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,11,2023-12-13,Chronos-2,0.5131501883963744,0.8068023569745351
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,12,2023-12-14,SN_diario(m=24),0.4955,0.7796608737186488
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,12,2023-12-14,SN_semanal(m=168),0.8300000000000001,1.3059909690948104
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,12,2023-12-14,Ingenuo,1.119625,1.761711010569611
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,12,2023-12-14,Chronos-2,0.7370350015064081,1.1597121155110228
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,13,2023-12-15,SN_diario(m=24),0.5274375000000001,0.830172716426824
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,13,2023-12-15,SN_semanal(m=168),0.8360625,1.3159403279584811
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,13,2023-12-15,Ingenuo,2.0026458333333337,3.1521117317202396
+Vinte Três/R Berta/M Guimarães | Aeroporto/Santana,13,2023-12-15,Chronos-2,1.0616866390307742,1.671066773064567
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,0,2023-12-02,SN_diario(m=24),1.1674375,1.8226948117360005
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,0,2023-12-02,SN_semanal(m=168),0.0375,0.058547935491279
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,0,2023-12-02,Ingenuo,0.0375,0.058547935491279
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,0,2023-12-02,Chronos-2,0.04635865340630213,0.07237875864252637
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,1,2023-12-03,SN_diario(m=24),0.0375,0.05847891067577122
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,1,2023-12-03,SN_semanal(m=168),0.0,0.0
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,1,2023-12-03,Ingenuo,0.0,0.0
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,1,2023-12-03,Chronos-2,0.009389164547125498,0.014641816396572532
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,2,2023-12-04,SN_diario(m=24),1.9911666666666665,3.109294281311324
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,2,2023-12-04,SN_semanal(m=168),0.74225,1.159056004170083
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,2,2023-12-04,Ingenuo,1.9911666666666665,3.109294281311324
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,2,2023-12-04,Chronos-2,0.8968987147212029,1.4005467705355885
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,3,2023-12-05,SN_diario(m=24),0.8793333333333333,1.3689866172118719
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,3,2023-12-05,SN_semanal(m=168),1.0070208333333335,1.567776395853162
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,3,2023-12-05,Ingenuo,1.1118333333333332,1.7309533213457917
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,3,2023-12-05,Chronos-2,0.692360570003589,1.0778988111676613
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,4,2023-12-06,SN_diario(m=24),1.0472083333333335,1.6294832067765668
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,4,2023-12-06,SN_semanal(m=168),1.0889166666666668,1.6943824503998246
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,4,2023-12-06,Ingenuo,2.1590416666666665,3.3595245822441147
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,4,2023-12-06,Chronos-2,0.971082871089379,1.5110300218789794
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,5,2023-12-07,SN_diario(m=24),0.8737499999999999,1.3583577845934007
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,5,2023-12-07,SN_semanal(m=168),0.3354374999999999,0.5214811323256637
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,5,2023-12-07,Ingenuo,1.4281249999999999,2.2202056779656085
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,5,2023-12-07,Chronos-2,0.5374389570355415,0.835518616346765
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,6,2023-12-08,SN_diario(m=24),0.6073750000000001,0.943761500101588
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,6,2023-12-08,SN_semanal(m=168),0.9266041666666668,1.439791460520626
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,6,2023-12-08,Ingenuo,1.515875,2.3554220439868194
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,6,2023-12-08,Chronos-2,0.46079768919944764,0.7160043110141443
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,7,2023-12-09,SN_diario(m=24),1.515875,2.355610487799307
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,7,2023-12-09,SN_semanal(m=168),0.0375,0.05827353396056667
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,7,2023-12-09,Ingenuo,0.0,0.0
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,7,2023-12-09,Chronos-2,0.008650312821070353,0.013442247945284494
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,8,2023-12-10,SN_diario(m=24),0.0,0.0
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,8,2023-12-10,SN_semanal(m=168),0.0,0.0
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,8,2023-12-10,Ingenuo,0.0,0.0
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,8,2023-12-10,Chronos-2,0.008648797869682312,0.01341406387563054
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,9,2023-12-11,SN_diario(m=24),0.9793750000000001,1.5211431790036112
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,9,2023-12-11,SN_semanal(m=168),1.0117916666666666,1.5714920151348515
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,9,2023-12-11,Ingenuo,0.9793750000000001,1.5211431790036112
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,9,2023-12-11,Chronos-2,0.8756576693157356,1.3600517583375427
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,10,2023-12-12,SN_diario(m=24),1.0106666666666666,1.5685868175122388
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,10,2023-12-12,SN_semanal(m=168),0.45179166666666665,0.7011950388475101
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,10,2023-12-12,Ingenuo,1.248625,1.9379057206624863
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,10,2023-12-12,Chronos-2,0.7562337849338849,1.1736988911655781
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,11,2023-12-13,SN_diario(m=24),0.4141250000000001,0.6422186858580835
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,11,2023-12-13,SN_semanal(m=168),1.3004583333333335,2.0167307983013023
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,11,2023-12-13,Ingenuo,0.9523333333333334,1.4768638981761097
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,11,2023-12-13,Chronos-2,0.5871112266679605,0.9104830677771805
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,12,2023-12-14,SN_diario(m=24),0.7362291666666666,1.142310133491339
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,12,2023-12-14,SN_semanal(m=168),0.8855208333333332,1.3739464111618713
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,12,2023-12-14,Ingenuo,1.3342708333333333,2.070212866788897
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,12,2023-12-14,Chronos-2,0.6596388212343057,1.023474950539942
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,13,2023-12-15,SN_diario(m=24),1.0257708333333333,1.5912345299891293
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,13,2023-12-15,SN_semanal(m=168),1.0339166666666666,1.6038708137031197
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,13,2023-12-15,Ingenuo,3.1340833333333333,4.861769761631388
+Vinte Três/R Berta/M Guimarães | Santana/Aeroporto,13,2023-12-15,Chronos-2,1.1407615455389022,1.7696147158391626
+"Washington Luis, Av | Bairro/Centro",0,2023-12-02,SN_diario(m=24),0.20666666666666667,0.9993715549457666
+"Washington Luis, Av | Bairro/Centro",0,2023-12-02,SN_semanal(m=168),0.0,0.0
+"Washington Luis, Av | Bairro/Centro",0,2023-12-02,Ingenuo,0.0,0.0
+"Washington Luis, Av | Bairro/Centro",0,2023-12-02,Chronos-2,0.0006808942804733912,0.0032925792378888964
+"Washington Luis, Av | Bairro/Centro",1,2023-12-03,SN_diario(m=24),0.0,0.0
+"Washington Luis, Av | Bairro/Centro",1,2023-12-03,SN_semanal(m=168),0.0,0.0
+"Washington Luis, Av | Bairro/Centro",1,2023-12-03,Ingenuo,0.0,0.0
+"Washington Luis, Av | Bairro/Centro",1,2023-12-03,Chronos-2,0.002060030276576678,0.009961633185521823
+"Washington Luis, Av | Bairro/Centro",2,2023-12-04,SN_diario(m=24),0.205,0.9927414095017667
+"Washington Luis, Av | Bairro/Centro",2,2023-12-04,SN_semanal(m=168),0.4925,2.38500070331522
+"Washington Luis, Av | Bairro/Centro",2,2023-12-04,Ingenuo,0.205,0.9927414095017667
+"Washington Luis, Av | Bairro/Centro",2,2023-12-04,Chronos-2,0.35981836549937724,1.7424711772218227
+"Washington Luis, Av | Bairro/Centro",3,2023-12-05,SN_diario(m=24),0.15125,0.7324570933732909
+"Washington Luis, Av | Bairro/Centro",3,2023-12-05,SN_semanal(m=168),0.3472916666666667,1.681826411368149
+"Washington Luis, Av | Bairro/Centro",3,2023-12-05,Ingenuo,0.35624999999999996,1.725208856292462
+"Washington Luis, Av | Bairro/Centro",3,2023-12-05,Chronos-2,0.13650766390065353,0.6610645072651292
+"Washington Luis, Av | Bairro/Centro",4,2023-12-06,SN_diario(m=24),0.39291666666666664,1.9035048711225742
+"Washington Luis, Av | Bairro/Centro",4,2023-12-06,SN_semanal(m=168),0.09987499999999995,0.4838495414719839
+"Washington Luis, Av | Bairro/Centro",4,2023-12-06,Ingenuo,0.7491666666666665,3.6293762017798388
+"Washington Luis, Av | Bairro/Centro",4,2023-12-06,Chronos-2,0.27516136432687444,1.33303329121766
+"Washington Luis, Av | Bairro/Centro",5,2023-12-07,SN_diario(m=24),0.051666666666666666,0.24997823030188904
+"Washington Luis, Av | Bairro/Centro",5,2023-12-07,SN_semanal(m=168),0.051666666666666666,0.24997823030188904
+"Washington Luis, Av | Bairro/Centro",5,2023-12-07,Ingenuo,0.7491666666666665,3.6246843393773904
+"Washington Luis, Av | Bairro/Centro",5,2023-12-07,Chronos-2,0.06887294520934423,0.3332271669505323
+"Washington Luis, Av | Bairro/Centro",6,2023-12-08,SN_diario(m=24),0.051666666666666666,0.2502467431848428
+"Washington Luis, Av | Bairro/Centro",6,2023-12-08,SN_semanal(m=168),0.5425,2.627590803440849
+"Washington Luis, Av | Bairro/Centro",6,2023-12-08,Ingenuo,0.7491666666666665,3.6285777761802196
+"Washington Luis, Av | Bairro/Centro",6,2023-12-08,Chronos-2,0.06531337762872377,0.3163443878320625
+"Washington Luis, Av | Bairro/Centro",7,2023-12-09,SN_diario(m=24),0.7491666666666665,3.6324684262271374
+"Washington Luis, Av | Bairro/Centro",7,2023-12-09,SN_semanal(m=168),0.0,0.0
+"Washington Luis, Av | Bairro/Centro",7,2023-12-09,Ingenuo,0.0,0.0
+"Washington Luis, Av | Bairro/Centro",7,2023-12-09,Chronos-2,0.00048411451280117035,0.002347315705132705
+"Washington Luis, Av | Bairro/Centro",8,2023-12-10,SN_diario(m=24),0.0,0.0
+"Washington Luis, Av | Bairro/Centro",8,2023-12-10,SN_semanal(m=168),0.0,0.0
+"Washington Luis, Av | Bairro/Centro",8,2023-12-10,Ingenuo,0.0,0.0
+"Washington Luis, Av | Bairro/Centro",8,2023-12-10,Chronos-2,0.0015049750606218975,0.007269839991255072
+"Washington Luis, Av | Bairro/Centro",9,2023-12-11,SN_diario(m=24),0.20666666666666667,0.9997354171873742
+"Washington Luis, Av | Bairro/Centro",9,2023-12-11,SN_semanal(m=168),0.001666666666666668,0.00806238239667238
+"Washington Luis, Av | Bairro/Centro",9,2023-12-11,Ingenuo,0.20666666666666667,0.9997354171873742
+"Washington Luis, Av | Bairro/Centro",9,2023-12-11,Chronos-2,0.4985951586067676,2.411918897890364
+"Washington Luis, Av | Bairro/Centro",10,2023-12-12,SN_diario(m=24),0.4383333333333333,2.120407368366577
+"Washington Luis, Av | Bairro/Centro",10,2023-12-12,SN_semanal(m=168),0.37125,1.7958963547667495
+"Washington Luis, Av | Bairro/Centro",10,2023-12-12,Ingenuo,0.645,3.1201431618169786
+"Washington Luis, Av | Bairro/Centro",10,2023-12-12,Chronos-2,0.371463273242116,1.7969280494147908
+"Washington Luis, Av | Bairro/Centro",11,2023-12-13,SN_diario(m=24),0.12916666666666668,0.6238420339582855
+"Washington Luis, Av | Bairro/Centro",11,2023-12-13,SN_semanal(m=168),0.0775,0.37430522037497127
+"Washington Luis, Av | Bairro/Centro",11,2023-12-13,Ingenuo,0.6716666666666665,3.2439785765830838
+"Washington Luis, Av | Bairro/Centro",11,2023-12-13,Chronos-2,0.05961038142442703,0.28790292846072585
+"Washington Luis, Av | Bairro/Centro",12,2023-12-14,SN_diario(m=24),0.18083333333333332,0.8738450940567994
+"Washington Luis, Av | Bairro/Centro",12,2023-12-14,SN_semanal(m=168),0.155,0.7490100806201139
+"Washington Luis, Av | Bairro/Centro",12,2023-12-14,Ingenuo,0.8525,4.1195554434106265
+"Washington Luis, Av | Bairro/Centro",12,2023-12-14,Chronos-2,0.15190090974171958,0.7340342751736388
+"Washington Luis, Av | Bairro/Centro",13,2023-12-15,SN_diario(m=24),0.62,2.9965757796130745
+"Washington Luis, Av | Bairro/Centro",13,2023-12-15,SN_semanal(m=168),0.5166666666666667,2.4971464830108956
+"Washington Luis, Av | Bairro/Centro",13,2023-12-15,Ingenuo,0.5941666666666666,2.8717184554625295
+"Washington Luis, Av | Bairro/Centro",13,2023-12-15,Chronos-2,0.4830979566772779,2.334902638967254

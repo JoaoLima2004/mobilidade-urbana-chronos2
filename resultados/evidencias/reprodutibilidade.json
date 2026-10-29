@@ -1,0 +1,16 @@
+{
+  "execucao_1": "2026-10-24T18:21:16",
+  "execucao_2": "2026-10-25T18:34:59",
+  "linhas_metricas": [
+    1960,
+    1960
+  ],
+  "linhas_previsoes": [
+    47040,
+    47040
+  ],
+  "max_dif_abs_MAE": 0.0,
+  "max_dif_abs_previsao": 0.0,
+  "max_dif_abs_previsao_chronos": 0.0,
+  "resultado_identico": true
+}

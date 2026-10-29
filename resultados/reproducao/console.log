@@ -1,0 +1,43 @@
+﻿[dados] registros lidos: 598444 | séries mantidas: 35 | descartadas: 0
+[exp] Antônio Joaquim de Moura Andrade, Av | Ibirapuera/Marginal: 14 janelas avaliadas
+[exp] Atilio Fontana, Pte | Interior/Capital: 14 janelas avaliadas
+[exp] Bandeirantes, Av dos | Imigrantes/Marginal: 14 janelas avaliadas
+[exp] Bandeirantes, Av dos | Marginal/Imigrantes: 14 janelas avaliadas
+[exp] Cidade Jardim / Europa / Colômbia | Bairro/Centro: 14 janelas avaliadas
+[exp] Cidade Jardim / Europa / Colômbia | Centro/Bairro: 14 janelas avaliadas
+[exp] Cidade Universitária, Pt | PanAmericana/USP: 14 janelas avaliadas
+[exp] Ferradura | unico//: 14 janelas avaliadas
+[exp] Francisco Matarazzo, Av | Bairro/Centro: 14 janelas avaliadas
+[exp] Francisco Matarazzo, Av | Centro/Bairro: 14 janelas avaliadas
+[exp] Francisco Morato, Av Prof | Bairro/Centro: 14 janelas avaliadas
+[exp] Interlagos, Av I | Bairro/Centro: 14 janelas avaliadas
+[exp] João Dias, Av | Bairro/Centro: 14 janelas avaliadas
+[exp] Juscelino Kubitschek, Av Pres | Pinheiros/Ibirapuera: 14 janelas avaliadas
+[exp] Jânio Quadros, Túnel | unico//: 14 janelas avaliadas
+[exp] Ligação Leste-Oeste | Penha/Lapa: 14 janelas avaliadas
+[exp] Limão / Av. Ordem e Progresso, Pte | Limão/Sumaré: 14 janelas avaliadas
+[exp] Marginal Pinheiros | Castelo/Interlagos: 14 janelas avaliadas
+[exp] Marginal Pinheiros | Interlagos/Castelo: 14 janelas avaliadas
+[exp] Marginal Tietê - Pista Central | Castelo/A.Senna: 14 janelas avaliadas
+[exp] Marginal Tietê | A.Senna/Castelo Branco: 14 janelas avaliadas
+[exp] Marginal Tietê | Castelo/A.Senna: 14 janelas avaliadas
+[exp] Max Feffer Túnel (Cidade Jardim) | Bairro/Centro: 14 janelas avaliadas
+[exp] Pacaembu / Mj Natanael / Abraao Ribeiro | Marginal/Estádio: 14 janelas avaliadas
+[exp] Paulina, Vd Dona | //unico: 14 janelas avaliadas
+[exp] Pompeia, Vd | Marginal/Pompeia: 14 janelas avaliadas
+[exp] Rebouças/ Eusébio Matoso, Av | Bairro/Centro: 14 janelas avaliadas
+[exp] Republica da Armenia, Vd | único//: 14 janelas avaliadas
+[exp] Sebastião Camargo, Túnel | unico//: 14 janelas avaliadas
+[exp] Trib de Justiça, Túnel | Ibirapuera/Marginal: 14 janelas avaliadas
+[exp] Vale/P.Maia/Tirad/S.Dumont | Aeroporto/Santana: 14 janelas avaliadas
+[exp] Vale/P.Maia/Tirad/S.Dumont | Santana/Aeroporto: 14 janelas avaliadas
+[exp] Vinte Três/R Berta/M Guimarães | Aeroporto/Santana: 14 janelas avaliadas
+[exp] Vinte Três/R Berta/M Guimarães | Santana/Aeroporto: 14 janelas avaliadas
+[exp] Washington Luis, Av | Bairro/Centro: 14 janelas avaliadas
+
+=== Resumo por modelo (média entre séries) ===
+           modelo  MAE_mean  MAE_median  MASE_mean  MASE_median  n_series  pct_series_vence_SN_diario
+        Chronos-2     0.301       0.107      0.961        0.897        35                      88.571
+SN_semanal(m=168)     0.386       0.094      1.117        1.113        35                      71.429
+  SN_diario(m=24)     0.425       0.157      1.335        1.225        35                         NaN
+          Ingenuo     0.484       0.170      1.519        1.521        35                      22.857

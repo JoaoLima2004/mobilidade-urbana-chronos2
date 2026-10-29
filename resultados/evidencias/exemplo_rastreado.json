@@ -1,0 +1,32 @@
+{
+  "serie": "Marginal Tietê | Castelo/A.Senna",
+  "instante": "2023-12-05 08:00:00",
+  "arquivo_bruto": "20261024T181309_lentidao_trechos_2023.csv",
+  "registros_brutos": [
+    {
+      "data": "05/12/2023 08:00",
+      "descricao": "De CASA VERDE até FREGUESIA DO O",
+      "tamanho": 3800
+    },
+    {
+      "data": "05/12/2023 08:30",
+      "descricao": "De CASA VERDE até FREGUESIA DO O",
+      "tamanho": 3800
+    }
+  ],
+  "metros_por_meia_hora": {
+    "08:00": 3800,
+    "08:30": 3800
+  },
+  "km_calculado_a_mao": 3.8,
+  "km_na_serie_horaria": 3.8,
+  "confere": true,
+  "previsoes_gravadas": {
+    "SN_diario": 2.57,
+    "SN_semanal": 0.0,
+    "Ingenuo": 0.0,
+    "Chronos-2": 3.0995
+  },
+  "janela": 3,
+  "passo_a_frente": 9
+}
